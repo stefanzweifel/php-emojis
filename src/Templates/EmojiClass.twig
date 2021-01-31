@@ -1,0 +1,66 @@
+<?php
+
+namespace Wnx\Emoji\Emojis;
+
+/**
+ * {{ className }} Emoji class.
+ *
+ * @link {{ url }}
+ * @version {{ version }}
+ * loaded at: {{ loaded_at|date('Y-m-d H:i:s') }}
+ *
+ **/
+class {{ className }} {
+
+    /** TODO: Should be the actual emoji (eg. 😁) */
+    public const SYMBOL = "{{ symbol }}";
+
+    public const HEX = "{{ hex }}";
+
+    public const CODE = "{{ code }}";
+
+    public const NAME = '{{ name }}';
+
+    public const GROUP = '{{ group }}';
+
+    public const SUBGROUP = '{{ subgroup }}';
+
+    public const NAME_WITH_UNDERSCORES = '{{ nameWithUnderscores }}';
+
+    public const TAGS = '{{ tags }}';
+
+    public function symbol(): string
+    {
+        return self::SYMBOL;
+    }
+
+    public function hex(): string
+    {
+         return self::HEX;
+    }
+
+    public function name(): string
+    {
+        return self::NAME;
+    }
+
+    public function group(): string
+    {
+        return self::GROUP;
+    }
+
+    public function subgroup(): string
+    {
+        return self::SUBGROUP;
+    }
+
+    public function name_with_underscores(): string
+    {
+        return self::NAME_WITH_UNDERSCORES;
+    }
+
+    public function tags(): string
+    {
+        return self::TAGS;
+    }
+}

@@ -16,7 +16,14 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0"
+        "php" : "^8.0",
+        "ext-json": "*",
+        "ext-iconv": "*",
+        "ext-mbstring": "*",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/collections": "^8.24",
+        "symfony/console": "^5.2",
+        "twig/twig": "^3.2"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
@@ -26,12 +33,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wnx\\PhpEmojis\\": "src"
+            "Wnx\\Emoji\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Wnx\\PhpEmojis\\Tests\\": "tests"
+            "Wnx\\Emoji\\Tests\\": "tests"
         }
     },
     "scripts": {

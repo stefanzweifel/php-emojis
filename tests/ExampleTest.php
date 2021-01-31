@@ -1,6 +1,6 @@
 <?php
 
-namespace Wnx\PhpEmojis\Tests;
+namespace Wnx\Emoji\Tests;
 
 use PHPUnit\Framework\TestCase;
 
