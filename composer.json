@@ -1,16 +1,17 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "wnx/php-emojis",
+    "description": "Up to date Emojis as PHP Classes",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "wnx",
+        "Emoji",
+        "Emojis"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/stefanzweifel/php-emojis",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Stefan Zweifel",
+            "email": "hello@stefanzweifel.io",
             "role": "Developer"
         }
     ],
@@ -25,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Wnx\\PhpEmojis\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Wnx\\PhpEmojis\\Tests\\": "tests"
         }
     },
     "scripts": {
