@@ -1,6 +1,6 @@
 <?php
 
-namespace Wnx\Emoji;
+namespace Wnx\Emojis;
 
 class Parser
 {

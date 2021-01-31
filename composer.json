@@ -33,12 +33,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wnx\\Emoji\\": "src"
+            "Wnx\\Emojis\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Wnx\\Emoji\\Tests\\": "tests"
+            "Wnx\\Emojis\\Tests\\": "tests"
         }
     },
     "scripts": {

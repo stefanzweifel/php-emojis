@@ -1,6 +1,6 @@
 <?php
 
-namespace Wnx\Emoji\Console;
+namespace Wnx\Emojis\Console;
 
 use Symfony\Component\Console\Application as ConsoleApplication;
 

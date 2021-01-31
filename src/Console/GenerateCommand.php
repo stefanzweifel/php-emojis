@@ -1,14 +1,14 @@
 <?php
 
-namespace Wnx\Emoji\Console;
+namespace Wnx\Emojis\Console;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
-use Wnx\Emoji\Emoji;
-use Wnx\Emoji\Parser;
+use Wnx\Emojis\Emoji;
+use Wnx\Emojis\Parser;
 
 class GenerateCommand extends Command
 {
@@ -21,7 +21,7 @@ class GenerateCommand extends Command
     /** @var string */
     protected $deprecationNotice = '# deprecations' . PHP_EOL;
 
-    /** @var \Spatie\Emoji\Generator\Emoji[] */
+    /** @var Emoji[] */
     protected $emojis;
 
     /** @var array[] */
