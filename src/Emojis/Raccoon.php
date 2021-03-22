@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Raccoon {
-
+class Raccoon
+{
     public const SYMBOL = "🦝";
 
     public const HEX = "1F99D";
@@ -33,7 +33,7 @@ class Raccoon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

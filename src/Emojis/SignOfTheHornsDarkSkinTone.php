@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SignOfTheHornsDarkSkinTone {
-
+class SignOfTheHornsDarkSkinTone
+{
     public const SYMBOL = "🤘🏿";
 
     public const HEX = "1F918 1F3FF";
@@ -33,7 +33,7 @@ class SignOfTheHornsDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

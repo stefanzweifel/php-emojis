@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ladder {
-
+class Ladder
+{
     public const SYMBOL = "🪜";
 
     public const HEX = "1FA9C";
@@ -33,7 +33,7 @@ class Ladder {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Crayon {
-
+class Crayon
+{
     public const SYMBOL = "🖍️";
 
     public const HEX = "1F58D FE0F";
@@ -33,7 +33,7 @@ class Crayon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EightPointedStar {
-
+class EightPointedStar
+{
     public const SYMBOL = "✴️";
 
     public const HEX = "2734 FE0F";
@@ -33,7 +33,7 @@ class EightPointedStar {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

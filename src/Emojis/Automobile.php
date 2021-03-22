@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Automobile {
-
+class Automobile
+{
     public const SYMBOL = "🚗";
 
     public const HEX = "1F697";
@@ -33,7 +33,7 @@ class Automobile {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

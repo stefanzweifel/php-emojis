@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dango {
-
+class Dango
+{
     public const SYMBOL = "🍡";
 
     public const HEX = "1F361";
@@ -33,7 +33,7 @@ class Dango {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Laptop {
-
+class Laptop
+{
     public const SYMBOL = "💻";
 
     public const HEX = "1F4BB";
@@ -33,7 +33,7 @@ class Laptop {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

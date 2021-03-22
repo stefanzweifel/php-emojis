@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BabyAngel {
-
+class BabyAngel
+{
     public const SYMBOL = "👼";
 
     public const HEX = "1F47C";
@@ -33,7 +33,7 @@ class BabyAngel {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

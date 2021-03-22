@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManWithVeil {
-
+class ManWithVeil
+{
     public const SYMBOL = "👰‍♂️";
 
     public const HEX = "1F470 200D 2642 FE0F";
@@ -33,7 +33,7 @@ class ManWithVeil {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

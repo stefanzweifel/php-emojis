@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PigNose {
-
+class PigNose
+{
     public const SYMBOL = "🐽";
 
     public const HEX = "1F43D";
@@ -33,7 +33,7 @@ class PigNose {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

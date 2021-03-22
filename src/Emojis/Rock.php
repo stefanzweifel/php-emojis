@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Rock {
-
+class Rock
+{
     public const SYMBOL = "🪨";
 
     public const HEX = "1FAA8";
@@ -33,7 +33,7 @@ class Rock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

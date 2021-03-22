@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanGettingHaircutMediumDarkSkinTone {
-
+class WomanGettingHaircutMediumDarkSkinTone
+{
     public const SYMBOL = "💇🏾‍♀️";
 
     public const HEX = "1F487 1F3FE 200D 2640 FE0F";
@@ -33,7 +33,7 @@ class WomanGettingHaircutMediumDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

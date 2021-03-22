@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GrowingHeart {
-
+class GrowingHeart
+{
     public const SYMBOL = "💗";
 
     public const HEX = "1F497";
@@ -33,7 +33,7 @@ class GrowingHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

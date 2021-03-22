@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RollerCoaster {
-
+class RollerCoaster
+{
     public const SYMBOL = "🎢";
 
     public const HEX = "1F3A2";
@@ -33,7 +33,7 @@ class RollerCoaster {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

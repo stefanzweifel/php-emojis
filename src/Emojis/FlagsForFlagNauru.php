@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagNauru {
-
+class FlagsForFlagNauru
+{
     public const SYMBOL = "🇳🇷";
 
     public const HEX = "1F1F3 1F1F7";
@@ -33,7 +33,7 @@ class FlagsForFlagNauru {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

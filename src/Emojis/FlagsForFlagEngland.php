@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagEngland {
-
+class FlagsForFlagEngland
+{
     public const SYMBOL = "🏴󠁧󠁢󠁥󠁮󠁧󠁿";
 
     public const HEX = "1F3F4 E0067 E0062 E0065 E006E E0067 E007F";
@@ -33,7 +33,7 @@ class FlagsForFlagEngland {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bat {
-
+class Bat
+{
     public const SYMBOL = "🦇";
 
     public const HEX = "1F987";
@@ -33,7 +33,7 @@ class Bat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

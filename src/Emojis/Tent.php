@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Tent {
-
+class Tent
+{
     public const SYMBOL = "⛺";
 
     public const HEX = "26FA";
@@ -33,7 +33,7 @@ class Tent {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

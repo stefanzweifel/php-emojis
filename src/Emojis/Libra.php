@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Libra {
-
+class Libra
+{
     public const SYMBOL = "♎";
 
     public const HEX = "264E";
@@ -33,7 +33,7 @@ class Libra {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

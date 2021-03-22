@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TigerFace {
-
+class TigerFace
+{
     public const SYMBOL = "🐯";
 
     public const HEX = "1F42F";
@@ -33,7 +33,7 @@ class TigerFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

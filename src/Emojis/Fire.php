@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Fire {
-
+class Fire
+{
     public const SYMBOL = "🔥";
 
     public const HEX = "1F525";
@@ -33,7 +33,7 @@ class Fire {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

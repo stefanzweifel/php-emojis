@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class IncomingEnvelope {
-
+class IncomingEnvelope
+{
     public const SYMBOL = "📨";
 
     public const HEX = "1F4E8";
@@ -33,7 +33,7 @@ class IncomingEnvelope {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

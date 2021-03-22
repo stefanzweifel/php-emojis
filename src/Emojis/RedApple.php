@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RedApple {
-
+class RedApple
+{
     public const SYMBOL = "🍎";
 
     public const HEX = "1F34E";
@@ -33,7 +33,7 @@ class RedApple {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

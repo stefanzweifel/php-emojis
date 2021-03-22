@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Thread {
-
+class Thread
+{
     public const SYMBOL = "🧵";
 
     public const HEX = "1F9F5";
@@ -33,7 +33,7 @@ class Thread {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

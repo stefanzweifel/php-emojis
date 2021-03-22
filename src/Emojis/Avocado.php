@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Avocado {
-
+class Avocado
+{
     public const SYMBOL = "🥑";
 
     public const HEX = "1F951";
@@ -33,7 +33,7 @@ class Avocado {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

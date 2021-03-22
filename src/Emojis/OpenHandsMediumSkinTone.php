@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OpenHandsMediumSkinTone {
-
+class OpenHandsMediumSkinTone
+{
     public const SYMBOL = "👐🏽";
 
     public const HEX = "1F450 1F3FD";
@@ -33,7 +33,7 @@ class OpenHandsMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

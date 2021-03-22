@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ThumbsDown {
-
+class ThumbsDown
+{
     public const SYMBOL = "👎";
 
     public const HEX = "1F44E";
@@ -33,7 +33,7 @@ class ThumbsDown {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

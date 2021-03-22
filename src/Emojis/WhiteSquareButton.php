@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WhiteSquareButton {
-
+class WhiteSquareButton
+{
     public const SYMBOL = "🔳";
 
     public const HEX = "1F533";
@@ -33,7 +33,7 @@ class WhiteSquareButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

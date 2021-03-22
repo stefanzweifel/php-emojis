@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Singer {
-
+class Singer
+{
     public const SYMBOL = "🧑‍🎤";
 
     public const HEX = "1F9D1 200D 1F3A4";
@@ -33,7 +33,7 @@ class Singer {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

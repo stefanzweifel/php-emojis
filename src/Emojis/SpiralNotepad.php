@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpiralNotepad {
-
+class SpiralNotepad
+{
     public const SYMBOL = "🗒️";
 
     public const HEX = "1F5D2 FE0F";
@@ -33,7 +33,7 @@ class SpiralNotepad {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

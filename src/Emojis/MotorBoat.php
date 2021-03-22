@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MotorBoat {
-
+class MotorBoat
+{
     public const SYMBOL = "🛥️";
 
     public const HEX = "1F6E5 FE0F";
@@ -33,7 +33,7 @@ class MotorBoat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Person {
-
+class Person
+{
     public const SYMBOL = "🧑";
 
     public const HEX = "1F9D1";
@@ -33,7 +33,7 @@ class Person {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

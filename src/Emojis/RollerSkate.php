@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RollerSkate {
-
+class RollerSkate
+{
     public const SYMBOL = "🛼";
 
     public const HEX = "1F6FC";
@@ -33,7 +33,7 @@ class RollerSkate {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

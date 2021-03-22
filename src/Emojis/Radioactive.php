@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Radioactive {
-
+class Radioactive
+{
     public const SYMBOL = "☢️";
 
     public const HEX = "2622 FE0F";
@@ -33,7 +33,7 @@ class Radioactive {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

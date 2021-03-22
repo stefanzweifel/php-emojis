@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NoEntry {
-
+class NoEntry
+{
     public const SYMBOL = "⛔";
 
     public const HEX = "26D4";
@@ -33,7 +33,7 @@ class NoEntry {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

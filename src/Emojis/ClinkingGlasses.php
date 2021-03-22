@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ClinkingGlasses {
-
+class ClinkingGlasses
+{
     public const SYMBOL = "🥂";
 
     public const HEX = "1F942";
@@ -33,7 +33,7 @@ class ClinkingGlasses {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

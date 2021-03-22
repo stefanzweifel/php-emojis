@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MxClausMediumDarkSkinTone {
-
+class MxClausMediumDarkSkinTone
+{
     public const SYMBOL = "🧑🏾‍🎄";
 
     public const HEX = "1F9D1 1F3FE 200D 1F384";
@@ -33,7 +33,7 @@ class MxClausMediumDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

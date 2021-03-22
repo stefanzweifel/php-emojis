@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OneThirty {
-
+class OneThirty
+{
     public const SYMBOL = "🕜";
 
     public const HEX = "1F55C";
@@ -33,7 +33,7 @@ class OneThirty {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

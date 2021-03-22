@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WineGlass {
-
+class WineGlass
+{
     public const SYMBOL = "🍷";
 
     public const HEX = "1F377";
@@ -33,7 +33,7 @@ class WineGlass {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

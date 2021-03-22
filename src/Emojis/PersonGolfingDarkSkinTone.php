@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonGolfingDarkSkinTone {
-
+class PersonGolfingDarkSkinTone
+{
     public const SYMBOL = "🏌🏿";
 
     public const HEX = "1F3CC 1F3FF";
@@ -33,7 +33,7 @@ class PersonGolfingDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

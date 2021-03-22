@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HandWithFingersSplayed {
-
+class HandWithFingersSplayed
+{
     public const SYMBOL = "🖐️";
 
     public const HEX = "1F590 FE0F";
@@ -33,7 +33,7 @@ class HandWithFingersSplayed {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

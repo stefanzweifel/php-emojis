@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bullseye {
-
+class Bullseye
+{
     public const SYMBOL = "🎯";
 
     public const HEX = "1F3AF";
@@ -33,7 +33,7 @@ class Bullseye {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

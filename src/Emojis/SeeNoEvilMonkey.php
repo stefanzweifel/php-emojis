@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SeeNoEvilMonkey {
-
+class SeeNoEvilMonkey
+{
     public const SYMBOL = "🙈";
 
     public const HEX = "1F648";
@@ -33,7 +33,7 @@ class SeeNoEvilMonkey {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

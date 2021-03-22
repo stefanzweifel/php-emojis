@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OkHand {
-
+class OkHand
+{
     public const SYMBOL = "👌";
 
     public const HEX = "1F44C";
@@ -33,7 +33,7 @@ class OkHand {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

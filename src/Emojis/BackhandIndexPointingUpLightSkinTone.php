@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BackhandIndexPointingUpLightSkinTone {
-
+class BackhandIndexPointingUpLightSkinTone
+{
     public const SYMBOL = "👆🏻";
 
     public const HEX = "1F446 1F3FB";
@@ -33,7 +33,7 @@ class BackhandIndexPointingUpLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

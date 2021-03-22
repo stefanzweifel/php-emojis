@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagWesternSahara {
-
+class FlagsForFlagWesternSahara
+{
     public const SYMBOL = "🇪🇭";
 
     public const HEX = "1F1EA 1F1ED";
@@ -33,7 +33,7 @@ class FlagsForFlagWesternSahara {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

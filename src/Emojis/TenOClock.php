@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TenOClock {
-
+class TenOClock
+{
     public const SYMBOL = "🕙";
 
     public const HEX = "1F559";
@@ -33,7 +33,7 @@ class TenOClock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagTanzania {
-
+class FlagsForFlagTanzania
+{
     public const SYMBOL = "🇹🇿";
 
     public const HEX = "1F1F9 1F1FF";
@@ -33,7 +33,7 @@ class FlagsForFlagTanzania {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PickupTruck {
-
+class PickupTruck
+{
     public const SYMBOL = "🛻";
 
     public const HEX = "1F6FB";
@@ -33,7 +33,7 @@ class PickupTruck {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

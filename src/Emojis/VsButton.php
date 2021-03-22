@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class VsButton {
-
+class VsButton
+{
     public const SYMBOL = "🆚";
 
     public const HEX = "1F19A";
@@ -33,7 +33,7 @@ class VsButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

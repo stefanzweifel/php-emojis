@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonRunning {
-
+class PersonRunning
+{
     public const SYMBOL = "🏃";
 
     public const HEX = "1F3C3";
@@ -33,7 +33,7 @@ class PersonRunning {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

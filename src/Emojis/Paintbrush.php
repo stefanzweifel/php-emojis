@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Paintbrush {
-
+class Paintbrush
+{
     public const SYMBOL = "🖌️";
 
     public const HEX = "1F58C FE0F";
@@ -33,7 +33,7 @@ class Paintbrush {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

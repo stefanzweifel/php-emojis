@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Hippopotamus {
-
+class Hippopotamus
+{
     public const SYMBOL = "🦛";
 
     public const HEX = "1F99B";
@@ -33,7 +33,7 @@ class Hippopotamus {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

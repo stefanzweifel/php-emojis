@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LadyBeetle {
-
+class LadyBeetle
+{
     public const SYMBOL = "🐞";
 
     public const HEX = "1F41E";
@@ -33,7 +33,7 @@ class LadyBeetle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

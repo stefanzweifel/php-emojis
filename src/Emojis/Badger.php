@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Badger {
-
+class Badger
+{
     public const SYMBOL = "🦡";
 
     public const HEX = "1F9A1";
@@ -33,7 +33,7 @@ class Badger {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Scarf {
-
+class Scarf
+{
     public const SYMBOL = "🧣";
 
     public const HEX = "1F9E3";
@@ -33,7 +33,7 @@ class Scarf {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

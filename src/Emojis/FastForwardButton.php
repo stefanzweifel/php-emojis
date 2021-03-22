@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FastForwardButton {
-
+class FastForwardButton
+{
     public const SYMBOL = "⏩";
 
     public const HEX = "23E9";
@@ -33,7 +33,7 @@ class FastForwardButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

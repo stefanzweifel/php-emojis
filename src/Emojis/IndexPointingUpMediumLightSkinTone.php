@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class IndexPointingUpMediumLightSkinTone {
-
+class IndexPointingUpMediumLightSkinTone
+{
     public const SYMBOL = "☝🏼";
 
     public const HEX = "261D 1F3FC";
@@ -33,7 +33,7 @@ class IndexPointingUpMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Kimono {
-
+class Kimono
+{
     public const SYMBOL = "👘";
 
     public const HEX = "1F458";
@@ -33,7 +33,7 @@ class Kimono {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

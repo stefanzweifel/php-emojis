@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WaterBuffalo {
-
+class WaterBuffalo
+{
     public const SYMBOL = "🐃";
 
     public const HEX = "1F403";
@@ -33,7 +33,7 @@ class WaterBuffalo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

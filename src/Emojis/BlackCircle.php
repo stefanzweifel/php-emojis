@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BlackCircle {
-
+class BlackCircle
+{
     public const SYMBOL = "⚫";
 
     public const HEX = "26AB";
@@ -33,7 +33,7 @@ class BlackCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

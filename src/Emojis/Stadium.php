@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Stadium {
-
+class Stadium
+{
     public const SYMBOL = "🏟️";
 
     public const HEX = "1F3DF FE0F";
@@ -33,7 +33,7 @@ class Stadium {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TwelveThirty {
-
+class TwelveThirty
+{
     public const SYMBOL = "🕧";
 
     public const HEX = "1F567";
@@ -33,7 +33,7 @@ class TwelveThirty {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

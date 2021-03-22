@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ring {
-
+class Ring
+{
     public const SYMBOL = "💍";
 
     public const HEX = "1F48D";
@@ -33,7 +33,7 @@ class Ring {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

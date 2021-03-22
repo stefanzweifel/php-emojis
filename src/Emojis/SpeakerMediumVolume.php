@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpeakerMediumVolume {
-
+class SpeakerMediumVolume
+{
     public const SYMBOL = "🔉";
 
     public const HEX = "1F509";
@@ -33,7 +33,7 @@ class SpeakerMediumVolume {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagIraq {
-
+class FlagsForFlagIraq
+{
     public const SYMBOL = "🇮🇶";
 
     public const HEX = "1F1EE 1F1F6";
@@ -33,7 +33,7 @@ class FlagsForFlagIraq {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

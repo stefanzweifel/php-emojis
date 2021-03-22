@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SecondPlaceMedal {
-
+class SecondPlaceMedal
+{
     public const SYMBOL = "🥈";
 
     public const HEX = "1F948";
@@ -33,7 +33,7 @@ class SecondPlaceMedal {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

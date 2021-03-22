@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PuzzlePiece {
-
+class PuzzlePiece
+{
     public const SYMBOL = "🧩";
 
     public const HEX = "1F9E9";
@@ -33,7 +33,7 @@ class PuzzlePiece {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

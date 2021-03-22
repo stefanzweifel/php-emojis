@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MendingHeart {
-
+class MendingHeart
+{
     public const SYMBOL = "❤️‍🩹";
 
     public const HEX = "2764 FE0F 200D 1FA79";
@@ -33,7 +33,7 @@ class MendingHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

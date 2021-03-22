@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Star {
-
+class Star
+{
     public const SYMBOL = "⭐";
 
     public const HEX = "2B50";
@@ -33,7 +33,7 @@ class Star {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

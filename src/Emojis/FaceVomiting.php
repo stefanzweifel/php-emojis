@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FaceVomiting {
-
+class FaceVomiting
+{
     public const SYMBOL = "🤮";
 
     public const HEX = "1F92E";
@@ -33,7 +33,7 @@ class FaceVomiting {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

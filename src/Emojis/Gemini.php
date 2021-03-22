@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Gemini {
-
+class Gemini
+{
     public const SYMBOL = "♊";
 
     public const HEX = "264A";
@@ -33,7 +33,7 @@ class Gemini {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

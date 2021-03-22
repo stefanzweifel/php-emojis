@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class KiwiFruit {
-
+class KiwiFruit
+{
     public const SYMBOL = "🥝";
 
     public const HEX = "1F95D";
@@ -33,7 +33,7 @@ class KiwiFruit {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

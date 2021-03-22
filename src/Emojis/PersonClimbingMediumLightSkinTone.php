@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonClimbingMediumLightSkinTone {
-
+class PersonClimbingMediumLightSkinTone
+{
     public const SYMBOL = "🧗🏼";
 
     public const HEX = "1F9D7 1F3FC";
@@ -33,7 +33,7 @@ class PersonClimbingMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

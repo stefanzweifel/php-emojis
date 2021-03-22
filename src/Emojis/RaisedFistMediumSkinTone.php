@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RaisedFistMediumSkinTone {
-
+class RaisedFistMediumSkinTone
+{
     public const SYMBOL = "✊🏽";
 
     public const HEX = "270A 1F3FD";
@@ -33,7 +33,7 @@ class RaisedFistMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

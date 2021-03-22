@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HeartExclamation {
-
+class HeartExclamation
+{
     public const SYMBOL = "❣️";
 
     public const HEX = "2763 FE0F";
@@ -33,7 +33,7 @@ class HeartExclamation {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

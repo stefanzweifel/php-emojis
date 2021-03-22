@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WrappedGift {
-
+class WrappedGift
+{
     public const SYMBOL = "🎁";
 
     public const HEX = "1F381";
@@ -33,7 +33,7 @@ class WrappedGift {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BilledCap {
-
+class BilledCap
+{
     public const SYMBOL = "🧢";
 
     public const HEX = "1F9E2";
@@ -33,7 +33,7 @@ class BilledCap {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PurpleCircle {
-
+class PurpleCircle
+{
     public const SYMBOL = "🟣";
 
     public const HEX = "1F7E3";
@@ -33,7 +33,7 @@ class PurpleCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

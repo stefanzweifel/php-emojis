@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DiamondSuit {
-
+class DiamondSuit
+{
     public const SYMBOL = "♦️";
 
     public const HEX = "2666 FE0F";
@@ -33,7 +33,7 @@ class DiamondSuit {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

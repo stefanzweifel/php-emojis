@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OpenMailboxWithLoweredFlag {
-
+class OpenMailboxWithLoweredFlag
+{
     public const SYMBOL = "📭";
 
     public const HEX = "1F4ED";
@@ -33,7 +33,7 @@ class OpenMailboxWithLoweredFlag {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

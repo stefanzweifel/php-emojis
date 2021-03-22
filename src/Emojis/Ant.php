@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ant {
-
+class Ant
+{
     public const SYMBOL = "🐜";
 
     public const HEX = "1F41C";
@@ -33,7 +33,7 @@ class Ant {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ShushingFace {
-
+class ShushingFace
+{
     public const SYMBOL = "🤫";
 
     public const HEX = "1F92B";
@@ -33,7 +33,7 @@ class ShushingFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

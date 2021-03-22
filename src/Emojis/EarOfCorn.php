@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EarOfCorn {
-
+class EarOfCorn
+{
     public const SYMBOL = "🌽";
 
     public const HEX = "1F33D";
@@ -33,7 +33,7 @@ class EarOfCorn {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

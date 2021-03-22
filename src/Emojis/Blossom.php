@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Blossom {
-
+class Blossom
+{
     public const SYMBOL = "🌼";
 
     public const HEX = "1F33C";
@@ -33,7 +33,7 @@ class Blossom {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

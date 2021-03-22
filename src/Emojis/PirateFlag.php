@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PirateFlag {
-
+class PirateFlag
+{
     public const SYMBOL = "🏴‍☠️";
 
     public const HEX = "1F3F4 200D 2620 FE0F";
@@ -33,7 +33,7 @@ class PirateFlag {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

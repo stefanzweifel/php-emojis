@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GoalNet {
-
+class GoalNet
+{
     public const SYMBOL = "🥅";
 
     public const HEX = "1F945";
@@ -33,7 +33,7 @@ class GoalNet {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

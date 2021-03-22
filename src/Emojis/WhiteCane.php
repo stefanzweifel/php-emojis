@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WhiteCane {
-
+class WhiteCane
+{
     public const SYMBOL = "🦯";
 
     public const HEX = "1F9AF";
@@ -33,7 +33,7 @@ class WhiteCane {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

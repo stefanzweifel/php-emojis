@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OrangeCircle {
-
+class OrangeCircle
+{
     public const SYMBOL = "🟠";
 
     public const HEX = "1F7E0";
@@ -33,7 +33,7 @@ class OrangeCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

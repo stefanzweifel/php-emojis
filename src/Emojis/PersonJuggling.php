@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonJuggling {
-
+class PersonJuggling
+{
     public const SYMBOL = "🤹";
 
     public const HEX = "1F939";
@@ -33,7 +33,7 @@ class PersonJuggling {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

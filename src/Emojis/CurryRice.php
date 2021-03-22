@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CurryRice {
-
+class CurryRice
+{
     public const SYMBOL = "🍛";
 
     public const HEX = "1F35B";
@@ -33,7 +33,7 @@ class CurryRice {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

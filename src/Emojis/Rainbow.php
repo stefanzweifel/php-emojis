@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Rainbow {
-
+class Rainbow
+{
     public const SYMBOL = "🌈";
 
     public const HEX = "1F308";
@@ -33,7 +33,7 @@ class Rainbow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

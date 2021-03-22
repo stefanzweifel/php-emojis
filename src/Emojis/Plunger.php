@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Plunger {
-
+class Plunger
+{
     public const SYMBOL = "🪠";
 
     public const HEX = "1FAA0";
@@ -33,7 +33,7 @@ class Plunger {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

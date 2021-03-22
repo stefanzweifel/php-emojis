@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ChildrenCrossing {
-
+class ChildrenCrossing
+{
     public const SYMBOL = "🚸";
 
     public const HEX = "1F6B8";
@@ -33,7 +33,7 @@ class ChildrenCrossing {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

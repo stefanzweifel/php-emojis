@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonGettingMassage {
-
+class PersonGettingMassage
+{
     public const SYMBOL = "💆";
 
     public const HEX = "1F486";
@@ -33,7 +33,7 @@ class PersonGettingMassage {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

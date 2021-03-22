@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JapaneseReservedButton {
-
+class JapaneseReservedButton
+{
     public const SYMBOL = "🈯";
 
     public const HEX = "1F22F";
@@ -33,7 +33,7 @@ class JapaneseReservedButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

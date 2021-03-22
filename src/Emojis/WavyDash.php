@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WavyDash {
-
+class WavyDash
+{
     public const SYMBOL = "〰️";
 
     public const HEX = "3030 FE0F";
@@ -33,7 +33,7 @@ class WavyDash {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

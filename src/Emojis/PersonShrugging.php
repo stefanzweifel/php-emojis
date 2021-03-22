@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonShrugging {
-
+class PersonShrugging
+{
     public const SYMBOL = "🤷";
 
     public const HEX = "1F937";
@@ -33,7 +33,7 @@ class PersonShrugging {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

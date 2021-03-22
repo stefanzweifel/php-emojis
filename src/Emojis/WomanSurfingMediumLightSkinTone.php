@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanSurfingMediumLightSkinTone {
-
+class WomanSurfingMediumLightSkinTone
+{
     public const SYMBOL = "🏄🏼‍♀️";
 
     public const HEX = "1F3C4 1F3FC 200D 2640 FE0F";
@@ -33,7 +33,7 @@ class WomanSurfingMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

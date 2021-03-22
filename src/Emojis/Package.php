@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Package {
-
+class Package
+{
     public const SYMBOL = "📦";
 
     public const HEX = "1F4E6";
@@ -33,7 +33,7 @@ class Package {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

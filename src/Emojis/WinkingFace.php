@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WinkingFace {
-
+class WinkingFace
+{
     public const SYMBOL = "😉";
 
     public const HEX = "1F609";
@@ -33,7 +33,7 @@ class WinkingFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

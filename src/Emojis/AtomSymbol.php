@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class AtomSymbol {
-
+class AtomSymbol
+{
     public const SYMBOL = "⚛️";
 
     public const HEX = "269B FE0F";
@@ -33,7 +33,7 @@ class AtomSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Headstone {
-
+class Headstone
+{
     public const SYMBOL = "🪦";
 
     public const HEX = "1FAA6";
@@ -33,7 +33,7 @@ class Headstone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

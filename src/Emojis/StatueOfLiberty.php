@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StatueOfLiberty {
-
+class StatueOfLiberty
+{
     public const SYMBOL = "🗽";
 
     public const HEX = "1F5FD";
@@ -33,7 +33,7 @@ class StatueOfLiberty {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

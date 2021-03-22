@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManBikingDarkSkinTone {
-
+class ManBikingDarkSkinTone
+{
     public const SYMBOL = "🚴🏿‍♂️";
 
     public const HEX = "1F6B4 1F3FF 200D 2642 FE0F";
@@ -33,7 +33,7 @@ class ManBikingDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PrinceLightSkinTone {
-
+class PrinceLightSkinTone
+{
     public const SYMBOL = "🤴🏻";
 
     public const HEX = "1F934 1F3FB";
@@ -33,7 +33,7 @@ class PrinceLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

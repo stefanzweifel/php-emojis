@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pinata {
-
+class Pinata
+{
     public const SYMBOL = "🪅";
 
     public const HEX = "1FA85";
@@ -33,7 +33,7 @@ class Pinata {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

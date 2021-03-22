@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Keycap8 {
-
+class Keycap8
+{
     public const SYMBOL = "8️⃣";
 
     public const HEX = "0038 FE0F 20E3";
@@ -33,7 +33,7 @@ class Keycap8 {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

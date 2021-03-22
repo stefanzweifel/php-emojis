@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PalmsUpTogetherMediumSkinTone {
-
+class PalmsUpTogetherMediumSkinTone
+{
     public const SYMBOL = "🤲🏽";
 
     public const HEX = "1F932 1F3FD";
@@ -33,7 +33,7 @@ class PalmsUpTogetherMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

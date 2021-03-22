@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OpenFileFolder {
-
+class OpenFileFolder
+{
     public const SYMBOL = "📂";
 
     public const HEX = "1F4C2";
@@ -33,7 +33,7 @@ class OpenFileFolder {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

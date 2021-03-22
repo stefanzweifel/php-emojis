@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WritingHand {
-
+class WritingHand
+{
     public const SYMBOL = "✍️";
 
     public const HEX = "270D FE0F";
@@ -33,7 +33,7 @@ class WritingHand {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

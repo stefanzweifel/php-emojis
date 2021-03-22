@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Toothbrush {
-
+class Toothbrush
+{
     public const SYMBOL = "🪥";
 
     public const HEX = "1FAA5";
@@ -33,7 +33,7 @@ class Toothbrush {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

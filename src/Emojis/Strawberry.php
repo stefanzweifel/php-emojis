@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Strawberry {
-
+class Strawberry
+{
     public const SYMBOL = "🍓";
 
     public const HEX = "1F353";
@@ -33,7 +33,7 @@ class Strawberry {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

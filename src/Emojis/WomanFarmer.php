@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanFarmer {
-
+class WomanFarmer
+{
     public const SYMBOL = "👩‍🌾";
 
     public const HEX = "1F469 200D 1F33E";
@@ -33,7 +33,7 @@ class WomanFarmer {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

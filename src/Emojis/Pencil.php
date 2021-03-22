@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pencil {
-
+class Pencil
+{
     public const SYMBOL = "✏️";
 
     public const HEX = "270F FE0F";
@@ -33,7 +33,7 @@ class Pencil {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

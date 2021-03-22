@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ChartIncreasingWithYen {
-
+class ChartIncreasingWithYen
+{
     public const SYMBOL = "💹";
 
     public const HEX = "1F4B9";
@@ -33,7 +33,7 @@ class ChartIncreasingWithYen {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

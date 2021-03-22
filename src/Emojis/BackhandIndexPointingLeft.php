@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BackhandIndexPointingLeft {
-
+class BackhandIndexPointingLeft
+{
     public const SYMBOL = "👈";
 
     public const HEX = "1F448";
@@ -33,7 +33,7 @@ class BackhandIndexPointingLeft {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

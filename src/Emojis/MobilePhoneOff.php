@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MobilePhoneOff {
-
+class MobilePhoneOff
+{
     public const SYMBOL = "📴";
 
     public const HEX = "1F4F4";
@@ -33,7 +33,7 @@ class MobilePhoneOff {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

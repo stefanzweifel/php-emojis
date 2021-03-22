@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class UpsideDownFace {
-
+class UpsideDownFace
+{
     public const SYMBOL = "🙃";
 
     public const HEX = "1F643";
@@ -33,7 +33,7 @@ class UpsideDownFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

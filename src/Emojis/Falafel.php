@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Falafel {
-
+class Falafel
+{
     public const SYMBOL = "🧆";
 
     public const HEX = "1F9C6";
@@ -33,7 +33,7 @@ class Falafel {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SoonArrow {
-
+class SoonArrow
+{
     public const SYMBOL = "🔜";
 
     public const HEX = "1F51C";
@@ -33,7 +33,7 @@ class SoonArrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

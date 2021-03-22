@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ophiuchus {
-
+class Ophiuchus
+{
     public const SYMBOL = "⛎";
 
     public const HEX = "26CE";
@@ -33,7 +33,7 @@ class Ophiuchus {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

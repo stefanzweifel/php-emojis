@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Multiply {
-
+class Multiply
+{
     public const SYMBOL = "✖️";
 
     public const HEX = "2716 FE0F";
@@ -33,7 +33,7 @@ class Multiply {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

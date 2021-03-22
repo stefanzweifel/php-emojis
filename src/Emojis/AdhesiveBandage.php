@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class AdhesiveBandage {
-
+class AdhesiveBandage
+{
     public const SYMBOL = "🩹";
 
     public const HEX = "1FA79";
@@ -33,7 +33,7 @@ class AdhesiveBandage {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

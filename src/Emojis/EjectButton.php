@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EjectButton {
-
+class EjectButton
+{
     public const SYMBOL = "⏏️";
 
     public const HEX = "23CF FE0F";
@@ -33,7 +33,7 @@ class EjectButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Prohibited {
-
+class Prohibited
+{
     public const SYMBOL = "🚫";
 
     public const HEX = "1F6AB";
@@ -33,7 +33,7 @@ class Prohibited {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

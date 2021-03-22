@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HoneyPot {
-
+class HoneyPot
+{
     public const SYMBOL = "🍯";
 
     public const HEX = "1F36F";
@@ -33,7 +33,7 @@ class HoneyPot {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

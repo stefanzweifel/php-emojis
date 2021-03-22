@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Skis {
-
+class Skis
+{
     public const SYMBOL = "🎿";
 
     public const HEX = "1F3BF";
@@ -33,7 +33,7 @@ class Skis {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

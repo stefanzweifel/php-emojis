@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Burrito {
-
+class Burrito
+{
     public const SYMBOL = "🌯";
 
     public const HEX = "1F32F";
@@ -33,7 +33,7 @@ class Burrito {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

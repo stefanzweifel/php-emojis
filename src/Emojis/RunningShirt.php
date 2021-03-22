@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RunningShirt {
-
+class RunningShirt
+{
     public const SYMBOL = "🎽";
 
     public const HEX = "1F3BD";
@@ -33,7 +33,7 @@ class RunningShirt {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

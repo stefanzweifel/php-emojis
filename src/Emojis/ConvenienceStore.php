@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ConvenienceStore {
-
+class ConvenienceStore
+{
     public const SYMBOL = "🏪";
 
     public const HEX = "1F3EA";
@@ -33,7 +33,7 @@ class ConvenienceStore {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

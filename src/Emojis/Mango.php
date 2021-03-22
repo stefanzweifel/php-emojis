@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Mango {
-
+class Mango
+{
     public const SYMBOL = "🥭";
 
     public const HEX = "1F96D";
@@ -33,7 +33,7 @@ class Mango {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

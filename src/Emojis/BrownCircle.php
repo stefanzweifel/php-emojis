@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BrownCircle {
-
+class BrownCircle
+{
     public const SYMBOL = "🟤";
 
     public const HEX = "1F7E4";
@@ -33,7 +33,7 @@ class BrownCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

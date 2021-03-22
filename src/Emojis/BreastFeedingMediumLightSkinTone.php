@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BreastFeedingMediumLightSkinTone {
-
+class BreastFeedingMediumLightSkinTone
+{
     public const SYMBOL = "🤱🏼";
 
     public const HEX = "1F931 1F3FC";
@@ -33,7 +33,7 @@ class BreastFeedingMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

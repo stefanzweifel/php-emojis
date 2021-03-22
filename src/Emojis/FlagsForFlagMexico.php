@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagMexico {
-
+class FlagsForFlagMexico
+{
     public const SYMBOL = "🇲🇽";
 
     public const HEX = "1F1F2 1F1FD";
@@ -33,7 +33,7 @@ class FlagsForFlagMexico {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

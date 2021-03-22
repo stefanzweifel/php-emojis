@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GameDie {
-
+class GameDie
+{
     public const SYMBOL = "🎲";
 
     public const HEX = "1F3B2";
@@ -33,7 +33,7 @@ class GameDie {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

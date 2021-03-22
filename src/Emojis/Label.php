@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Label {
-
+class Label
+{
     public const SYMBOL = "🏷️";
 
     public const HEX = "1F3F7 FE0F";
@@ -33,7 +33,7 @@ class Label {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Spoon {
-
+class Spoon
+{
     public const SYMBOL = "🥄";
 
     public const HEX = "1F944";
@@ -33,7 +33,7 @@ class Spoon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

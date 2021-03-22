@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NewButton {
-
+class NewButton
+{
     public const SYMBOL = "🆕";
 
     public const HEX = "1F195";
@@ -33,7 +33,7 @@ class NewButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Rocket {
-
+class Rocket
+{
     public const SYMBOL = "🚀";
 
     public const HEX = "1F680";
@@ -33,7 +33,7 @@ class Rocket {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bed {
-
+class Bed
+{
     public const SYMBOL = "🛏️";
 
     public const HEX = "1F6CF FE0F";
@@ -33,7 +33,7 @@ class Bed {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

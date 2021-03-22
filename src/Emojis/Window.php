@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Window {
-
+class Window
+{
     public const SYMBOL = "🪟";
 
     public const HEX = "1FA9F";
@@ -33,7 +33,7 @@ class Window {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WorriedFace {
-
+class WorriedFace
+{
     public const SYMBOL = "😟";
 
     public const HEX = "1F61F";
@@ -33,7 +33,7 @@ class WorriedFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

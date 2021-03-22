@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SevenOClock {
-
+class SevenOClock
+{
     public const SYMBOL = "🕖";
 
     public const HEX = "1F556";
@@ -33,7 +33,7 @@ class SevenOClock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

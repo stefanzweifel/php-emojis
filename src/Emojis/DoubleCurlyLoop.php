@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DoubleCurlyLoop {
-
+class DoubleCurlyLoop
+{
     public const SYMBOL = "➿";
 
     public const HEX = "27BF";
@@ -33,7 +33,7 @@ class DoubleCurlyLoop {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

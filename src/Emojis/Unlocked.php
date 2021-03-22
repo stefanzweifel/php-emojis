@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Unlocked {
-
+class Unlocked
+{
     public const SYMBOL = "🔓";
 
     public const HEX = "1F513";
@@ -33,7 +33,7 @@ class Unlocked {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

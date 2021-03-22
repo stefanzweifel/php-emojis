@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pager {
-
+class Pager
+{
     public const SYMBOL = "📟";
 
     public const HEX = "1F4DF";
@@ -33,7 +33,7 @@ class Pager {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Cucumber {
-
+class Cucumber
+{
     public const SYMBOL = "🥒";
 
     public const HEX = "1F952";
@@ -33,7 +33,7 @@ class Cucumber {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

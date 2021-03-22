@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EarWithHearingAidDarkSkinTone {
-
+class EarWithHearingAidDarkSkinTone
+{
     public const SYMBOL = "🦻🏿";
 
     public const HEX = "1F9BB 1F3FF";
@@ -33,7 +33,7 @@ class EarWithHearingAidDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

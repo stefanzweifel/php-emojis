@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Horse {
-
+class Horse
+{
     public const SYMBOL = "🐎";
 
     public const HEX = "1F40E";
@@ -33,7 +33,7 @@ class Horse {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

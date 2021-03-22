@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagJapan {
-
+class FlagsForFlagJapan
+{
     public const SYMBOL = "🇯🇵";
 
     public const HEX = "1F1EF 1F1F5";
@@ -33,7 +33,7 @@ class FlagsForFlagJapan {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

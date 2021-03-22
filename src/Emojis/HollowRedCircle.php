@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HollowRedCircle {
-
+class HollowRedCircle
+{
     public const SYMBOL = "⭕";
 
     public const HEX = "2B55";
@@ -33,7 +33,7 @@ class HollowRedCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

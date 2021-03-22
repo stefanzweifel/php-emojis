@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MagnifyingGlassTiltedLeft {
-
+class MagnifyingGlassTiltedLeft
+{
     public const SYMBOL = "🔍";
 
     public const HEX = "1F50D";
@@ -33,7 +33,7 @@ class MagnifyingGlassTiltedLeft {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

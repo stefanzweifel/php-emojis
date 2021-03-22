@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Wastebasket {
-
+class Wastebasket
+{
     public const SYMBOL = "🗑️";
 
     public const HEX = "1F5D1 FE0F";
@@ -33,7 +33,7 @@ class Wastebasket {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

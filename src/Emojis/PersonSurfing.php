@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonSurfing {
-
+class PersonSurfing
+{
     public const SYMBOL = "🏄";
 
     public const HEX = "1F3C4";
@@ -33,7 +33,7 @@ class PersonSurfing {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

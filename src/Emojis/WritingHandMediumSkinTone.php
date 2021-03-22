@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WritingHandMediumSkinTone {
-
+class WritingHandMediumSkinTone
+{
     public const SYMBOL = "✍🏽";
 
     public const HEX = "270D 1F3FD";
@@ -33,7 +33,7 @@ class WritingHandMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

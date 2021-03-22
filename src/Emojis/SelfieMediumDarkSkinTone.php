@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SelfieMediumDarkSkinTone {
-
+class SelfieMediumDarkSkinTone
+{
     public const SYMBOL = "🤳🏾";
 
     public const HEX = "1F933 1F3FE";
@@ -33,7 +33,7 @@ class SelfieMediumDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

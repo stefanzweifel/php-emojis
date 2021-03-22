@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonGesturingNo {
-
+class PersonGesturingNo
+{
     public const SYMBOL = "🙅";
 
     public const HEX = "1F645";
@@ -33,7 +33,7 @@ class PersonGesturingNo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

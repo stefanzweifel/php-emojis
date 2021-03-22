@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Genie {
-
+class Genie
+{
     public const SYMBOL = "🧞";
 
     public const HEX = "1F9DE";
@@ -33,7 +33,7 @@ class Genie {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

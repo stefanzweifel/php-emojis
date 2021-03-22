@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagKosovo {
-
+class FlagsForFlagKosovo
+{
     public const SYMBOL = "🇽🇰";
 
     public const HEX = "1F1FD 1F1F0";
@@ -33,7 +33,7 @@ class FlagsForFlagKosovo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

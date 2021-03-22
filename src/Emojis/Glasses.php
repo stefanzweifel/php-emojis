@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Glasses {
-
+class Glasses
+{
     public const SYMBOL = "👓";
 
     public const HEX = "1F453";
@@ -33,7 +33,7 @@ class Glasses {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WhiteSmallSquare {
-
+class WhiteSmallSquare
+{
     public const SYMBOL = "▫️";
 
     public const HEX = "25AB FE0F";
@@ -33,7 +33,7 @@ class WhiteSmallSquare {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

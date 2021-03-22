@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagDenmark {
-
+class FlagsForFlagDenmark
+{
     public const SYMBOL = "🇩🇰";
 
     public const HEX = "1F1E9 1F1F0";
@@ -33,7 +33,7 @@ class FlagsForFlagDenmark {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

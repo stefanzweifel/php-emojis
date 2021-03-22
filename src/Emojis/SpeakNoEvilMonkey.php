@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpeakNoEvilMonkey {
-
+class SpeakNoEvilMonkey
+{
     public const SYMBOL = "🙊";
 
     public const HEX = "1F64A";
@@ -33,7 +33,7 @@ class SpeakNoEvilMonkey {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

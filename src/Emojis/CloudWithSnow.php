@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CloudWithSnow {
-
+class CloudWithSnow
+{
     public const SYMBOL = "🌨️";
 
     public const HEX = "1F328 FE0F";
@@ -33,7 +33,7 @@ class CloudWithSnow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

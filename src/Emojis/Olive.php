@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Olive {
-
+class Olive
+{
     public const SYMBOL = "🫒";
 
     public const HEX = "1FAD2";
@@ -33,7 +33,7 @@ class Olive {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

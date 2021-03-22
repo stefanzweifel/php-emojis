@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Judge {
-
+class Judge
+{
     public const SYMBOL = "🧑‍⚖️";
 
     public const HEX = "1F9D1 200D 2696 FE0F";
@@ -33,7 +33,7 @@ class Judge {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

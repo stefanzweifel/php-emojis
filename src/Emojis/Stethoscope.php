@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Stethoscope {
-
+class Stethoscope
+{
     public const SYMBOL = "🩺";
 
     public const HEX = "1FA7A";
@@ -33,7 +33,7 @@ class Stethoscope {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

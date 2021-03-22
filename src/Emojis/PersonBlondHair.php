@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonBlondHair {
-
+class PersonBlondHair
+{
     public const SYMBOL = "👱";
 
     public const HEX = "1F471";
@@ -33,7 +33,7 @@ class PersonBlondHair {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

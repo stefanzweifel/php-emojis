@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ThreeOClock {
-
+class ThreeOClock
+{
     public const SYMBOL = "🕒";
 
     public const HEX = "1F552";
@@ -33,7 +33,7 @@ class ThreeOClock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

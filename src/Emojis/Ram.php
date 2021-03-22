@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ram {
-
+class Ram
+{
     public const SYMBOL = "🐏";
 
     public const HEX = "1F40F";
@@ -33,7 +33,7 @@ class Ram {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

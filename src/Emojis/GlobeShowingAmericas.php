@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GlobeShowingAmericas {
-
+class GlobeShowingAmericas
+{
     public const SYMBOL = "🌎";
 
     public const HEX = "1F30E";
@@ -33,7 +33,7 @@ class GlobeShowingAmericas {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

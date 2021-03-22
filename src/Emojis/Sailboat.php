@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sailboat {
-
+class Sailboat
+{
     public const SYMBOL = "⛵";
 
     public const HEX = "26F5";
@@ -33,7 +33,7 @@ class Sailboat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

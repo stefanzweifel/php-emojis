@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Fountain {
-
+class Fountain
+{
     public const SYMBOL = "⛲";
 
     public const HEX = "26F2";
@@ -33,7 +33,7 @@ class Fountain {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

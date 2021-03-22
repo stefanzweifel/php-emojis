@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Registered {
-
+class Registered
+{
     public const SYMBOL = "®️";
 
     public const HEX = "00AE FE0F";
@@ -33,7 +33,7 @@ class Registered {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

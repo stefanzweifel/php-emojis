@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Cat {
-
+class Cat
+{
     public const SYMBOL = "🐈";
 
     public const HEX = "1F408";
@@ -33,7 +33,7 @@ class Cat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RaisedHand {
-
+class RaisedHand
+{
     public const SYMBOL = "✋";
 
     public const HEX = "270B";
@@ -33,7 +33,7 @@ class RaisedHand {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

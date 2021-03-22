@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class IceHockey {
-
+class IceHockey
+{
     public const SYMBOL = "🏒";
 
     public const HEX = "1F3D2";
@@ -33,7 +33,7 @@ class IceHockey {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

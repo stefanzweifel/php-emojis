@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Om {
-
+class Om
+{
     public const SYMBOL = "🕉️";
 
     public const HEX = "1F549 FE0F";
@@ -33,7 +33,7 @@ class Om {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

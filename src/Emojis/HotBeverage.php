@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HotBeverage {
-
+class HotBeverage
+{
     public const SYMBOL = "☕";
 
     public const HEX = "2615";
@@ -33,7 +33,7 @@ class HotBeverage {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

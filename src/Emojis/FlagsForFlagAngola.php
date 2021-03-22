@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagAngola {
-
+class FlagsForFlagAngola
+{
     public const SYMBOL = "🇦🇴";
 
     public const HEX = "1F1E6 1F1F4";
@@ -33,7 +33,7 @@ class FlagsForFlagAngola {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

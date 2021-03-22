@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Airplane {
-
+class Airplane
+{
     public const SYMBOL = "✈️";
 
     public const HEX = "2708 FE0F";
@@ -33,7 +33,7 @@ class Airplane {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

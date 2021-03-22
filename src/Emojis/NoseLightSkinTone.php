@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NoseLightSkinTone {
-
+class NoseLightSkinTone
+{
     public const SYMBOL = "👃🏻";
 
     public const HEX = "1F443 1F3FB";
@@ -33,7 +33,7 @@ class NoseLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

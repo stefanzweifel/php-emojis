@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Goat {
-
+class Goat
+{
     public const SYMBOL = "🐐";
 
     public const HEX = "1F410";
@@ -33,7 +33,7 @@ class Goat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

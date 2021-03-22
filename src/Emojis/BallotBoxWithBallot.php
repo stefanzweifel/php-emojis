@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BallotBoxWithBallot {
-
+class BallotBoxWithBallot
+{
     public const SYMBOL = "🗳️";
 
     public const HEX = "1F5F3 FE0F";
@@ -33,7 +33,7 @@ class BallotBoxWithBallot {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

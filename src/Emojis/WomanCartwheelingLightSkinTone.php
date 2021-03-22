@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanCartwheelingLightSkinTone {
-
+class WomanCartwheelingLightSkinTone
+{
     public const SYMBOL = "🤸🏻‍♀️";
 
     public const HEX = "1F938 1F3FB 200D 2640 FE0F";
@@ -33,7 +33,7 @@ class WomanCartwheelingLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

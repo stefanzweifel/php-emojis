@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManFarmerMediumSkinTone {
-
+class ManFarmerMediumSkinTone
+{
     public const SYMBOL = "👨🏽‍🌾";
 
     public const HEX = "1F468 1F3FD 200D 1F33E";
@@ -33,7 +33,7 @@ class ManFarmerMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dog {
-
+class Dog
+{
     public const SYMBOL = "🐕";
 
     public const HEX = "1F415";
@@ -33,7 +33,7 @@ class Dog {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

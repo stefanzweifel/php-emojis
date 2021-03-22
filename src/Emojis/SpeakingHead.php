@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpeakingHead {
-
+class SpeakingHead
+{
     public const SYMBOL = "🗣️";
 
     public const HEX = "1F5E3 FE0F";
@@ -33,7 +33,7 @@ class SpeakingHead {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

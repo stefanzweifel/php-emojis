@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Whale {
-
+class Whale
+{
     public const SYMBOL = "🐋";
 
     public const HEX = "1F40B";
@@ -33,7 +33,7 @@ class Whale {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CocktailGlass {
-
+class CocktailGlass
+{
     public const SYMBOL = "🍸";
 
     public const HEX = "1F378";
@@ -33,7 +33,7 @@ class CocktailGlass {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

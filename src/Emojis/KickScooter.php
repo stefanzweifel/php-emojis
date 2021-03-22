@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class KickScooter {
-
+class KickScooter
+{
     public const SYMBOL = "🛴";
 
     public const HEX = "1F6F4";
@@ -33,7 +33,7 @@ class KickScooter {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

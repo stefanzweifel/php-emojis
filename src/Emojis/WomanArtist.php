@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanArtist {
-
+class WomanArtist
+{
     public const SYMBOL = "👩‍🎨";
 
     public const HEX = "1F469 200D 1F3A8";
@@ -33,7 +33,7 @@ class WomanArtist {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

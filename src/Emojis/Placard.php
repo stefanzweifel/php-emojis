@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Placard {
-
+class Placard
+{
     public const SYMBOL = "🪧";
 
     public const HEX = "1FAA7";
@@ -33,7 +33,7 @@ class Placard {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSouthGeorgiaAndSouthSandwichIslands {
-
+class FlagsForFlagSouthGeorgiaAndSouthSandwichIslands
+{
     public const SYMBOL = "🇬🇸";
 
     public const HEX = "1F1EC 1F1F8";
@@ -33,7 +33,7 @@ class FlagsForFlagSouthGeorgiaAndSouthSandwichIslands {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

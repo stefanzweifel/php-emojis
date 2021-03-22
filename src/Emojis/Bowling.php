@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bowling {
-
+class Bowling
+{
     public const SYMBOL = "🎳";
 
     public const HEX = "1F3B3";
@@ -33,7 +33,7 @@ class Bowling {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

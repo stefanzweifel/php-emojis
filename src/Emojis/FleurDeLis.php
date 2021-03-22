@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FleurDeLis {
-
+class FleurDeLis
+{
     public const SYMBOL = "⚜️";
 
     public const HEX = "269C FE0F";
@@ -33,7 +33,7 @@ class FleurDeLis {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

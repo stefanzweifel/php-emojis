@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SnowCappedMountain {
-
+class SnowCappedMountain
+{
     public const SYMBOL = "🏔️";
 
     public const HEX = "1F3D4 FE0F";
@@ -33,7 +33,7 @@ class SnowCappedMountain {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Panda {
-
+class Panda
+{
     public const SYMBOL = "🐼";
 
     public const HEX = "1F43C";
@@ -33,7 +33,7 @@ class Panda {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

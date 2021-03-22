@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RoastedSweetPotato {
-
+class RoastedSweetPotato
+{
     public const SYMBOL = "🍠";
 
     public const HEX = "1F360";
@@ -33,7 +33,7 @@ class RoastedSweetPotato {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

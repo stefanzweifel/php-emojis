@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RadioButton {
-
+class RadioButton
+{
     public const SYMBOL = "🔘";
 
     public const HEX = "1F518";
@@ -33,7 +33,7 @@ class RadioButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

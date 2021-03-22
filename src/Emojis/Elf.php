@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Elf {
-
+class Elf
+{
     public const SYMBOL = "🧝";
 
     public const HEX = "1F9DD";
@@ -33,7 +33,7 @@ class Elf {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

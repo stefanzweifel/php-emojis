@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonRowingBoatLightSkinTone {
-
+class PersonRowingBoatLightSkinTone
+{
     public const SYMBOL = "🚣🏻";
 
     public const HEX = "1F6A3 1F3FB";
@@ -33,7 +33,7 @@ class PersonRowingBoatLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

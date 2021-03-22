@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Cyclone {
-
+class Cyclone
+{
     public const SYMBOL = "🌀";
 
     public const HEX = "1F300";
@@ -33,7 +33,7 @@ class Cyclone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

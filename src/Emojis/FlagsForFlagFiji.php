@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagFiji {
-
+class FlagsForFlagFiji
+{
     public const SYMBOL = "🇫🇯";
 
     public const HEX = "1F1EB 1F1EF";
@@ -33,7 +33,7 @@ class FlagsForFlagFiji {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

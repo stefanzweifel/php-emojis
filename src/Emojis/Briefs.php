@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Briefs {
-
+class Briefs
+{
     public const SYMBOL = "🩲";
 
     public const HEX = "1FA72";
@@ -33,7 +33,7 @@ class Briefs {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

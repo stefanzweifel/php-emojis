@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SlotMachine {
-
+class SlotMachine
+{
     public const SYMBOL = "🎰";
 
     public const HEX = "1F3B0";
@@ -33,7 +33,7 @@ class SlotMachine {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

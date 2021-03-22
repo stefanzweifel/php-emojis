@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpeechBalloon {
-
+class SpeechBalloon
+{
     public const SYMBOL = "💬";
 
     public const HEX = "1F4AC";
@@ -33,7 +33,7 @@ class SpeechBalloon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

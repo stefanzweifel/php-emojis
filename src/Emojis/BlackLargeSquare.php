@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BlackLargeSquare {
-
+class BlackLargeSquare
+{
     public const SYMBOL = "⬛";
 
     public const HEX = "2B1B";
@@ -33,7 +33,7 @@ class BlackLargeSquare {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

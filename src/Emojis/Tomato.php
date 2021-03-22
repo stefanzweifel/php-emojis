@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Tomato {
-
+class Tomato
+{
     public const SYMBOL = "🍅";
 
     public const HEX = "1F345";
@@ -33,7 +33,7 @@ class Tomato {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

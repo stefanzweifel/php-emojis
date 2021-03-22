@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BuildingConstruction {
-
+class BuildingConstruction
+{
     public const SYMBOL = "🏗️";
 
     public const HEX = "1F3D7 FE0F";
@@ -33,7 +33,7 @@ class BuildingConstruction {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

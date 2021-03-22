@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ChartDecreasing {
-
+class ChartDecreasing
+{
     public const SYMBOL = "📉";
 
     public const HEX = "1F4C9";
@@ -33,7 +33,7 @@ class ChartDecreasing {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

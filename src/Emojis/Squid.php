@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Squid {
-
+class Squid
+{
     public const SYMBOL = "🦑";
 
     public const HEX = "1F991";
@@ -33,7 +33,7 @@ class Squid {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

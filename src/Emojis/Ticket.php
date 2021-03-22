@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ticket {
-
+class Ticket
+{
     public const SYMBOL = "🎫";
 
     public const HEX = "1F3AB";
@@ -33,7 +33,7 @@ class Ticket {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Goblin {
-
+class Goblin
+{
     public const SYMBOL = "👺";
 
     public const HEX = "1F47A";
@@ -33,7 +33,7 @@ class Goblin {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

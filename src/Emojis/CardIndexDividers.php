@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CardIndexDividers {
-
+class CardIndexDividers
+{
     public const SYMBOL = "🗂️";
 
     public const HEX = "1F5C2 FE0F";
@@ -33,7 +33,7 @@ class CardIndexDividers {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

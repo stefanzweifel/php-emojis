@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RedExclamationMark {
-
+class RedExclamationMark
+{
     public const SYMBOL = "❗";
 
     public const HEX = "2757";
@@ -33,7 +33,7 @@ class RedExclamationMark {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

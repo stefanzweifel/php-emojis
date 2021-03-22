@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ZanyFace {
-
+class ZanyFace
+{
     public const SYMBOL = "🤪";
 
     public const HEX = "1F92A";
@@ -33,7 +33,7 @@ class ZanyFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DeciduousTree {
-
+class DeciduousTree
+{
     public const SYMBOL = "🌳";
 
     public const HEX = "1F333";
@@ -33,7 +33,7 @@ class DeciduousTree {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

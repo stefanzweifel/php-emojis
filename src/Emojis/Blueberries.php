@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Blueberries {
-
+class Blueberries
+{
     public const SYMBOL = "🫐";
 
     public const HEX = "1FAD0";
@@ -33,7 +33,7 @@ class Blueberries {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagPakistan {
-
+class FlagsForFlagPakistan
+{
     public const SYMBOL = "🇵🇰";
 
     public const HEX = "1F1F5 1F1F0";
@@ -33,7 +33,7 @@ class FlagsForFlagPakistan {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WearyFace {
-
+class WearyFace
+{
     public const SYMBOL = "😩";
 
     public const HEX = "1F629";
@@ -33,7 +33,7 @@ class WearyFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

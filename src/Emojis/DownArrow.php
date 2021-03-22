@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DownArrow {
-
+class DownArrow
+{
     public const SYMBOL = "⬇️";
 
     public const HEX = "2B07 FE0F";
@@ -33,7 +33,7 @@ class DownArrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

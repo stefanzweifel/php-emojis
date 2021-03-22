@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LinkedPaperclips {
-
+class LinkedPaperclips
+{
     public const SYMBOL = "🖇️";
 
     public const HEX = "1F587 FE0F";
@@ -33,7 +33,7 @@ class LinkedPaperclips {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

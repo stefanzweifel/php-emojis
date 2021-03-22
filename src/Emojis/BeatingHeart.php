@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BeatingHeart {
-
+class BeatingHeart
+{
     public const SYMBOL = "💓";
 
     public const HEX = "1F493";
@@ -33,7 +33,7 @@ class BeatingHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

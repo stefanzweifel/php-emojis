@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanJudgeMediumDarkSkinTone {
-
+class WomanJudgeMediumDarkSkinTone
+{
     public const SYMBOL = "👩🏾‍⚖️";
 
     public const HEX = "1F469 1F3FE 200D 2696 FE0F";
@@ -33,7 +33,7 @@ class WomanJudgeMediumDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

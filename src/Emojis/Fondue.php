@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Fondue {
-
+class Fondue
+{
     public const SYMBOL = "🫕";
 
     public const HEX = "1FAD5";
@@ -33,7 +33,7 @@ class Fondue {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

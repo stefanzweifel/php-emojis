@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSwitzerland {
-
+class FlagsForFlagSwitzerland
+{
     public const SYMBOL = "🇨🇭";
 
     public const HEX = "1F1E8 1F1ED";
@@ -33,7 +33,7 @@ class FlagsForFlagSwitzerland {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

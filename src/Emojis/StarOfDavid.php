@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StarOfDavid {
-
+class StarOfDavid
+{
     public const SYMBOL = "✡️";
 
     public const HEX = "2721 FE0F";
@@ -33,7 +33,7 @@ class StarOfDavid {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

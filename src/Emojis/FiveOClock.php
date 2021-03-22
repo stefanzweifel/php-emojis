@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FiveOClock {
-
+class FiveOClock
+{
     public const SYMBOL = "🕔";
 
     public const HEX = "1F554";
@@ -33,7 +33,7 @@ class FiveOClock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

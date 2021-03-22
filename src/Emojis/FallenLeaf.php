@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FallenLeaf {
-
+class FallenLeaf
+{
     public const SYMBOL = "🍂";
 
     public const HEX = "1F342";
@@ -33,7 +33,7 @@ class FallenLeaf {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

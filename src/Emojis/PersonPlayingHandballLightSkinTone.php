@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonPlayingHandballLightSkinTone {
-
+class PersonPlayingHandballLightSkinTone
+{
     public const SYMBOL = "🤾🏻";
 
     public const HEX = "1F93E 1F3FB";
@@ -33,7 +33,7 @@ class PersonPlayingHandballLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

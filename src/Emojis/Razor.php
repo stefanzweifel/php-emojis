@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Razor {
-
+class Razor
+{
     public const SYMBOL = "🪒";
 
     public const HEX = "1FA92";
@@ -33,7 +33,7 @@ class Razor {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

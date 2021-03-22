@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sunrise {
-
+class Sunrise
+{
     public const SYMBOL = "🌅";
 
     public const HEX = "1F305";
@@ -33,7 +33,7 @@ class Sunrise {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

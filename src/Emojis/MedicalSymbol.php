@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MedicalSymbol {
-
+class MedicalSymbol
+{
     public const SYMBOL = "⚕️";
 
     public const HEX = "2695 FE0F";
@@ -33,7 +33,7 @@ class MedicalSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

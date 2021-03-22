@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PoutingFace {
-
+class PoutingFace
+{
     public const SYMBOL = "😡";
 
     public const HEX = "1F621";
@@ -33,7 +33,7 @@ class PoutingFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

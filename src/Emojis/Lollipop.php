@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Lollipop {
-
+class Lollipop
+{
     public const SYMBOL = "🍭";
 
     public const HEX = "1F36D";
@@ -33,7 +33,7 @@ class Lollipop {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

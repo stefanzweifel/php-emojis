@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RightArrow {
-
+class RightArrow
+{
     public const SYMBOL = "➡️";
 
     public const HEX = "27A1 FE0F";
@@ -33,7 +33,7 @@ class RightArrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

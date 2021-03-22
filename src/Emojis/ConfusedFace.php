@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ConfusedFace {
-
+class ConfusedFace
+{
     public const SYMBOL = "😕";
 
     public const HEX = "1F615";
@@ -33,7 +33,7 @@ class ConfusedFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

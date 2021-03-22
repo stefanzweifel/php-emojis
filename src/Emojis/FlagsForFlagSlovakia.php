@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSlovakia {
-
+class FlagsForFlagSlovakia
+{
     public const SYMBOL = "🇸🇰";
 
     public const HEX = "1F1F8 1F1F0";
@@ -33,7 +33,7 @@ class FlagsForFlagSlovakia {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

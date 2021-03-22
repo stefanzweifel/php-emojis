@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Camel {
-
+class Camel
+{
     public const SYMBOL = "🐪";
 
     public const HEX = "1F42A";
@@ -33,7 +33,7 @@ class Camel {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WhiteHeart {
-
+class WhiteHeart
+{
     public const SYMBOL = "🤍";
 
     public const HEX = "1F90D";
@@ -33,7 +33,7 @@ class WhiteHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

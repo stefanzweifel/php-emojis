@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonInBed {
-
+class PersonInBed
+{
     public const SYMBOL = "🛌";
 
     public const HEX = "1F6CC";
@@ -33,7 +33,7 @@ class PersonInBed {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

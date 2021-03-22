@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GreenSalad {
-
+class GreenSalad
+{
     public const SYMBOL = "🥗";
 
     public const HEX = "1F957";
@@ -33,7 +33,7 @@ class GreenSalad {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StopButton {
-
+class StopButton
+{
     public const SYMBOL = "⏹️";
 
     public const HEX = "23F9 FE0F";
@@ -33,7 +33,7 @@ class StopButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

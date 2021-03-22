@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StarAndCrescent {
-
+class StarAndCrescent
+{
     public const SYMBOL = "☪️";
 
     public const HEX = "262A FE0F";
@@ -33,7 +33,7 @@ class StarAndCrescent {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

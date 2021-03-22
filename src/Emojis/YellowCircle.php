@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class YellowCircle {
-
+class YellowCircle
+{
     public const SYMBOL = "🟡";
 
     public const HEX = "1F7E1";
@@ -33,7 +33,7 @@ class YellowCircle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Scorpion {
-
+class Scorpion
+{
     public const SYMBOL = "🦂";
 
     public const HEX = "1F982";
@@ -33,7 +33,7 @@ class Scorpion {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

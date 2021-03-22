@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LargeBlueDiamond {
-
+class LargeBlueDiamond
+{
     public const SYMBOL = "🔷";
 
     public const HEX = "1F537";
@@ -33,7 +33,7 @@ class LargeBlueDiamond {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

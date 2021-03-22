@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Spaghetti {
-
+class Spaghetti
+{
     public const SYMBOL = "🍝";
 
     public const HEX = "1F35D";
@@ -33,7 +33,7 @@ class Spaghetti {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

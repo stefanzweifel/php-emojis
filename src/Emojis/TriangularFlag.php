@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TriangularFlag {
-
+class TriangularFlag
+{
     public const SYMBOL = "🚩";
 
     public const HEX = "1F6A9";
@@ -33,7 +33,7 @@ class TriangularFlag {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class AstonishedFace {
-
+class AstonishedFace
+{
     public const SYMBOL = "😲";
 
     public const HEX = "1F632";
@@ -33,7 +33,7 @@ class AstonishedFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

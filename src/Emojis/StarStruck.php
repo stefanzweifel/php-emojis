@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StarStruck {
-
+class StarStruck
+{
     public const SYMBOL = "🤩";
 
     public const HEX = "1F929";
@@ -33,7 +33,7 @@ class StarStruck {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

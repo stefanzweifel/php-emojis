@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FrontFacingBabyChick {
-
+class FrontFacingBabyChick
+{
     public const SYMBOL = "🐥";
 
     public const HEX = "1F425";
@@ -33,7 +33,7 @@ class FrontFacingBabyChick {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

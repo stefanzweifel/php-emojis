@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SheafOfRice {
-
+class SheafOfRice
+{
     public const SYMBOL = "🌾";
 
     public const HEX = "1F33E";
@@ -33,7 +33,7 @@ class SheafOfRice {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

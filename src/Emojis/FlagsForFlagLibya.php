@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagLibya {
-
+class FlagsForFlagLibya
+{
     public const SYMBOL = "🇱🇾";
 
     public const HEX = "1F1F1 1F1FE";
@@ -33,7 +33,7 @@ class FlagsForFlagLibya {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

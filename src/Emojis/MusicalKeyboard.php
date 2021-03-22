@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MusicalKeyboard {
-
+class MusicalKeyboard
+{
     public const SYMBOL = "🎹";
 
     public const HEX = "1F3B9";
@@ -33,7 +33,7 @@ class MusicalKeyboard {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

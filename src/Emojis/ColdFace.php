@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ColdFace {
-
+class ColdFace
+{
     public const SYMBOL = "🥶";
 
     public const HEX = "1F976";
@@ -33,7 +33,7 @@ class ColdFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

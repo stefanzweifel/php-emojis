@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Satellite {
-
+class Satellite
+{
     public const SYMBOL = "🛰️";
 
     public const HEX = "1F6F0 FE0F";
@@ -33,7 +33,7 @@ class Satellite {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

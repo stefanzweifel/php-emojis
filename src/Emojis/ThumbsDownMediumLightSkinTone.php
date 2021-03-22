@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ThumbsDownMediumLightSkinTone {
-
+class ThumbsDownMediumLightSkinTone
+{
     public const SYMBOL = "👎🏼";
 
     public const HEX = "1F44E 1F3FC";
@@ -33,7 +33,7 @@ class ThumbsDownMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

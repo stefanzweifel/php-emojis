@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RailwayCar {
-
+class RailwayCar
+{
     public const SYMBOL = "🚃";
 
     public const HEX = "1F683";
@@ -33,7 +33,7 @@ class RailwayCar {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

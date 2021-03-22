@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FaceWithRaisedEyebrow {
-
+class FaceWithRaisedEyebrow
+{
     public const SYMBOL = "🤨";
 
     public const HEX = "1F928";
@@ -33,7 +33,7 @@ class FaceWithRaisedEyebrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanHealthWorkerLightSkinTone {
-
+class WomanHealthWorkerLightSkinTone
+{
     public const SYMBOL = "👩🏻‍⚕️";
 
     public const HEX = "1F469 1F3FB 200D 2695 FE0F";
@@ -33,7 +33,7 @@ class WomanHealthWorkerLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

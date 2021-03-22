@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BlueSquare {
-
+class BlueSquare
+{
     public const SYMBOL = "🟦";
 
     public const HEX = "1F7E6";
@@ -33,7 +33,7 @@ class BlueSquare {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

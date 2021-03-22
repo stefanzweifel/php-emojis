@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Flashlight {
-
+class Flashlight
+{
     public const SYMBOL = "🔦";
 
     public const HEX = "1F526";
@@ -33,7 +33,7 @@ class Flashlight {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RelievedFace {
-
+class RelievedFace
+{
     public const SYMBOL = "😌";
 
     public const HEX = "1F60C";
@@ -33,7 +33,7 @@ class RelievedFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

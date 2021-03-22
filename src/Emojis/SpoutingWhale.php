@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpoutingWhale {
-
+class SpoutingWhale
+{
     public const SYMBOL = "🐳";
 
     public const HEX = "1F433";
@@ -33,7 +33,7 @@ class SpoutingWhale {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

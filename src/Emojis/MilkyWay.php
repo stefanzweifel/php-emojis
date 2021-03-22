@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MilkyWay {
-
+class MilkyWay
+{
     public const SYMBOL = "🌌";
 
     public const HEX = "1F30C";
@@ -33,7 +33,7 @@ class MilkyWay {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

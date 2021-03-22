@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class KissMediumLightSkinTone {
-
+class KissMediumLightSkinTone
+{
     public const SYMBOL = "💏🏼";
 
     public const HEX = "1F48F 1F3FC";
@@ -33,7 +33,7 @@ class KissMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

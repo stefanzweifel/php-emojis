@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SmilingFaceWithHearts {
-
+class SmilingFaceWithHearts
+{
     public const SYMBOL = "🥰";
 
     public const HEX = "1F970";
@@ -33,7 +33,7 @@ class SmilingFaceWithHearts {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

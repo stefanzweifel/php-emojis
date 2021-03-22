@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BentoBox {
-
+class BentoBox
+{
     public const SYMBOL = "🍱";
 
     public const HEX = "1F371";
@@ -33,7 +33,7 @@ class BentoBox {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WaningGibbousMoon {
-
+class WaningGibbousMoon
+{
     public const SYMBOL = "🌖";
 
     public const HEX = "1F316";
@@ -33,7 +33,7 @@ class WaningGibbousMoon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

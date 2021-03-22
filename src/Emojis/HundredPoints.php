@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HundredPoints {
-
+class HundredPoints
+{
     public const SYMBOL = "💯";
 
     public const HEX = "1F4AF";
@@ -33,7 +33,7 @@ class HundredPoints {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

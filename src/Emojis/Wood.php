@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Wood {
-
+class Wood
+{
     public const SYMBOL = "🪵";
 
     public const HEX = "1FAB5";
@@ -33,7 +33,7 @@ class Wood {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

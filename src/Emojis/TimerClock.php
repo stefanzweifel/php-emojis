@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TimerClock {
-
+class TimerClock
+{
     public const SYMBOL = "⏲️";
 
     public const HEX = "23F2 FE0F";
@@ -33,7 +33,7 @@ class TimerClock {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

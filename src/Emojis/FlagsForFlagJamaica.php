@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagJamaica {
-
+class FlagsForFlagJamaica
+{
     public const SYMBOL = "🇯🇲";
 
     public const HEX = "1F1EF 1F1F2";
@@ -33,7 +33,7 @@ class FlagsForFlagJamaica {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

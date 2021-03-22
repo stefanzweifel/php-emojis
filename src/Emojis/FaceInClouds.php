@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FaceInClouds {
-
+class FaceInClouds
+{
     public const SYMBOL = "😶‍🌫️";
 
     public const HEX = "1F636 200D 1F32B FE0F";
@@ -33,7 +33,7 @@ class FaceInClouds {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

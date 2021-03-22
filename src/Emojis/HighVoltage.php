@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HighVoltage {
-
+class HighVoltage
+{
     public const SYMBOL = "⚡";
 
     public const HEX = "26A1";
@@ -33,7 +33,7 @@ class HighVoltage {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

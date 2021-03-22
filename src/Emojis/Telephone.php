@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Telephone {
-
+class Telephone
+{
     public const SYMBOL = "☎️";
 
     public const HEX = "260E FE0F";
@@ -33,7 +33,7 @@ class Telephone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonBouncingBallMediumSkinTone {
-
+class PersonBouncingBallMediumSkinTone
+{
     public const SYMBOL = "⛹🏽";
 
     public const HEX = "26F9 1F3FD";
@@ -33,7 +33,7 @@ class PersonBouncingBallMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

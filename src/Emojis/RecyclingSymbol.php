@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RecyclingSymbol {
-
+class RecyclingSymbol
+{
     public const SYMBOL = "♻️";
 
     public const HEX = "267B FE0F";
@@ -33,7 +33,7 @@ class RecyclingSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

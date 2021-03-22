@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MermaidMediumLightSkinTone {
-
+class MermaidMediumLightSkinTone
+{
     public const SYMBOL = "🧜🏼‍♀️";
 
     public const HEX = "1F9DC 1F3FC 200D 2640 FE0F";
@@ -33,7 +33,7 @@ class MermaidMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

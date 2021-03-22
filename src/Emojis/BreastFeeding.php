@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BreastFeeding {
-
+class BreastFeeding
+{
     public const SYMBOL = "🤱";
 
     public const HEX = "1F931";
@@ -33,7 +33,7 @@ class BreastFeeding {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

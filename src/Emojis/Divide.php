@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Divide {
-
+class Divide
+{
     public const SYMBOL = "➗";
 
     public const HEX = "2797";
@@ -33,7 +33,7 @@ class Divide {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

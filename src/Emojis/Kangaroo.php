@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Kangaroo {
-
+class Kangaroo
+{
     public const SYMBOL = "🦘";
 
     public const HEX = "1F998";
@@ -33,7 +33,7 @@ class Kangaroo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

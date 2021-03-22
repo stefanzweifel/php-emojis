@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagPortugal {
-
+class FlagsForFlagPortugal
+{
     public const SYMBOL = "🇵🇹";
 
     public const HEX = "1F1F5 1F1F9";
@@ -33,7 +33,7 @@ class FlagsForFlagPortugal {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

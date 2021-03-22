@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LoveYouGestureDarkSkinTone {
-
+class LoveYouGestureDarkSkinTone
+{
     public const SYMBOL = "🤟🏿";
 
     public const HEX = "1F91F 1F3FF";
@@ -33,7 +33,7 @@ class LoveYouGestureDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

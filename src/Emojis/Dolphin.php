@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dolphin {
-
+class Dolphin
+{
     public const SYMBOL = "🐬";
 
     public const HEX = "1F42C";
@@ -33,7 +33,7 @@ class Dolphin {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

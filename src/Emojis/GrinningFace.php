@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GrinningFace {
-
+class GrinningFace
+{
     public const SYMBOL = "😀";
 
     public const HEX = "1F600";
@@ -33,7 +33,7 @@ class GrinningFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

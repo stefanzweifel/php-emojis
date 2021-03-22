@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OncomingBus {
-
+class OncomingBus
+{
     public const SYMBOL = "🚍";
 
     public const HEX = "1F68D";
@@ -33,7 +33,7 @@ class OncomingBus {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

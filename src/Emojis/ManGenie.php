@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManGenie {
-
+class ManGenie
+{
     public const SYMBOL = "🧞‍♂️";
 
     public const HEX = "1F9DE 200D 2642 FE0F";
@@ -33,7 +33,7 @@ class ManGenie {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

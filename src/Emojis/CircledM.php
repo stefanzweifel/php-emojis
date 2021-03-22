@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CircledM {
-
+class CircledM
+{
     public const SYMBOL = "Ⓜ️";
 
     public const HEX = "24C2 FE0F";
@@ -33,7 +33,7 @@ class CircledM {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

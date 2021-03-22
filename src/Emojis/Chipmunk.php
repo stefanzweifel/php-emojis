@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Chipmunk {
-
+class Chipmunk
+{
     public const SYMBOL = "🐿️";
 
     public const HEX = "1F43F FE0F";
@@ -33,7 +33,7 @@ class Chipmunk {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

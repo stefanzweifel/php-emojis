@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonWalking {
-
+class PersonWalking
+{
     public const SYMBOL = "🚶";
 
     public const HEX = "1F6B6";
@@ -33,7 +33,7 @@ class PersonWalking {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

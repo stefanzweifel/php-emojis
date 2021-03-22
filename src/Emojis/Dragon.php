@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dragon {
-
+class Dragon
+{
     public const SYMBOL = "🐉";
 
     public const HEX = "1F409";
@@ -33,7 +33,7 @@ class Dragon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

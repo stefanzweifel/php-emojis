@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MonkeyFace {
-
+class MonkeyFace
+{
     public const SYMBOL = "🐵";
 
     public const HEX = "1F435";
@@ -33,7 +33,7 @@ class MonkeyFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

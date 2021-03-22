@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManBouncingBall {
-
+class ManBouncingBall
+{
     public const SYMBOL = "⛹️‍♂️";
 
     public const HEX = "26F9 FE0F 200D 2642 FE0F";
@@ -33,7 +33,7 @@ class ManBouncingBall {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagStPierreAndMiquelon {
-
+class FlagsForFlagStPierreAndMiquelon
+{
     public const SYMBOL = "🇵🇲";
 
     public const HEX = "1F1F5 1F1F2";
@@ -33,7 +33,7 @@ class FlagsForFlagStPierreAndMiquelon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

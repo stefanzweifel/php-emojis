@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GrinningCatWithSmilingEyes {
-
+class GrinningCatWithSmilingEyes
+{
     public const SYMBOL = "😸";
 
     public const HEX = "1F638";
@@ -33,7 +33,7 @@ class GrinningCatWithSmilingEyes {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dress {
-
+class Dress
+{
     public const SYMBOL = "👗";
 
     public const HEX = "1F457";
@@ -33,7 +33,7 @@ class Dress {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BlackCat {
-
+class BlackCat
+{
     public const SYMBOL = "🐈‍⬛";
 
     public const HEX = "1F408 200D 2B1B";
@@ -33,7 +33,7 @@ class BlackCat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

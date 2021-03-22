@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MapleLeaf {
-
+class MapleLeaf
+{
     public const SYMBOL = "🍁";
 
     public const HEX = "1F341";
@@ -33,7 +33,7 @@ class MapleLeaf {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

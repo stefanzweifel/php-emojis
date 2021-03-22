@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Church {
-
+class Church
+{
     public const SYMBOL = "⛪";
 
     public const HEX = "26EA";
@@ -33,7 +33,7 @@ class Church {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

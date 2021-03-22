@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagAmericanSamoa {
-
+class FlagsForFlagAmericanSamoa
+{
     public const SYMBOL = "🇦🇸";
 
     public const HEX = "1F1E6 1F1F8";
@@ -33,7 +33,7 @@ class FlagsForFlagAmericanSamoa {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

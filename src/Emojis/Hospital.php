@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Hospital {
-
+class Hospital
+{
     public const SYMBOL = "🏥";
 
     public const HEX = "1F3E5";
@@ -33,7 +33,7 @@ class Hospital {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

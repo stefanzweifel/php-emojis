@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ComputerMouse {
-
+class ComputerMouse
+{
     public const SYMBOL = "🖱️";
 
     public const HEX = "1F5B1 FE0F";
@@ -33,7 +33,7 @@ class ComputerMouse {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Alien {
-
+class Alien
+{
     public const SYMBOL = "👽";
 
     public const HEX = "1F47D";
@@ -33,7 +33,7 @@ class Alien {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

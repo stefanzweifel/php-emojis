@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LabCoat {
-
+class LabCoat
+{
     public const SYMBOL = "🥼";
 
     public const HEX = "1F97C";
@@ -33,7 +33,7 @@ class LabCoat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

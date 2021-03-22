@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ThoughtBalloon {
-
+class ThoughtBalloon
+{
     public const SYMBOL = "💭";
 
     public const HEX = "1F4AD";
@@ -33,7 +33,7 @@ class ThoughtBalloon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

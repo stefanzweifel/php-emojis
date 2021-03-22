@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DetectiveMediumDarkSkinTone {
-
+class DetectiveMediumDarkSkinTone
+{
     public const SYMBOL = "🕵🏾";
 
     public const HEX = "1F575 1F3FE";
@@ -33,7 +33,7 @@ class DetectiveMediumDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

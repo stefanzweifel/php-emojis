@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PoultryLeg {
-
+class PoultryLeg
+{
     public const SYMBOL = "🍗";
 
     public const HEX = "1F357";
@@ -33,7 +33,7 @@ class PoultryLeg {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

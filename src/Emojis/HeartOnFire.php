@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HeartOnFire {
-
+class HeartOnFire
+{
     public const SYMBOL = "❤️‍🔥";
 
     public const HEX = "2764 FE0F 200D 1F525";
@@ -33,7 +33,7 @@ class HeartOnFire {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

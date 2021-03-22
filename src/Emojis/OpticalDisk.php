@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OpticalDisk {
-
+class OpticalDisk
+{
     public const SYMBOL = "💿";
 
     public const HEX = "1F4BF";
@@ -33,7 +33,7 @@ class OpticalDisk {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

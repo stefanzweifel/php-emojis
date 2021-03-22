@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FaceScreamingInFear {
-
+class FaceScreamingInFear
+{
     public const SYMBOL = "😱";
 
     public const HEX = "1F631";
@@ -33,7 +33,7 @@ class FaceScreamingInFear {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

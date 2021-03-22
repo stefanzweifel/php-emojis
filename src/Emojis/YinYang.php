@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class YinYang {
-
+class YinYang
+{
     public const SYMBOL = "☯️";
 
     public const HEX = "262F FE0F";
@@ -33,7 +33,7 @@ class YinYang {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

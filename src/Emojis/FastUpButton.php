@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FastUpButton {
-
+class FastUpButton
+{
     public const SYMBOL = "⏫";
 
     public const HEX = "23EB";
@@ -33,7 +33,7 @@ class FastUpButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

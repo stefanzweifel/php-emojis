@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Baseball {
-
+class Baseball
+{
     public const SYMBOL = "⚾";
 
     public const HEX = "26BE";
@@ -33,7 +33,7 @@ class Baseball {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

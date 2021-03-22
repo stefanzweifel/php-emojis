@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ChessPawn {
-
+class ChessPawn
+{
     public const SYMBOL = "♟️";
 
     public const HEX = "265F FE0F";
@@ -33,7 +33,7 @@ class ChessPawn {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

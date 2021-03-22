@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Lemon {
-
+class Lemon
+{
     public const SYMBOL = "🍋";
 
     public const HEX = "1F34B";
@@ -33,7 +33,7 @@ class Lemon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

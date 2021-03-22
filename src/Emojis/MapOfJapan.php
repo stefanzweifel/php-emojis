@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MapOfJapan {
-
+class MapOfJapan
+{
     public const SYMBOL = "🗾";
 
     public const HEX = "1F5FE";
@@ -33,7 +33,7 @@ class MapOfJapan {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

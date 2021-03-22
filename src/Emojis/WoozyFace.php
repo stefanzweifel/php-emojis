@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WoozyFace {
-
+class WoozyFace
+{
     public const SYMBOL = "🥴";
 
     public const HEX = "1F974";
@@ -33,7 +33,7 @@ class WoozyFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

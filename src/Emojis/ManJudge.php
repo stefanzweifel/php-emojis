@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManJudge {
-
+class ManJudge
+{
     public const SYMBOL = "👨‍⚖️";
 
     public const HEX = "1F468 200D 2696 FE0F";
@@ -33,7 +33,7 @@ class ManJudge {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

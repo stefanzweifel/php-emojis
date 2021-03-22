@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PerformingArts {
-
+class PerformingArts
+{
     public const SYMBOL = "🎭";
 
     public const HEX = "1F3AD";
@@ -33,7 +33,7 @@ class PerformingArts {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

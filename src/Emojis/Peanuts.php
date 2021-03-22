@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Peanuts {
-
+class Peanuts
+{
     public const SYMBOL = "🥜";
 
     public const HEX = "1F95C";
@@ -33,7 +33,7 @@ class Peanuts {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NauseatedFace {
-
+class NauseatedFace
+{
     public const SYMBOL = "🤢";
 
     public const HEX = "1F922";
@@ -33,7 +33,7 @@ class NauseatedFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

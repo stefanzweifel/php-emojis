@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Leo {
-
+class Leo
+{
     public const SYMBOL = "♌";
 
     public const HEX = "264C";
@@ -33,7 +33,7 @@ class Leo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

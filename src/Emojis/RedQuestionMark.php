@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RedQuestionMark {
-
+class RedQuestionMark
+{
     public const SYMBOL = "❓";
 
     public const HEX = "2753";
@@ -33,7 +33,7 @@ class RedQuestionMark {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

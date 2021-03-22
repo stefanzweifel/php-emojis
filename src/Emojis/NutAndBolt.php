@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NutAndBolt {
-
+class NutAndBolt
+{
     public const SYMBOL = "🔩";
 
     public const HEX = "1F529";
@@ -33,7 +33,7 @@ class NutAndBolt {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

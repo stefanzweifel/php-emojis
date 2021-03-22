@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WheelchairSymbol {
-
+class WheelchairSymbol
+{
     public const SYMBOL = "♿";
 
     public const HEX = "267F";
@@ -33,7 +33,7 @@ class WheelchairSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CrystalBall {
-
+class CrystalBall
+{
     public const SYMBOL = "🔮";
 
     public const HEX = "1F52E";
@@ -33,7 +33,7 @@ class CrystalBall {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

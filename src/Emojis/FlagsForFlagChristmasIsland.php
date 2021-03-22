@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagChristmasIsland {
-
+class FlagsForFlagChristmasIsland
+{
     public const SYMBOL = "🇨🇽";
 
     public const HEX = "1F1E8 1F1FD";
@@ -33,7 +33,7 @@ class FlagsForFlagChristmasIsland {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

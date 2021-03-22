@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Axe {
-
+class Axe
+{
     public const SYMBOL = "🪓";
 
     public const HEX = "1FA93";
@@ -33,7 +33,7 @@ class Axe {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

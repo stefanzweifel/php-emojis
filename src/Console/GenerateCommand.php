@@ -100,15 +100,11 @@ class GenerateCommand extends Command
     {
         // TODO: Make this more readable
         $parser->getGroups()->each(function (array $subgroups, string $groupName) {
-
             collect($subgroups)->each(function (array $emojis, string $subgroupName) use ($groupName) {
-
                 collect($emojis)->each(function (Emoji $emoji) use ($groupName, $subgroupName) {
                     $this->generateEmojiPhpclass($emoji, $groupName, $subgroupName);
                 });
-
             });
-
         });
     }
 

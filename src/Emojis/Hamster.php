@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Hamster {
-
+class Hamster
+{
     public const SYMBOL = "🐹";
 
     public const HEX = "1F439";
@@ -33,7 +33,7 @@ class Hamster {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

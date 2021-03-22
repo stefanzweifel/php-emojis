@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SmilingFaceWithSunglasses {
-
+class SmilingFaceWithSunglasses
+{
     public const SYMBOL = "😎";
 
     public const HEX = "1F60E";
@@ -33,7 +33,7 @@ class SmilingFaceWithSunglasses {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

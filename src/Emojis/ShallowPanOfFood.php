@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ShallowPanOfFood {
-
+class ShallowPanOfFood
+{
     public const SYMBOL = "🥘";
 
     public const HEX = "1F958";
@@ -33,7 +33,7 @@ class ShallowPanOfFood {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

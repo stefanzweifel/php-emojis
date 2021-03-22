@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Snail {
-
+class Snail
+{
     public const SYMBOL = "🐌";
 
     public const HEX = "1F40C";
@@ -33,7 +33,7 @@ class Snail {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

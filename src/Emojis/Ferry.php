@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ferry {
-
+class Ferry
+{
     public const SYMBOL = "⛴️";
 
     public const HEX = "26F4 FE0F";
@@ -33,7 +33,7 @@ class Ferry {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

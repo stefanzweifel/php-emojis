@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Basket {
-
+class Basket
+{
     public const SYMBOL = "🧺";
 
     public const HEX = "1F9FA";
@@ -33,7 +33,7 @@ class Basket {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

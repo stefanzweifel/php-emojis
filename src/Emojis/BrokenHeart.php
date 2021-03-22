@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BrokenHeart {
-
+class BrokenHeart
+{
     public const SYMBOL = "💔";
 
     public const HEX = "1F494";
@@ -33,7 +33,7 @@ class BrokenHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

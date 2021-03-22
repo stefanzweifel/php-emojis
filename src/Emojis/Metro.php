@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Metro {
-
+class Metro
+{
     public const SYMBOL = "🚇";
 
     public const HEX = "1F687";
@@ -33,7 +33,7 @@ class Metro {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

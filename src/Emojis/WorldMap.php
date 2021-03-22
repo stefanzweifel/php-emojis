@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WorldMap {
-
+class WorldMap
+{
     public const SYMBOL = "🗺️";
 
     public const HEX = "1F5FA FE0F";
@@ -33,7 +33,7 @@ class WorldMap {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

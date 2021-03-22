@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagGuatemala {
-
+class FlagsForFlagGuatemala
+{
     public const SYMBOL = "🇬🇹";
 
     public const HEX = "1F1EC 1F1F9";
@@ -33,7 +33,7 @@ class FlagsForFlagGuatemala {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

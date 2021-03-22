@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagYemen {
-
+class FlagsForFlagYemen
+{
     public const SYMBOL = "🇾🇪";
 
     public const HEX = "1F1FE 1F1EA";
@@ -33,7 +33,7 @@ class FlagsForFlagYemen {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

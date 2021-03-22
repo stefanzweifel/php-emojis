@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WhiteExclamationMark {
-
+class WhiteExclamationMark
+{
     public const SYMBOL = "❕";
 
     public const HEX = "2755";
@@ -33,7 +33,7 @@ class WhiteExclamationMark {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

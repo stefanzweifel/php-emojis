@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JudgeMediumSkinTone {
-
+class JudgeMediumSkinTone
+{
     public const SYMBOL = "🧑🏽‍⚖️";
 
     public const HEX = "1F9D1 1F3FD 200D 2696 FE0F";
@@ -33,7 +33,7 @@ class JudgeMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

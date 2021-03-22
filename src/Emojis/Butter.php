@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Butter {
-
+class Butter
+{
     public const SYMBOL = "🧈";
 
     public const HEX = "1F9C8";
@@ -33,7 +33,7 @@ class Butter {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

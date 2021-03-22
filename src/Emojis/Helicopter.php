@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Helicopter {
-
+class Helicopter
+{
     public const SYMBOL = "🚁";
 
     public const HEX = "1F681";
@@ -33,7 +33,7 @@ class Helicopter {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

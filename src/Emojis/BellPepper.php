@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BellPepper {
-
+class BellPepper
+{
     public const SYMBOL = "🫑";
 
     public const HEX = "1FAD1";
@@ -33,7 +33,7 @@ class BellPepper {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

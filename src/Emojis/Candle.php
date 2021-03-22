@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Candle {
-
+class Candle
+{
     public const SYMBOL = "🕯️";
 
     public const HEX = "1F56F FE0F";
@@ -33,7 +33,7 @@ class Candle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

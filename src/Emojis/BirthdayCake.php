@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BirthdayCake {
-
+class BirthdayCake
+{
     public const SYMBOL = "🎂";
 
     public const HEX = "1F382";
@@ -33,7 +33,7 @@ class BirthdayCake {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

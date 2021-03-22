@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Amphora {
-
+class Amphora
+{
     public const SYMBOL = "🏺";
 
     public const HEX = "1F3FA";
@@ -33,7 +33,7 @@ class Amphora {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

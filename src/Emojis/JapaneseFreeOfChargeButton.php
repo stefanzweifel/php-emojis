@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JapaneseFreeOfChargeButton {
-
+class JapaneseFreeOfChargeButton
+{
     public const SYMBOL = "🈚";
 
     public const HEX = "1F21A";
@@ -33,7 +33,7 @@ class JapaneseFreeOfChargeButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

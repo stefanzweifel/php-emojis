@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagKenya {
-
+class FlagsForFlagKenya
+{
     public const SYMBOL = "🇰🇪";
 
     public const HEX = "1F1F0 1F1EA";
@@ -33,7 +33,7 @@ class FlagsForFlagKenya {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

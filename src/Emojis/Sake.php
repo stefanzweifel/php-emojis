@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sake {
-
+class Sake
+{
     public const SYMBOL = "🍶";
 
     public const HEX = "1F376";
@@ -33,7 +33,7 @@ class Sake {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

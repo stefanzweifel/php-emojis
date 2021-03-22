@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JapaneseNoVacancyButton {
-
+class JapaneseNoVacancyButton
+{
     public const SYMBOL = "🈵";
 
     public const HEX = "1F235";
@@ -33,7 +33,7 @@ class JapaneseNoVacancyButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

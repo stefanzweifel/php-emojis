@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Aquarius {
-
+class Aquarius
+{
     public const SYMBOL = "♒";
 
     public const HEX = "2652";
@@ -33,7 +33,7 @@ class Aquarius {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

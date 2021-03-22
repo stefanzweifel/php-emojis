@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Rose {
-
+class Rose
+{
     public const SYMBOL = "🌹";
 
     public const HEX = "1F339";
@@ -33,7 +33,7 @@ class Rose {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

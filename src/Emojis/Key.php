@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Key {
-
+class Key
+{
     public const SYMBOL = "🔑";
 
     public const HEX = "1F511";
@@ -33,7 +33,7 @@ class Key {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

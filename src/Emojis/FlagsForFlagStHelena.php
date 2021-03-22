@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagStHelena {
-
+class FlagsForFlagStHelena
+{
     public const SYMBOL = "🇸🇭";
 
     public const HEX = "1F1F8 1F1ED";
@@ -33,7 +33,7 @@ class FlagsForFlagStHelena {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

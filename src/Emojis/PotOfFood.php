@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PotOfFood {
-
+class PotOfFood
+{
     public const SYMBOL = "🍲";
 
     public const HEX = "1F372";
@@ -33,7 +33,7 @@ class PotOfFood {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

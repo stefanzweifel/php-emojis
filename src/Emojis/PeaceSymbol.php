@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PeaceSymbol {
-
+class PeaceSymbol
+{
     public const SYMBOL = "☮️";
 
     public const HEX = "262E FE0F";
@@ -33,7 +33,7 @@ class PeaceSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

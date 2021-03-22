@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSouthKorea {
-
+class FlagsForFlagSouthKorea
+{
     public const SYMBOL = "🇰🇷";
 
     public const HEX = "1F1F0 1F1F7";
@@ -33,7 +33,7 @@ class FlagsForFlagSouthKorea {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Tooth {
-
+class Tooth
+{
     public const SYMBOL = "🦷";
 
     public const HEX = "1F9B7";
@@ -33,7 +33,7 @@ class Tooth {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

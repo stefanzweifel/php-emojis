@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagKuwait {
-
+class FlagsForFlagKuwait
+{
     public const SYMBOL = "🇰🇼";
 
     public const HEX = "1F1F0 1F1FC";
@@ -33,7 +33,7 @@ class FlagsForFlagKuwait {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

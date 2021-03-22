@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LevelSlider {
-
+class LevelSlider
+{
     public const SYMBOL = "🎚️";
 
     public const HEX = "1F39A FE0F";
@@ -33,7 +33,7 @@ class LevelSlider {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

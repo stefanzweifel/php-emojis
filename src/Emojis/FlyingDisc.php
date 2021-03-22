@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlyingDisc {
-
+class FlyingDisc
+{
     public const SYMBOL = "🥏";
 
     public const HEX = "1F94F";
@@ -33,7 +33,7 @@ class FlyingDisc {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

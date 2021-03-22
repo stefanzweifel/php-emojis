@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Banjo {
-
+class Banjo
+{
     public const SYMBOL = "🪕";
 
     public const HEX = "1FA95";
@@ -33,7 +33,7 @@ class Banjo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

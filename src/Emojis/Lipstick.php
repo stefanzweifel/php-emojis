@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Lipstick {
-
+class Lipstick
+{
     public const SYMBOL = "💄";
 
     public const HEX = "1F484";
@@ -33,7 +33,7 @@ class Lipstick {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

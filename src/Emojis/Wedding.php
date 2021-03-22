@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Wedding {
-
+class Wedding
+{
     public const SYMBOL = "💒";
 
     public const HEX = "1F492";
@@ -33,7 +33,7 @@ class Wedding {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

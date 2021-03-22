@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSierraLeone {
-
+class FlagsForFlagSierraLeone
+{
     public const SYMBOL = "🇸🇱";
 
     public const HEX = "1F1F8 1F1F1";
@@ -33,7 +33,7 @@ class FlagsForFlagSierraLeone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

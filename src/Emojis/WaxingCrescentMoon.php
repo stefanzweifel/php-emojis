@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WaxingCrescentMoon {
-
+class WaxingCrescentMoon
+{
     public const SYMBOL = "🌒";
 
     public const HEX = "1F312";
@@ -33,7 +33,7 @@ class WaxingCrescentMoon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

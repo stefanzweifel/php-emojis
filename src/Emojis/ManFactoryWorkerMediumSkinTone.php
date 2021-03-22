@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManFactoryWorkerMediumSkinTone {
-
+class ManFactoryWorkerMediumSkinTone
+{
     public const SYMBOL = "👨🏽‍🏭";
 
     public const HEX = "1F468 1F3FD 200D 1F3ED";
@@ -33,7 +33,7 @@ class ManFactoryWorkerMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

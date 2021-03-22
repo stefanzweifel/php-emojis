@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanMechanic {
-
+class WomanMechanic
+{
     public const SYMBOL = "👩‍🔧";
 
     public const HEX = "1F469 200D 1F527";
@@ -33,7 +33,7 @@ class WomanMechanic {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

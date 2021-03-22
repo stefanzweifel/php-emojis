@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Syringe {
-
+class Syringe
+{
     public const SYMBOL = "💉";
 
     public const HEX = "1F489";
@@ -33,7 +33,7 @@ class Syringe {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ShoppingBags {
-
+class ShoppingBags
+{
     public const SYMBOL = "🛍️";
 
     public const HEX = "1F6CD FE0F";
@@ -33,7 +33,7 @@ class ShoppingBags {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

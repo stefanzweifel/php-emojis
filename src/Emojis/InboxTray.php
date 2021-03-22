@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class InboxTray {
-
+class InboxTray
+{
     public const SYMBOL = "📥";
 
     public const HEX = "1F4E5";
@@ -33,7 +33,7 @@ class InboxTray {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

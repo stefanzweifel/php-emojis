@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManSShoe {
-
+class ManSShoe
+{
     public const SYMBOL = "👞";
 
     public const HEX = "1F45E";
@@ -33,7 +33,7 @@ class ManSShoe {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

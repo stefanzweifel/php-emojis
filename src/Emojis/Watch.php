@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Watch {
-
+class Watch
+{
     public const SYMBOL = "⌚";
 
     public const HEX = "231A";
@@ -33,7 +33,7 @@ class Watch {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

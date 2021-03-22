@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Infinity {
-
+class Infinity
+{
     public const SYMBOL = "♾️";
 
     public const HEX = "267E FE0F";
@@ -33,7 +33,7 @@ class Infinity {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

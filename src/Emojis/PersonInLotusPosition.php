@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonInLotusPosition {
-
+class PersonInLotusPosition
+{
     public const SYMBOL = "🧘";
 
     public const HEX = "1F9D8";
@@ -33,7 +33,7 @@ class PersonInLotusPosition {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

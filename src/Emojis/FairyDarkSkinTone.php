@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FairyDarkSkinTone {
-
+class FairyDarkSkinTone
+{
     public const SYMBOL = "🧚🏿";
 
     public const HEX = "1F9DA 1F3FF";
@@ -33,7 +33,7 @@ class FairyDarkSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

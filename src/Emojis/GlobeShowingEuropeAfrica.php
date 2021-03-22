@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class GlobeShowingEuropeAfrica {
-
+class GlobeShowingEuropeAfrica
+{
     public const SYMBOL = "🌍";
 
     public const HEX = "1F30D";
@@ -33,7 +33,7 @@ class GlobeShowingEuropeAfrica {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

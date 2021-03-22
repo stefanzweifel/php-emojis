@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HearNoEvilMonkey {
-
+class HearNoEvilMonkey
+{
     public const SYMBOL = "🙉";
 
     public const HEX = "1F649";
@@ -33,7 +33,7 @@ class HearNoEvilMonkey {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

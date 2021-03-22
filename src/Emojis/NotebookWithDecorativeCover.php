@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NotebookWithDecorativeCover {
-
+class NotebookWithDecorativeCover
+{
     public const SYMBOL = "📔";
 
     public const HEX = "1F4D4";
@@ -33,7 +33,7 @@ class NotebookWithDecorativeCover {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

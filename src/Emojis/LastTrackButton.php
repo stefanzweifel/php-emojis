@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class LastTrackButton {
-
+class LastTrackButton
+{
     public const SYMBOL = "⏮️";
 
     public const HEX = "23EE FE0F";
@@ -33,7 +33,7 @@ class LastTrackButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

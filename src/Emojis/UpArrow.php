@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class UpArrow {
-
+class UpArrow
+{
     public const SYMBOL = "⬆️";
 
     public const HEX = "2B06 FE0F";
@@ -33,7 +33,7 @@ class UpArrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

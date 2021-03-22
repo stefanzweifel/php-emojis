@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class UpwardsButton {
-
+class UpwardsButton
+{
     public const SYMBOL = "🔼";
 
     public const HEX = "1F53C";
@@ -33,7 +33,7 @@ class UpwardsButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

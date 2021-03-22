@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSriLanka {
-
+class FlagsForFlagSriLanka
+{
     public const SYMBOL = "🇱🇰";
 
     public const HEX = "1F1F1 1F1F0";
@@ -33,7 +33,7 @@ class FlagsForFlagSriLanka {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

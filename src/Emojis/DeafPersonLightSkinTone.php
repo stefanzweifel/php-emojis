@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DeafPersonLightSkinTone {
-
+class DeafPersonLightSkinTone
+{
     public const SYMBOL = "🧏🏻";
 
     public const HEX = "1F9CF 1F3FB";
@@ -33,7 +33,7 @@ class DeafPersonLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

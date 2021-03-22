@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Ledger {
-
+class Ledger
+{
     public const SYMBOL = "📒";
 
     public const HEX = "1F4D2";
@@ -33,7 +33,7 @@ class Ledger {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

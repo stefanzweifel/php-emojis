@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PersonBowing {
-
+class PersonBowing
+{
     public const SYMBOL = "🙇";
 
     public const HEX = "1F647";
@@ -33,7 +33,7 @@ class PersonBowing {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Egg {
-
+class Egg
+{
     public const SYMBOL = "🥚";
 
     public const HEX = "1F95A";
@@ -33,7 +33,7 @@ class Egg {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

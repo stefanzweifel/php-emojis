@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Brick {
-
+class Brick
+{
     public const SYMBOL = "🧱";
 
     public const HEX = "1F9F1";
@@ -33,7 +33,7 @@ class Brick {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

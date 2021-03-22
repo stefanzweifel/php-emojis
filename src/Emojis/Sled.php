@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sled {
-
+class Sled
+{
     public const SYMBOL = "🛷";
 
     public const HEX = "1F6F7";
@@ -33,7 +33,7 @@ class Sled {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

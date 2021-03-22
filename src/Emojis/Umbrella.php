@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Umbrella {
-
+class Umbrella
+{
     public const SYMBOL = "☂️";
 
     public const HEX = "2602 FE0F";
@@ -33,7 +33,7 @@ class Umbrella {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

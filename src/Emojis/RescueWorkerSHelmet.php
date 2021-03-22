@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RescueWorkerSHelmet {
-
+class RescueWorkerSHelmet
+{
     public const SYMBOL = "⛑️";
 
     public const HEX = "26D1 FE0F";
@@ -33,7 +33,7 @@ class RescueWorkerSHelmet {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

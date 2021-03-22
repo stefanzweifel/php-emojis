@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sparkle {
-
+class Sparkle
+{
     public const SYMBOL = "❇️";
 
     public const HEX = "2747 FE0F";
@@ -33,7 +33,7 @@ class Sparkle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

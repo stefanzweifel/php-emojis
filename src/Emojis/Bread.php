@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bread {
-
+class Bread
+{
     public const SYMBOL = "🍞";
 
     public const HEX = "1F35E";
@@ -33,7 +33,7 @@ class Bread {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

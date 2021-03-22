@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pisces {
-
+class Pisces
+{
     public const SYMBOL = "♓";
 
     public const HEX = "2653";
@@ -33,7 +33,7 @@ class Pisces {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

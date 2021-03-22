@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FaceWithTearsOfJoy {
-
+class FaceWithTearsOfJoy
+{
     public const SYMBOL = "😂";
 
     public const HEX = "1F602";
@@ -33,7 +33,7 @@ class FaceWithTearsOfJoy {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

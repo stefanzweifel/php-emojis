@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Taurus {
-
+class Taurus
+{
     public const SYMBOL = "♉";
 
     public const HEX = "2649";
@@ -33,7 +33,7 @@ class Taurus {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

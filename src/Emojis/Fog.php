@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Fog {
-
+class Fog
+{
     public const SYMBOL = "🌫️";
 
     public const HEX = "1F32B FE0F";
@@ -33,7 +33,7 @@ class Fog {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

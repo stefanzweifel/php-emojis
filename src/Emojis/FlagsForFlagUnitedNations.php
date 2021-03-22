@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagUnitedNations {
-
+class FlagsForFlagUnitedNations
+{
     public const SYMBOL = "🇺🇳";
 
     public const HEX = "1F1FA 1F1F3";
@@ -33,7 +33,7 @@ class FlagsForFlagUnitedNations {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

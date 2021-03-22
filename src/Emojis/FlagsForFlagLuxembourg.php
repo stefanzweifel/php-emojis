@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagLuxembourg {
-
+class FlagsForFlagLuxembourg
+{
     public const SYMBOL = "🇱🇺";
 
     public const HEX = "1F1F1 1F1FA";
@@ -33,7 +33,7 @@ class FlagsForFlagLuxembourg {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

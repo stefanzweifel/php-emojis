@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class SpiralShell {
-
+class SpiralShell
+{
     public const SYMBOL = "🐚";
 
     public const HEX = "1F41A";
@@ -33,7 +33,7 @@ class SpiralShell {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

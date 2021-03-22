@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WavingHandMediumLightSkinTone {
-
+class WavingHandMediumLightSkinTone
+{
     public const SYMBOL = "👋🏼";
 
     public const HEX = "1F44B 1F3FC";
@@ -33,7 +33,7 @@ class WavingHandMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

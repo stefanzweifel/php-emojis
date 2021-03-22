@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagCameroon {
-
+class FlagsForFlagCameroon
+{
     public const SYMBOL = "🇨🇲";
 
     public const HEX = "1F1E8 1F1F2";
@@ -33,7 +33,7 @@ class FlagsForFlagCameroon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

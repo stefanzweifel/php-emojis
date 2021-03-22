@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManFirefighterLightSkinTone {
-
+class ManFirefighterLightSkinTone
+{
     public const SYMBOL = "👨🏻‍🚒";
 
     public const HEX = "1F468 1F3FB 200D 1F692";
@@ -33,7 +33,7 @@ class ManFirefighterLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

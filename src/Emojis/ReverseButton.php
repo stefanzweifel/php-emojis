@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ReverseButton {
-
+class ReverseButton
+{
     public const SYMBOL = "◀️";
 
     public const HEX = "25C0 FE0F";
@@ -33,7 +33,7 @@ class ReverseButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

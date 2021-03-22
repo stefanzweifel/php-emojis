@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ClosedBook {
-
+class ClosedBook
+{
     public const SYMBOL = "📕";
 
     public const HEX = "1F4D5";
@@ -33,7 +33,7 @@ class ClosedBook {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

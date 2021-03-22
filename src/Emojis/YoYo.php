@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class YoYo {
-
+class YoYo
+{
     public const SYMBOL = "🪀";
 
     public const HEX = "1FA80";
@@ -33,7 +33,7 @@ class YoYo {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

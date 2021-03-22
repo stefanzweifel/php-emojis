@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MagicWand {
-
+class MagicWand
+{
     public const SYMBOL = "🪄";
 
     public const HEX = "1FA84";
@@ -33,7 +33,7 @@ class MagicWand {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

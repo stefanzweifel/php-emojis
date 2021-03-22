@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pear {
-
+class Pear
+{
     public const SYMBOL = "🍐";
 
     public const HEX = "1F350";
@@ -33,7 +33,7 @@ class Pear {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Headphone {
-
+class Headphone
+{
     public const SYMBOL = "🎧";
 
     public const HEX = "1F3A7";
@@ -33,7 +33,7 @@ class Headphone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

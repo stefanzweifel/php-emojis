@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Synagogue {
-
+class Synagogue
+{
     public const SYMBOL = "🕍";
 
     public const HEX = "1F54D";
@@ -33,7 +33,7 @@ class Synagogue {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

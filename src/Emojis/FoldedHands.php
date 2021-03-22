@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FoldedHands {
-
+class FoldedHands
+{
     public const SYMBOL = "🙏";
 
     public const HEX = "1F64F";
@@ -33,7 +33,7 @@ class FoldedHands {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

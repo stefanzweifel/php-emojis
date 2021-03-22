@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JapaneseHereButton {
-
+class JapaneseHereButton
+{
     public const SYMBOL = "🈁";
 
     public const HEX = "1F201";
@@ -33,7 +33,7 @@ class JapaneseHereButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

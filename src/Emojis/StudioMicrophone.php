@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StudioMicrophone {
-
+class StudioMicrophone
+{
     public const SYMBOL = "🎙️";
 
     public const HEX = "1F399 FE0F";
@@ -33,7 +33,7 @@ class StudioMicrophone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

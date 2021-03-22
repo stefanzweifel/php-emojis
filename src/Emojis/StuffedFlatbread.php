@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class StuffedFlatbread {
-
+class StuffedFlatbread
+{
     public const SYMBOL = "🥙";
 
     public const HEX = "1F959";
@@ -33,7 +33,7 @@ class StuffedFlatbread {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

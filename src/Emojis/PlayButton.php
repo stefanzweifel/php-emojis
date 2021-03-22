@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PlayButton {
-
+class PlayButton
+{
     public const SYMBOL = "▶️";
 
     public const HEX = "25B6 FE0F";
@@ -33,7 +33,7 @@ class PlayButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

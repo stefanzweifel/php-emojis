@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagMartinique {
-
+class FlagsForFlagMartinique
+{
     public const SYMBOL = "🇲🇶";
 
     public const HEX = "1F1F2 1F1F6";
@@ -33,7 +33,7 @@ class FlagsForFlagMartinique {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

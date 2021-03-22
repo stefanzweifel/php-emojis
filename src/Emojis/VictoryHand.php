@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class VictoryHand {
-
+class VictoryHand
+{
     public const SYMBOL = "✌️";
 
     public const HEX = "270C FE0F";
@@ -33,7 +33,7 @@ class VictoryHand {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

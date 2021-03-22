@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MobilePhoneWithArrow {
-
+class MobilePhoneWithArrow
+{
     public const SYMBOL = "📲";
 
     public const HEX = "1F4F2";
@@ -33,7 +33,7 @@ class MobilePhoneWithArrow {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

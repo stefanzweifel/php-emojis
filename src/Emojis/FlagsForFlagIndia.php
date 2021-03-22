@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagIndia {
-
+class FlagsForFlagIndia
+{
     public const SYMBOL = "🇮🇳";
 
     public const HEX = "1F1EE 1F1F3";
@@ -33,7 +33,7 @@ class FlagsForFlagIndia {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

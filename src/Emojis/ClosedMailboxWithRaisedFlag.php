@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ClosedMailboxWithRaisedFlag {
-
+class ClosedMailboxWithRaisedFlag
+{
     public const SYMBOL = "📫";
 
     public const HEX = "1F4EB";
@@ -33,7 +33,7 @@ class ClosedMailboxWithRaisedFlag {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

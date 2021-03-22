@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ThongSandal {
-
+class ThongSandal
+{
     public const SYMBOL = "🩴";
 
     public const HEX = "1FA74";
@@ -33,7 +33,7 @@ class ThongSandal {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

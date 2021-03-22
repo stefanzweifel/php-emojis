@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RabbitFace {
-
+class RabbitFace
+{
     public const SYMBOL = "🐰";
 
     public const HEX = "1F430";
@@ -33,7 +33,7 @@ class RabbitFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

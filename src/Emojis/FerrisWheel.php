@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FerrisWheel {
-
+class FerrisWheel
+{
     public const SYMBOL = "🎡";
 
     public const HEX = "1F3A1";
@@ -33,7 +33,7 @@ class FerrisWheel {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Beetle {
-
+class Beetle
+{
     public const SYMBOL = "🪲";
 
     public const HEX = "1FAB2";
@@ -33,7 +33,7 @@ class Beetle {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

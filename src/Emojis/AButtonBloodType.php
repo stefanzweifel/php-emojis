@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class AButtonBloodType {
-
+class AButtonBloodType
+{
     public const SYMBOL = "🅰️";
 
     public const HEX = "1F170 FE0F";
@@ -33,7 +33,7 @@ class AButtonBloodType {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

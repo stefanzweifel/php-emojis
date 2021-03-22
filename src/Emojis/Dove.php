@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Dove {
-
+class Dove
+{
     public const SYMBOL = "🕊️";
 
     public const HEX = "1F54A FE0F";
@@ -33,7 +33,7 @@ class Dove {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

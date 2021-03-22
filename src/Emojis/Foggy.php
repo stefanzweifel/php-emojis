@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Foggy {
-
+class Foggy
+{
     public const SYMBOL = "🌁";
 
     public const HEX = "1F301";
@@ -33,7 +33,7 @@ class Foggy {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

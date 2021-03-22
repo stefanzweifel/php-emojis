@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Printer {
-
+class Printer
+{
     public const SYMBOL = "🖨️";
 
     public const HEX = "1F5A8 FE0F";
@@ -33,7 +33,7 @@ class Printer {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

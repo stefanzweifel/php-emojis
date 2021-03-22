@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TwoHumpCamel {
-
+class TwoHumpCamel
+{
     public const SYMBOL = "🐫";
 
     public const HEX = "1F42B";
@@ -33,7 +33,7 @@ class TwoHumpCamel {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class JapaneseCongratulationsButton {
-
+class JapaneseCongratulationsButton
+{
     public const SYMBOL = "㊗️";
 
     public const HEX = "3297 FE0F";
@@ -33,7 +33,7 @@ class JapaneseCongratulationsButton {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PolarBear {
-
+class PolarBear
+{
     public const SYMBOL = "🐻‍❄️";
 
     public const HEX = "1F43B 200D 2744 FE0F";
@@ -33,7 +33,7 @@ class PolarBear {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Gear {
-
+class Gear
+{
     public const SYMBOL = "⚙️";
 
     public const HEX = "2699 FE0F";
@@ -33,7 +33,7 @@ class Gear {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

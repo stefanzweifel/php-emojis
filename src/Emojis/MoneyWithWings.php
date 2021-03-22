@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MoneyWithWings {
-
+class MoneyWithWings
+{
     public const SYMBOL = "💸";
 
     public const HEX = "1F4B8";
@@ -33,7 +33,7 @@ class MoneyWithWings {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

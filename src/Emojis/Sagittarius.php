@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Sagittarius {
-
+class Sagittarius
+{
     public const SYMBOL = "♐";
 
     public const HEX = "2650";
@@ -33,7 +33,7 @@ class Sagittarius {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

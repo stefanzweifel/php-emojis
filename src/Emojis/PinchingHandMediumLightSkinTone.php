@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PinchingHandMediumLightSkinTone {
-
+class PinchingHandMediumLightSkinTone
+{
     public const SYMBOL = "🤏🏼";
 
     public const HEX = "1F90F 1F3FC";
@@ -33,7 +33,7 @@ class PinchingHandMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

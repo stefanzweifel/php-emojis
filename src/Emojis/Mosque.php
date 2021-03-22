@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Mosque {
-
+class Mosque
+{
     public const SYMBOL = "🕌";
 
     public const HEX = "1F54C";
@@ -33,7 +33,7 @@ class Mosque {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

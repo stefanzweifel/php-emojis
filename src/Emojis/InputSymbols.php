@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class InputSymbols {
-
+class InputSymbols
+{
     public const SYMBOL = "🔣";
 
     public const HEX = "1F523";
@@ -33,7 +33,7 @@ class InputSymbols {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

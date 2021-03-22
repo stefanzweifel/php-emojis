@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ClappingHandsMediumSkinTone {
-
+class ClappingHandsMediumSkinTone
+{
     public const SYMBOL = "👏🏽";
 
     public const HEX = "1F44F 1F3FD";
@@ -33,7 +33,7 @@ class ClappingHandsMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

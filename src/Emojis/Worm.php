@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Worm {
-
+class Worm
+{
     public const SYMBOL = "🪱";
 
     public const HEX = "1FAB1";
@@ -33,7 +33,7 @@ class Worm {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

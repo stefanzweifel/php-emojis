@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ManSinger {
-
+class ManSinger
+{
     public const SYMBOL = "👨‍🎤";
 
     public const HEX = "1F468 200D 1F3A4";
@@ -33,7 +33,7 @@ class ManSinger {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

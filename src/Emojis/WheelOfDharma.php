@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WheelOfDharma {
-
+class WheelOfDharma
+{
     public const SYMBOL = "☸️";
 
     public const HEX = "2638 FE0F";
@@ -33,7 +33,7 @@ class WheelOfDharma {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

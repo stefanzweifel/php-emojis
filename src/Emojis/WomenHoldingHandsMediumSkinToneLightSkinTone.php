@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomenHoldingHandsMediumSkinToneLightSkinTone {
-
+class WomenHoldingHandsMediumSkinToneLightSkinTone
+{
     public const SYMBOL = "👩🏽‍🤝‍👩🏻";
 
     public const HEX = "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FB";
@@ -33,7 +33,7 @@ class WomenHoldingHandsMediumSkinToneLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PoutingCat {
-
+class PoutingCat
+{
     public const SYMBOL = "😾";
 
     public const HEX = "1F63E";
@@ -33,7 +33,7 @@ class PoutingCat {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Screwdriver {
-
+class Screwdriver
+{
     public const SYMBOL = "🪛";
 
     public const HEX = "1FA9B";
@@ -33,7 +33,7 @@ class Screwdriver {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

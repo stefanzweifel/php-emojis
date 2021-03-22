@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FamilyManBoy {
-
+class FamilyManBoy
+{
     public const SYMBOL = "👨‍👦";
 
     public const HEX = "1F468 200D 1F466";
@@ -33,7 +33,7 @@ class FamilyManBoy {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

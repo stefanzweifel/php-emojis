@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Flatbread {
-
+class Flatbread
+{
     public const SYMBOL = "🫓";
 
     public const HEX = "1FAD3";
@@ -33,7 +33,7 @@ class Flatbread {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

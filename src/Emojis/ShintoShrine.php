@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ShintoShrine {
-
+class ShintoShrine
+{
     public const SYMBOL = "⛩️";
 
     public const HEX = "26E9 FE0F";
@@ -33,7 +33,7 @@ class ShintoShrine {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

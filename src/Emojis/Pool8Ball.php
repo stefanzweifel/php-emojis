@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pool8Ball {
-
+class Pool8Ball
+{
     public const SYMBOL = "🎱";
 
     public const HEX = "1F3B1";
@@ -33,7 +33,7 @@ class Pool8Ball {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bacon {
-
+class Bacon
+{
     public const SYMBOL = "🥓";
 
     public const HEX = "1F953";
@@ -33,7 +33,7 @@ class Bacon {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

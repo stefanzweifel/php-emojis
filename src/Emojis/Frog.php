@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Frog {
-
+class Frog
+{
     public const SYMBOL = "🐸";
 
     public const HEX = "1F438";
@@ -33,7 +33,7 @@ class Frog {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

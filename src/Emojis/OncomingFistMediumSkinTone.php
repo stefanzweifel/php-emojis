@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class OncomingFistMediumSkinTone {
-
+class OncomingFistMediumSkinTone
+{
     public const SYMBOL = "👊🏽";
 
     public const HEX = "1F44A 1F3FD";
@@ -33,7 +33,7 @@ class OncomingFistMediumSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

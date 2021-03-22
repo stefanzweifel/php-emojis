@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class TransgenderSymbol {
-
+class TransgenderSymbol
+{
     public const SYMBOL = "⚧️";
 
     public const HEX = "26A7 FE0F";
@@ -33,7 +33,7 @@ class TransgenderSymbol {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

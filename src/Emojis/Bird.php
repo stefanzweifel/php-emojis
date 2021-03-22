@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bird {
-
+class Bird
+{
     public const SYMBOL = "🐦";
 
     public const HEX = "1F426";
@@ -33,7 +33,7 @@ class Bird {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EMail {
-
+class EMail
+{
     public const SYMBOL = "📧";
 
     public const HEX = "1F4E7";
@@ -33,7 +33,7 @@ class EMail {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

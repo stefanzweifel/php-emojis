@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class NewMoonFace {
-
+class NewMoonFace
+{
     public const SYMBOL = "🌚";
 
     public const HEX = "1F31A";
@@ -33,7 +33,7 @@ class NewMoonFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

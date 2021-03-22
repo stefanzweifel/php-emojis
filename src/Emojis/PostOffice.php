@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PostOffice {
-
+class PostOffice
+{
     public const SYMBOL = "🏤";
 
     public const HEX = "1F3E4";
@@ -33,7 +33,7 @@ class PostOffice {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanSBoot {
-
+class WomanSBoot
+{
     public const SYMBOL = "👢";
 
     public const HEX = "1F462";
@@ -33,7 +33,7 @@ class WomanSBoot {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

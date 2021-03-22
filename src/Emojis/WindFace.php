@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WindFace {
-
+class WindFace
+{
     public const SYMBOL = "🌬️";
 
     public const HEX = "1F32C FE0F";
@@ -33,7 +33,7 @@ class WindFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

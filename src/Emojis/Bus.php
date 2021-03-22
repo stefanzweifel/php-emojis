@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Bus {
-
+class Bus
+{
     public const SYMBOL = "🚌";
 
     public const HEX = "1F68C";
@@ -33,7 +33,7 @@ class Bus {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

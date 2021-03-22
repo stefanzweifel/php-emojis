@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class CheckMark {
-
+class CheckMark
+{
     public const SYMBOL = "✔️";
 
     public const HEX = "2714 FE0F";
@@ -33,7 +33,7 @@ class CheckMark {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

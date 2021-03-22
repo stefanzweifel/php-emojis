@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagSerbia {
-
+class FlagsForFlagSerbia
+{
     public const SYMBOL = "🇷🇸";
 
     public const HEX = "1F1F7 1F1F8";
@@ -33,7 +33,7 @@ class FlagsForFlagSerbia {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

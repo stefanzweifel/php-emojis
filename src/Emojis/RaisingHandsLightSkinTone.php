@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RaisingHandsLightSkinTone {
-
+class RaisingHandsLightSkinTone
+{
     public const SYMBOL = "🙌🏻";
 
     public const HEX = "1F64C 1F3FB";
@@ -33,7 +33,7 @@ class RaisingHandsLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

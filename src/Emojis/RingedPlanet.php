@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RingedPlanet {
-
+class RingedPlanet
+{
     public const SYMBOL = "🪐";
 
     public const HEX = "1FA90";
@@ -33,7 +33,7 @@ class RingedPlanet {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

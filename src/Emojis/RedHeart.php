@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RedHeart {
-
+class RedHeart
+{
     public const SYMBOL = "❤️";
 
     public const HEX = "2764 FE0F";
@@ -33,7 +33,7 @@ class RedHeart {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

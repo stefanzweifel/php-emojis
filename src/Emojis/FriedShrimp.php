@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FriedShrimp {
-
+class FriedShrimp
+{
     public const SYMBOL = "🍤";
 
     public const HEX = "1F364";
@@ -33,7 +33,7 @@ class FriedShrimp {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DashingAway {
-
+class DashingAway
+{
     public const SYMBOL = "💨";
 
     public const HEX = "1F4A8";
@@ -33,7 +33,7 @@ class DashingAway {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

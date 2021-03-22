@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MoonViewingCeremony {
-
+class MoonViewingCeremony
+{
     public const SYMBOL = "🎑";
 
     public const HEX = "1F391";
@@ -33,7 +33,7 @@ class MoonViewingCeremony {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Pizza {
-
+class Pizza
+{
     public const SYMBOL = "🍕";
 
     public const HEX = "1F355";
@@ -33,7 +33,7 @@ class Pizza {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

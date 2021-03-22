@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagMalaysia {
-
+class FlagsForFlagMalaysia
+{
     public const SYMBOL = "🇲🇾";
 
     public const HEX = "1F1F2 1F1FE";
@@ -33,7 +33,7 @@ class FlagsForFlagMalaysia {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

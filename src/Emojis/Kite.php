@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Kite {
-
+class Kite
+{
     public const SYMBOL = "🪁";
 
     public const HEX = "1FA81";
@@ -33,7 +33,7 @@ class Kite {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

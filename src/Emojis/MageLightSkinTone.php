@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class MageLightSkinTone {
-
+class MageLightSkinTone
+{
     public const SYMBOL = "🧙🏻";
 
     public const HEX = "1F9D9 1F3FB";
@@ -33,7 +33,7 @@ class MageLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

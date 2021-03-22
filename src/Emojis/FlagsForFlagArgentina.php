@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagArgentina {
-
+class FlagsForFlagArgentina
+{
     public const SYMBOL = "🇦🇷";
 
     public const HEX = "1F1E6 1F1F7";
@@ -33,7 +33,7 @@ class FlagsForFlagArgentina {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

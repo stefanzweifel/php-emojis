@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Zebra {
-
+class Zebra
+{
     public const SYMBOL = "🦓";
 
     public const HEX = "1F993";
@@ -33,7 +33,7 @@ class Zebra {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Shrimp {
-
+class Shrimp
+{
     public const SYMBOL = "🦐";
 
     public const HEX = "1F990";
@@ -33,7 +33,7 @@ class Shrimp {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

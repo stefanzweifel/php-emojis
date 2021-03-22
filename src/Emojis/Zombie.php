@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Zombie {
-
+class Zombie
+{
     public const SYMBOL = "🧟";
 
     public const HEX = "1F9DF";
@@ -33,7 +33,7 @@ class Zombie {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

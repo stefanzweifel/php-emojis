@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class DollarBanknote {
-
+class DollarBanknote
+{
     public const SYMBOL = "💵";
 
     public const HEX = "1F4B5";
@@ -33,7 +33,7 @@ class DollarBanknote {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

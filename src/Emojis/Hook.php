@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Hook {
-
+class Hook
+{
     public const SYMBOL = "🪝";
 
     public const HEX = "1FA9D";
@@ -33,7 +33,7 @@ class Hook {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

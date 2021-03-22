@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class ArticulatedLorry {
-
+class ArticulatedLorry
+{
     public const SYMBOL = "🚛";
 
     public const HEX = "1F69B";
@@ -33,7 +33,7 @@ class ArticulatedLorry {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Grapes {
-
+class Grapes
+{
     public const SYMBOL = "🍇";
 
     public const HEX = "1F347";
@@ -33,7 +33,7 @@ class Grapes {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

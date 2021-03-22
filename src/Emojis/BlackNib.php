@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BlackNib {
-
+class BlackNib
+{
     public const SYMBOL = "✒️";
 
     public const HEX = "2712 FE0F";
@@ -33,7 +33,7 @@ class BlackNib {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

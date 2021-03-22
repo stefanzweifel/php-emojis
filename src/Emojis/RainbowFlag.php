@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class RainbowFlag {
-
+class RainbowFlag
+{
     public const SYMBOL = "🏳️‍🌈";
 
     public const HEX = "1F3F3 FE0F 200D 1F308";
@@ -33,7 +33,7 @@ class RainbowFlag {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

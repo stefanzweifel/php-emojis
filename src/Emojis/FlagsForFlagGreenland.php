@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagGreenland {
-
+class FlagsForFlagGreenland
+{
     public const SYMBOL = "🇬🇱";
 
     public const HEX = "1F1EC 1F1F1";
@@ -33,7 +33,7 @@ class FlagsForFlagGreenland {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

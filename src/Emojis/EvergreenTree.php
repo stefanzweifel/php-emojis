@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class EvergreenTree {
-
+class EvergreenTree
+{
     public const SYMBOL = "🌲";
 
     public const HEX = "1F332";
@@ -33,7 +33,7 @@ class EvergreenTree {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

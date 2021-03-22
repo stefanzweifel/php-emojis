@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Fireworks {
-
+class Fireworks
+{
     public const SYMBOL = "🎆";
 
     public const HEX = "1F386";
@@ -33,7 +33,7 @@ class Fireworks {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

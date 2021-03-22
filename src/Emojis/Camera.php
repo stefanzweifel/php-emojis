@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class Camera {
-
+class Camera
+{
     public const SYMBOL = "📷";
 
     public const HEX = "1F4F7";
@@ -33,7 +33,7 @@ class Camera {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

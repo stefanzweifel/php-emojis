@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class FlagsForFlagMaldives {
-
+class FlagsForFlagMaldives
+{
     public const SYMBOL = "🇲🇻";
 
     public const HEX = "1F1F2 1F1FB";
@@ -33,7 +33,7 @@ class FlagsForFlagMaldives {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

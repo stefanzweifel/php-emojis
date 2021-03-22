@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class BellWithSlash {
-
+class BellWithSlash
+{
     public const SYMBOL = "🔕";
 
     public const HEX = "1F515";
@@ -33,7 +33,7 @@ class BellWithSlash {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

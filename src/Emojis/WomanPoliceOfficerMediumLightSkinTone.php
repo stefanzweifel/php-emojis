@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class WomanPoliceOfficerMediumLightSkinTone {
-
+class WomanPoliceOfficerMediumLightSkinTone
+{
     public const SYMBOL = "👮🏼‍♀️";
 
     public const HEX = "1F46E 1F3FC 200D 2640 FE0F";
@@ -33,7 +33,7 @@ class WomanPoliceOfficerMediumLightSkinTone {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

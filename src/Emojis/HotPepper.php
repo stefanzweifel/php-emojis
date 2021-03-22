@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class HotPepper {
-
+class HotPepper
+{
     public const SYMBOL = "🌶️";
 
     public const HEX = "1F336 FE0F";
@@ -33,7 +33,7 @@ class HotPepper {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string

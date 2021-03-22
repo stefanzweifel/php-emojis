@@ -8,8 +8,8 @@ namespace Wnx\Emojis\Emojis;
  * @version v13.1
  *
  **/
-class PleadingFace {
-
+class PleadingFace
+{
     public const SYMBOL = "🥺";
 
     public const HEX = "1F97A";
@@ -33,7 +33,7 @@ class PleadingFace {
 
     public function hex(): string
     {
-         return self::HEX;
+        return self::HEX;
     }
 
     public function name(): string
