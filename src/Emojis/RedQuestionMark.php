@@ -1,0 +1,63 @@
+<?php
+
+namespace Wnx\Emojis\Emojis;
+
+/**
+ * RedQuestionMark Emoji class.
+ *
+ * @version v13.1
+ *
+ **/
+class RedQuestionMark {
+
+    public const SYMBOL = "❓";
+
+    public const HEX = "2753";
+
+    public const CODE = "\u{2753}";
+
+    public const NAME = 'red question mark';
+
+    public const GROUP = 'Symbols';
+
+    public const SUBGROUP = 'punctuation';
+
+    public const NAME_WITH_UNDERSCORES = 'red_question_mark';
+
+    public const TAGS = 'confused';
+
+    public function symbol(): string
+    {
+        return self::SYMBOL;
+    }
+
+    public function hex(): string
+    {
+         return self::HEX;
+    }
+
+    public function name(): string
+    {
+        return self::NAME;
+    }
+
+    public function group(): string
+    {
+        return self::GROUP;
+    }
+
+    public function subgroup(): string
+    {
+        return self::SUBGROUP;
+    }
+
+    public function name_with_underscores(): string
+    {
+        return self::NAME_WITH_UNDERSCORES;
+    }
+
+    public function tags(): string
+    {
+        return self::TAGS;
+    }
+}
