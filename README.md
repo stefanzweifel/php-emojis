@@ -5,7 +5,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/wnx/php-emojis.svg?style=flat-square)](https://packagist.org/packages/wnx/php-emojis)
 
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+A composer package containing all available Emoji combinations as PHP classes. Why? Why not?!
 
 ## Installation
 
@@ -18,14 +18,34 @@ composer require wnx/emojis
 ## Usage
 
 ```php
-$skeleton = new Wnx\Emojis();
-echo $skeleton->echoPhrase('Hello, Wnx!');
+use Wnx\Emojis\Emojis\Princess;
+
+$emoji = new Princess();
+echo $emoji->symbol();
+
+Princess::SYMBOL;
+Princess::HEX;
+Princess::CODE;
+Princess::NAME;
+Princess::GROUP;
+Princess::NAME_WITH_UNDERSCORES;
+Princess::TAGS;
 ```
 
 ## Testing
 
 ```bash
 composer test
+```
+
+## Create Build
+
+Regenerate Emoji classes by running the following commands.
+
+```bash
+composer install
+yarn
+composer run build
 ```
 
 ## Changelog
