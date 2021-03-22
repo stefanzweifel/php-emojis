@@ -2,6 +2,8 @@
 
 namespace Wnx\Emojis;
 
+use Illuminate\Support\Collection;
+
 class Parser
 {
     /** @var string */
@@ -38,9 +40,9 @@ class Parser
         return $this->emojis;
     }
 
-    public function getGroups(): array
+    public function getGroups(): Collection
     {
-        return $this->groups;
+        return collect($this->groups);
     }
 
     protected function parseLine(string $line)
