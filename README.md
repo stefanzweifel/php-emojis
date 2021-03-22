@@ -1,8 +1,8 @@
 # Up to date Emojis as PHP Classes
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/wnx/php-emojis.svg?style=flat-square)](https://packagist.org/packages/wnx/php-emojis)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/wnx/php-emojis/Tests?label=tests)](https://github.com/wnx/php-emojis/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/wnx/php-emojis.svg?style=flat-square)](https://packagist.org/packages/wnx/php-emojis)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/wnx/emojis.svg?style=flat-square)](https://packagist.org/packages/wnx/emojis)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/wnx/emojis/Tests?label=tests)](https://github.com/wnx/emojis/actions?query=workflow%3ATests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/wnx/emojis.svg?style=flat-square)](https://packagist.org/packages/wnx/emojis)
 
 
 A composer package containing all available Emoji combinations as PHP classes. Why? Why not?!
