@@ -16,26 +16,18 @@ class GenerateCommand extends Command
     /** @var string */
     protected const EMOJI_VERSION = '13.1';
 
-    /** @var int */
-    protected $now;
+    protected int $now;
 
-    /** @var string */
-    protected $deprecationNotice = '# deprecations' . PHP_EOL;
+    protected string $deprecationNotice = '# deprecations' . PHP_EOL;
 
     /** @var Emoji[] */
-    protected $emojis;
+    protected array $emojis;
 
-    /** @var array[] */
-    protected $emojisArray;
+    protected array $groups;
 
-    /** @var array[] */
-    protected $groups;
-    /**
-     * @var Environment
-     */
-    private Environment $twig;
+    protected Environment $twig;
 
-    private Collection $gemojis;
+    protected Collection $gemojis;
 
     protected function configure()
     {
@@ -54,30 +46,21 @@ class GenerateCommand extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
+        $output->writeln('🚧  Build environment');
         $this->setupTwigEnvironment();
-        $this->loadGemojis();
+        $this->loadGemojisPackage();
 
-        // Make Request to Unicode Website and get data for latest Unicode Release
-        // TODO: Implement request to Unicode website
-        $url = 'https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt';
+        $output->writeln('🪃   Fetch emojis');
+        $body = $this->fetchEmojis();
 
-
-        // $remoteContent = file_get_contents($url);
-        //file_put_contents(__DIR__ . '/../emoji-test.txt', $remoteContent);
-
-        // Parse Response
-        $body = file_get_contents(__DIR__ . '/../emoji-test.txt');
-
+        $output->writeln('👓  Parse response');
         $parser = new Parser($body);
         $parser->parse();
 
-        $parser->getGroups()->each(function (array $subgroups, string $groupName) use ($url) {
-            collect($subgroups)->each(function (array $emojis, string $subgroupName) use ($url, $groupName) {
-                collect($emojis)->each(function (Emoji $emoji) use ($groupName, $subgroupName, $url) {
-                    $this->generateEmojiPhpclass($emoji, $groupName, $subgroupName, $url);
-                });
-            });
-        });
+        $output->writeln('🥔  Generate classes');
+        $this->generateClasses($parser);
+
+        $output->writeln('🏁  Finished');
 
         return 0;
     }
@@ -92,12 +75,44 @@ class GenerateCommand extends Command
         ]);
     }
 
-    protected function loadGemojis(): void
+    protected function loadGemojisPackage(): void
     {
         $this->gemojis = collect(json_decode(file_get_contents(__DIR__ . '/../../node_modules/gemoji/index.json'), true));
     }
 
-    protected function renderEmoji(string $code): string
+    /**
+     * @return false|string
+     */
+    protected function fetchEmojis(): bool | string
+    {
+        $url = 'https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt';
+
+        return file_get_contents($url);
+    }
+
+    /**
+     * @param Parser $parser
+     * @throws \Twig\Error\LoaderError
+     * @throws \Twig\Error\RuntimeError
+     * @throws \Twig\Error\SyntaxError
+     */
+    protected function generateClasses(Parser $parser): void
+    {
+        // TODO: Make this more readable
+        $parser->getGroups()->each(function (array $subgroups, string $groupName) {
+
+            collect($subgroups)->each(function (array $emojis, string $subgroupName) use ($groupName) {
+
+                collect($emojis)->each(function (Emoji $emoji) use ($groupName, $subgroupName) {
+                    $this->generateEmojiPhpclass($emoji, $groupName, $subgroupName);
+                });
+
+            });
+
+        });
+    }
+
+    protected function renderEmojiSymbol(string $code): string
     {
         return collect(explode(' ', $code))
             ->map(fn ($code) => str_pad($code, 8, '0', STR_PAD_LEFT))
@@ -109,14 +124,13 @@ class GenerateCommand extends Command
      * @param Emoji $emoji
      * @param string $groupName
      * @param string $subgroupName
-     * @param string $url
      * @throws \Twig\Error\LoaderError
      * @throws \Twig\Error\RuntimeError
      * @throws \Twig\Error\SyntaxError
      */
-    protected function generateEmojiPhpclass(Emoji $emoji, string $groupName, string $subgroupName, string $url): void
+    protected function generateEmojiPhpclass(Emoji $emoji, string $groupName, string $subgroupName): void
     {
-        $renderedEmoji = $this->renderEmoji($emoji->getHexCode());
+        $renderedEmoji = $this->renderEmojiSymbol($emoji->getHexCode());
 
         $class = $this->twig->load('EmojiClass.twig')->render([
             'className' => $emoji->getClassName(),
@@ -128,14 +142,13 @@ class GenerateCommand extends Command
             'group' => $groupName,
             'subgroup' => $subgroupName,
             'tags' => $this->getTagsForEmoji($renderedEmoji),
-            'url' => $url,
             'version' => 'v' . self::EMOJI_VERSION,
         ]);
 
         file_put_contents(__DIR__ . "/../Emojis/{$emoji->getClassName()}.php", $class);
     }
 
-    protected function getTagsForEmoji($symbol): string
+    protected function getTagsForEmoji(string $symbol): string
     {
         $filteredEmojis = $this->gemojis->filter(fn ($gemoji) => $gemoji['emoji'] == $symbol);
 
