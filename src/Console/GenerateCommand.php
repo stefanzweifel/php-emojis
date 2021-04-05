@@ -2,6 +2,7 @@
 
 namespace Wnx\Emojis\Console;
 
+use GuzzleHttp\Client;
 use Illuminate\Support\Collection;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -48,7 +49,7 @@ class GenerateCommand extends Command
     {
         $output->writeln('🚧  Build environment');
         $this->setupTwigEnvironment();
-        $this->loadGemojisPackage();
+        $this->fetchGemojiFromGitHubApi();
 
         $output->writeln('🪃   Fetch emojis');
         $body = $this->fetchEmojis();
@@ -75,19 +76,30 @@ class GenerateCommand extends Command
         ]);
     }
 
-    protected function loadGemojisPackage(): void
+    protected function fetchGemojiFromGitHubApi(): void
     {
-        $this->gemojis = collect(json_decode(file_get_contents(__DIR__ . '/../../node_modules/gemoji/index.json'), true));
+        $client = new Client();
+
+        $response = $client->get('https://api.github.com/repos/github/gemoji/contents/db/emoji.json', [
+            'headers' => [
+                'Accept' => 'application/vnd.github.v3.raw',
+            ],
+        ]);
+
+        $this->gemojis = collect(json_decode($response->getBody()->getContents(), true));
     }
 
     /**
      * @return false|string
+     * @throws \GuzzleHttp\Exception\GuzzleException
      */
     protected function fetchEmojis(): bool | string
     {
-        $url = 'https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt';
+        $client = new Client();
 
-        return file_get_contents($url);
+        $response = $client->get('https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt');
+
+        return $response->getBody()->getContents();
     }
 
     /**
