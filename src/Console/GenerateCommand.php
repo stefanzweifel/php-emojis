@@ -48,7 +48,7 @@ class GenerateCommand extends Command
     {
         $output->writeln('🚧  Build environment');
         $this->setupTwigEnvironment();
-        $this->loadGemojisPackage();
+        $this->fetchGemojiFromGitHubApi();
 
         $output->writeln('🪃   Fetch emojis');
         $body = $this->fetchEmojis();
@@ -75,9 +75,17 @@ class GenerateCommand extends Command
         ]);
     }
 
-    protected function loadGemojisPackage(): void
+    protected function fetchGemojiFromGitHubApi(): void
     {
-        $this->gemojis = collect(json_decode(file_get_contents(__DIR__ . '/../../node_modules/gemoji/index.json'), true));
+        $client = new Client();
+
+        $response = $client->get('https://api.github.com/repos/github/gemoji/contents/db/emoji.json', [
+            'headers' => [
+                'Accept' => 'application/vnd.github.v3.raw',
+            ],
+        ]);
+
+        $this->gemojis = collect(json_decode($response->getBody()->getContents(), true));
     }
 
     /**
