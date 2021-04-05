@@ -2,6 +2,7 @@
 
 namespace Wnx\Emojis\Console;
 
+use GuzzleHttp\Client;
 use Illuminate\Support\Collection;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -90,12 +91,15 @@ class GenerateCommand extends Command
 
     /**
      * @return false|string
+     * @throws \GuzzleHttp\Exception\GuzzleException
      */
     protected function fetchEmojis(): bool | string
     {
-        $url = 'https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt';
+        $client = new Client();
 
-        return file_get_contents($url);
+        $response = $client->get('https://unicode.org/Public/emoji/' . self::EMOJI_VERSION . '/emoji-test.txt');
+
+        return $response->getBody()->getContents();
     }
 
     /**
