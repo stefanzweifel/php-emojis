@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonBikingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonBikingMediumLightSkinTone
 {
+
     public const SYMBOL = "🚴🏼";
 
     public const HEX = "1F6B4 1F3FC";

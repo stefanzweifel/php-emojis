@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonRunningMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonRunningMediumDarkSkinTone
 {
+
     public const SYMBOL = "🏃🏾";
 
     public const HEX = "1F3C3 1F3FE";

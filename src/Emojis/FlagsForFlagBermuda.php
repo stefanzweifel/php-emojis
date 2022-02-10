@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagBermuda Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagBermuda
 {
+
     public const SYMBOL = "🇧🇲";
 
     public const HEX = "1F1E7 1F1F2";

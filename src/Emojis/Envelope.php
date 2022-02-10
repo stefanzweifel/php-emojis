@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Envelope Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Envelope
 {
+
     public const SYMBOL = "✉️";
 
     public const HEX = "2709 FE0F";

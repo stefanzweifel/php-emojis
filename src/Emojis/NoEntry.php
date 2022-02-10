@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NoEntry Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NoEntry
 {
+
     public const SYMBOL = "⛔";
 
     public const HEX = "26D4";

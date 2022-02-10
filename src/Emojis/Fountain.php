@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Fountain Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Fountain
 {
+
     public const SYMBOL = "⛲";
 
     public const HEX = "26F2";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sun Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sun
 {
+
     public const SYMBOL = "☀️";
 
     public const HEX = "2600 FE0F";

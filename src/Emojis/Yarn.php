@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Yarn Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Yarn
 {
+
     public const SYMBOL = "🧶";
 
     public const HEX = "1F9F6";

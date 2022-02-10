@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mosquito Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mosquito
 {
+
     public const SYMBOL = "🦟";
 
     public const HEX = "1F99F";

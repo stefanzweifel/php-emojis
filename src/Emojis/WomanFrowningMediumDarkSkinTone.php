@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFrowningMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFrowningMediumDarkSkinTone
 {
+
     public const SYMBOL = "🙍🏾‍♀️";
 
     public const HEX = "1F64D 1F3FE 200D 2640 FE0F";

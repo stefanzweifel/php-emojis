@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DetectiveLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DetectiveLightSkinTone
 {
+
     public const SYMBOL = "🕵🏻";
 
     public const HEX = "1F575 1F3FB";

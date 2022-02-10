@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bell Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bell
 {
+
     public const SYMBOL = "🔔";
 
     public const HEX = "1F514";

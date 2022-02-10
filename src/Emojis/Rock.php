@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Rock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Rock
 {
+
     public const SYMBOL = "🪨";
 
     public const HEX = "1FAA8";

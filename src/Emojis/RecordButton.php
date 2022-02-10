@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RecordButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RecordButton
 {
+
     public const SYMBOL = "⏺️";
 
     public const HEX = "23FA FE0F";

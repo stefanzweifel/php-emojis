@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GreenHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GreenHeart
 {
+
     public const SYMBOL = "💚";
 
     public const HEX = "1F49A";

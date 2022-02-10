@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFirefighter Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFirefighter
 {
+
     public const SYMBOL = "👨‍🚒";
 
     public const HEX = "1F468 200D 1F692";

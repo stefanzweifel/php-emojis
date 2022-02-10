@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanArtist Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanArtist
 {
+
     public const SYMBOL = "👩‍🎨";
 
     public const HEX = "1F469 200D 1F3A8";

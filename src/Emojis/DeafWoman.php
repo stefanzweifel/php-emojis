@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DeafWoman Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DeafWoman
 {
+
     public const SYMBOL = "🧏‍♀️";
 
     public const HEX = "1F9CF 200D 2640 FE0F";

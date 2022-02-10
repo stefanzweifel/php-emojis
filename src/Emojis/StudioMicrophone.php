@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * StudioMicrophone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class StudioMicrophone
 {
+
     public const SYMBOL = "🎙️";
 
     public const HEX = "1F399 FE0F";

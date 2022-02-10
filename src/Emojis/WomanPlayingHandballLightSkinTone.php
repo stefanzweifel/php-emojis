@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanPlayingHandballLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanPlayingHandballLightSkinTone
 {
+
     public const SYMBOL = "🤾🏻‍♀️";
 
     public const HEX = "1F93E 1F3FB 200D 2640 FE0F";

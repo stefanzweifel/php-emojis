@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSouthGeorgiaAndSouthSandwichIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSouthGeorgiaAndSouthSandwichIslands
 {
+
     public const SYMBOL = "🇬🇸";
 
     public const HEX = "1F1EC 1F1F8";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Gorilla Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Gorilla
 {
+
     public const SYMBOL = "🦍";
 
     public const HEX = "1F98D";

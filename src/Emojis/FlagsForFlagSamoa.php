@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSamoa Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSamoa
 {
+
     public const SYMBOL = "🇼🇸";
 
     public const HEX = "1F1FC 1F1F8";

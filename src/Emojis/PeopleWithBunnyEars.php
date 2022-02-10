@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PeopleWithBunnyEars Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PeopleWithBunnyEars
 {
+
     public const SYMBOL = "👯";
 
     public const HEX = "1F46F";

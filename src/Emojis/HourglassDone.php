@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HourglassDone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HourglassDone
 {
+
     public const SYMBOL = "⌛";
 
     public const HEX = "231B";

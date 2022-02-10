@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MaleSign Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MaleSign
 {
+
     public const SYMBOL = "♂️";
 
     public const HEX = "2642 FE0F";

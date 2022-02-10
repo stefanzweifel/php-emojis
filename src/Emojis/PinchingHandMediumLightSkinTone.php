@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PinchingHandMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PinchingHandMediumLightSkinTone
 {
+
     public const SYMBOL = "🤏🏼";
 
     public const HEX = "1F90F 1F3FC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GrinningFaceWithBigEyes Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GrinningFaceWithBigEyes
 {
+
     public const SYMBOL = "😃";
 
     public const HEX = "1F603";

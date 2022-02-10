@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DragonFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DragonFace
 {
+
     public const SYMBOL = "🐲";
 
     public const HEX = "1F432";

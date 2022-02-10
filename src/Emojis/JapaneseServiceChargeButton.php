@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseServiceChargeButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseServiceChargeButton
 {
+
     public const SYMBOL = "🈂️";
 
     public const HEX = "1F202 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Parachute Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Parachute
 {
+
     public const SYMBOL = "🪂";
 
     public const HEX = "1FA82";

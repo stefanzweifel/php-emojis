@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteExclamationMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteExclamationMark
 {
+
     public const SYMBOL = "❕";
 
     public const HEX = "2755";

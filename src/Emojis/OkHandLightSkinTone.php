@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OkHandLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OkHandLightSkinTone
 {
+
     public const SYMBOL = "👌🏻";
 
     public const HEX = "1F44C 1F3FB";

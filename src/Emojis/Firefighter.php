@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Firefighter Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Firefighter
 {
+
     public const SYMBOL = "🧑‍🚒";
 
     public const HEX = "1F9D1 200D 1F692";

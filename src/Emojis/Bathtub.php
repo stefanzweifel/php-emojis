@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bathtub Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bathtub
 {
+
     public const SYMBOL = "🛁";
 
     public const HEX = "1F6C1";

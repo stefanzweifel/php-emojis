@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mosque Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mosque
 {
+
     public const SYMBOL = "🕌";
 
     public const HEX = "1F54C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BlackCat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BlackCat
 {
+
     public const SYMBOL = "🐈‍⬛";
 
     public const HEX = "1F408 200D 2B1B";

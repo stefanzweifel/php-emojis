@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KissMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KissMediumLightSkinTone
 {
+
     public const SYMBOL = "💏🏼";
 
     public const HEX = "1F48F 1F3FC";

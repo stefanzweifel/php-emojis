@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CheckBoxWithCheck Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CheckBoxWithCheck
 {
+
     public const SYMBOL = "☑️";
 
     public const HEX = "2611 FE0F";

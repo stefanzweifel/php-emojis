@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Whale Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Whale
 {
+
     public const SYMBOL = "🐋";
 
     public const HEX = "1F40B";

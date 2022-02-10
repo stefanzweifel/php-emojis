@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanWithHeadscarfDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanWithHeadscarfDarkSkinTone
 {
+
     public const SYMBOL = "🧕🏿";
 
     public const HEX = "1F9D5 1F3FF";

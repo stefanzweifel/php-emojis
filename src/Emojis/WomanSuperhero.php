@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanSuperhero Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanSuperhero
 {
+
     public const SYMBOL = "🦸‍♀️";
 
     public const HEX = "1F9B8 200D 2640 FE0F";

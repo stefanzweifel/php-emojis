@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWithSkullcap Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWithSkullcap
 {
+
     public const SYMBOL = "👲";
 
     public const HEX = "1F472";

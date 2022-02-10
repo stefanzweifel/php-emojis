@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MiddleFingerMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MiddleFingerMediumLightSkinTone
 {
+
     public const SYMBOL = "🖕🏼";
 
     public const HEX = "1F595 1F3FC";

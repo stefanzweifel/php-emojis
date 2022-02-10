@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pool8Ball Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pool8Ball
 {
+
     public const SYMBOL = "🎱";
 
     public const HEX = "1F3B1";

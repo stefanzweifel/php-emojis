@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FountainPen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FountainPen
 {
+
     public const SYMBOL = "🖋️";
 
     public const HEX = "1F58B FE0F";

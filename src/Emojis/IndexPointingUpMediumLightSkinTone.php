@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IndexPointingUpMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IndexPointingUpMediumLightSkinTone
 {
+
     public const SYMBOL = "☝🏼";
 
     public const HEX = "261D 1F3FC";

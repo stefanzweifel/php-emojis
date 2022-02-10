@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BackhandIndexPointingUpDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BackhandIndexPointingUpDarkSkinTone
 {
+
     public const SYMBOL = "👆🏿";
 
     public const HEX = "1F446 1F3FF";

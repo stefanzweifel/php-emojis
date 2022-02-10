@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFrowning Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFrowning
 {
+
     public const SYMBOL = "🙍‍♀️";
 
     public const HEX = "1F64D 200D 2640 FE0F";

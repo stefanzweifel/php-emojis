@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisedFistMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisedFistMediumLightSkinTone
 {
+
     public const SYMBOL = "✊🏼";
 
     public const HEX = "270A 1F3FC";

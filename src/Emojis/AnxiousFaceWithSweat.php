@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AnxiousFaceWithSweat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AnxiousFaceWithSweat
 {
+
     public const SYMBOL = "😰";
 
     public const HEX = "1F630";

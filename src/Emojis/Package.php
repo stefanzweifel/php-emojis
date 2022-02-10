@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Package Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Package
 {
+
     public const SYMBOL = "📦";
 
     public const HEX = "1F4E6";

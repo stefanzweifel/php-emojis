@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GoalNet Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GoalNet
 {
+
     public const SYMBOL = "🥅";
 
     public const HEX = "1F945";

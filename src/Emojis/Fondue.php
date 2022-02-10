@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Fondue Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Fondue
 {
+
     public const SYMBOL = "🫕";
 
     public const HEX = "1FAD5";

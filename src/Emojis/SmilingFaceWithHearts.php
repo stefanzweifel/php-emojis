@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SmilingFaceWithHearts Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SmilingFaceWithHearts
 {
+
     public const SYMBOL = "🥰";
 
     public const HEX = "1F970";

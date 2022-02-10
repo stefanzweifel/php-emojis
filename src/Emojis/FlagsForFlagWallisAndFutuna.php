@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagWallisAndFutuna Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagWallisAndFutuna
 {
+
     public const SYMBOL = "🇼🇫";
 
     public const HEX = "1F1FC 1F1EB";

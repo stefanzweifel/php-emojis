@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonFrowning Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonFrowning
 {
+
     public const SYMBOL = "🙍";
 
     public const HEX = "1F64D";

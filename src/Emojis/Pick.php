@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pick Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pick
 {
+
     public const SYMBOL = "⛏️";
 
     public const HEX = "26CF FE0F";

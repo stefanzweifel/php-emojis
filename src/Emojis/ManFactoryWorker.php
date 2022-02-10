@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFactoryWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFactoryWorker
 {
+
     public const SYMBOL = "👨‍🏭";
 
     public const HEX = "1F468 200D 1F3ED";

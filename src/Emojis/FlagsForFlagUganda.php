@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUganda Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUganda
 {
+
     public const SYMBOL = "🇺🇬";
 
     public const HEX = "1F1FA 1F1EC";

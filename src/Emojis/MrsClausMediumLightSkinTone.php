@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MrsClausMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MrsClausMediumLightSkinTone
 {
+
     public const SYMBOL = "🤶🏼";
 
     public const HEX = "1F936 1F3FC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cigarette Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cigarette
 {
+
     public const SYMBOL = "🚬";
 
     public const HEX = "1F6AC";

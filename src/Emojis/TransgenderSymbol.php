@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TransgenderSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TransgenderSymbol
 {
+
     public const SYMBOL = "⚧️";
 
     public const HEX = "26A7 FE0F";

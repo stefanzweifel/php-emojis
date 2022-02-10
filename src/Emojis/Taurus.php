@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Taurus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Taurus
 {
+
     public const SYMBOL = "♉";
 
     public const HEX = "2649";

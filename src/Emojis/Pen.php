@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pen
 {
+
     public const SYMBOL = "🖊️";
 
     public const HEX = "1F58A FE0F";

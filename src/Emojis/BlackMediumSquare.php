@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BlackMediumSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BlackMediumSquare
 {
+
     public const SYMBOL = "◼️";
 
     public const HEX = "25FC FE0F";

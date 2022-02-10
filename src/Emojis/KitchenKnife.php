@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KitchenKnife Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KitchenKnife
 {
+
     public const SYMBOL = "🔪";
 
     public const HEX = "1F52A";

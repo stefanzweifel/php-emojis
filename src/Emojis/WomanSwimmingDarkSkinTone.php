@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanSwimmingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanSwimmingDarkSkinTone
 {
+
     public const SYMBOL = "🏊🏿‍♀️";
 
     public const HEX = "1F3CA 1F3FF 200D 2640 FE0F";

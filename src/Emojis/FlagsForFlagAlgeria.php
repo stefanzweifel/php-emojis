@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagAlgeria Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagAlgeria
 {
+
     public const SYMBOL = "🇩🇿";
 
     public const HEX = "1F1E9 1F1FF";

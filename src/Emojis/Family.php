@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Family Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Family
 {
+
     public const SYMBOL = "👪";
 
     public const HEX = "1F46A";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManTechnologist Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManTechnologist
 {
+
     public const SYMBOL = "👨‍💻";
 
     public const HEX = "1F468 200D 1F4BB";

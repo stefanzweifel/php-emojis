@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSouthAfrica Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSouthAfrica
 {
+
     public const SYMBOL = "🇿🇦";
 
     public const HEX = "1F1FF 1F1E6";

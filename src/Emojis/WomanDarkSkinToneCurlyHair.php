@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanDarkSkinToneCurlyHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanDarkSkinToneCurlyHair
 {
+
     public const SYMBOL = "👩🏿‍🦱";
 
     public const HEX = "1F469 1F3FF 200D 1F9B1";

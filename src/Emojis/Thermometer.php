@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Thermometer Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Thermometer
 {
+
     public const SYMBOL = "🌡️";
 
     public const HEX = "1F321 FE0F";

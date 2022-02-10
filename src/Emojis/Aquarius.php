@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Aquarius Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Aquarius
 {
+
     public const SYMBOL = "♒";
 
     public const HEX = "2652";

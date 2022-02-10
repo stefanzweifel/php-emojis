@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonTippingHandLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonTippingHandLightSkinTone
 {
+
     public const SYMBOL = "💁🏻";
 
     public const HEX = "1F481 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DowncastFaceWithSweat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DowncastFaceWithSweat
 {
+
     public const SYMBOL = "😓";
 
     public const HEX = "1F613";

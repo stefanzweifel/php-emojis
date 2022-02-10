@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWithVeil Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWithVeil
 {
+
     public const SYMBOL = "👰";
 
     public const HEX = "1F470";

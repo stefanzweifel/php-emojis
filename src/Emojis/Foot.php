@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Foot Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Foot
 {
+
     public const SYMBOL = "🦶";
 
     public const HEX = "1F9B6";

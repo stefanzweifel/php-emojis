@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * UpsideDownFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class UpsideDownFace
 {
+
     public const SYMBOL = "🙃";
 
     public const HEX = "1F643";

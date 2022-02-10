@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FearfulFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FearfulFace
 {
+
     public const SYMBOL = "😨";
 
     public const HEX = "1F628";

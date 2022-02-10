@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shamrock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shamrock
 {
+
     public const SYMBOL = "☘️";
 
     public const HEX = "2618 FE0F";

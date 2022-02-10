@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNepal Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNepal
 {
+
     public const SYMBOL = "🇳🇵";
 
     public const HEX = "1F1F3 1F1F5";

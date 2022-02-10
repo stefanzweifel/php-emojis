@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCongoBrazzaville Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCongoBrazzaville
 {
+
     public const SYMBOL = "🇨🇬";
 
     public const HEX = "1F1E8 1F1EC";

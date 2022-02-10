@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagPapuaNewGuinea Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagPapuaNewGuinea
 {
+
     public const SYMBOL = "🇵🇬";
 
     public const HEX = "1F1F5 1F1EC";

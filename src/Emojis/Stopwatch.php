@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Stopwatch Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Stopwatch
 {
+
     public const SYMBOL = "⏱️";
 
     public const HEX = "23F1 FE0F";

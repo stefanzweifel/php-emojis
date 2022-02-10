@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TopArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TopArrow
 {
+
     public const SYMBOL = "🔝";
 
     public const HEX = "1F51D";

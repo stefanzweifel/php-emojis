@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanCookMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanCookMediumSkinTone
 {
+
     public const SYMBOL = "👩🏽‍🍳";
 
     public const HEX = "1F469 1F3FD 200D 1F373";

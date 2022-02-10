@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonCartwheelingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonCartwheelingDarkSkinTone
 {
+
     public const SYMBOL = "🤸🏿";
 
     public const HEX = "1F938 1F3FF";

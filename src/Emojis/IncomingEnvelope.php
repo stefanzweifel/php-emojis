@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IncomingEnvelope Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IncomingEnvelope
 {
+
     public const SYMBOL = "📨";
 
     public const HEX = "1F4E8";

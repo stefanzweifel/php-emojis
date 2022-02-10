@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedExclamationMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedExclamationMark
 {
+
     public const SYMBOL = "❗";
 
     public const HEX = "2757";

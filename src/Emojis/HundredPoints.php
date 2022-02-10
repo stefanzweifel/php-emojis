@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HundredPoints Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HundredPoints
 {
+
     public const SYMBOL = "💯";
 
     public const HEX = "1F4AF";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bald Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bald
 {
+
     public const SYMBOL = "🦲";
 
     public const HEX = "1F9B2";

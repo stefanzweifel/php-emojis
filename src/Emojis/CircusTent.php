@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CircusTent Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CircusTent
 {
+
     public const SYMBOL = "🎪";
 
     public const HEX = "1F3AA";

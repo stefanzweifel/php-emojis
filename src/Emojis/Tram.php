@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tram Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tram
 {
+
     public const SYMBOL = "🚊";
 
     public const HEX = "1F68A";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanWalkingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanWalkingDarkSkinTone
 {
+
     public const SYMBOL = "🚶🏿‍♀️";
 
     public const HEX = "1F6B6 1F3FF 200D 2640 FE0F";

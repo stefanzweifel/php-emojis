@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ConfettiBall Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ConfettiBall
 {
+
     public const SYMBOL = "🎊";
 
     public const HEX = "1F38A";

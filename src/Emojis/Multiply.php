@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Multiply Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Multiply
 {
+
     public const SYMBOL = "✖️";
 
     public const HEX = "2716 FE0F";

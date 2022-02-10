@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MxClausMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MxClausMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧑🏾‍🎄";
 
     public const HEX = "1F9D1 1F3FE 200D 1F384";

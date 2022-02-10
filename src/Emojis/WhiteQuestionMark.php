@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteQuestionMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteQuestionMark
 {
+
     public const SYMBOL = "❔";
 
     public const HEX = "2754";

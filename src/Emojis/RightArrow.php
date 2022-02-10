@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RightArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RightArrow
 {
+
     public const SYMBOL = "➡️";
 
     public const HEX = "27A1 FE0F";

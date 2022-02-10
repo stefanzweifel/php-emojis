@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonGesturingOkMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonGesturingOkMediumSkinTone
 {
+
     public const SYMBOL = "🙆🏽";
 
     public const HEX = "1F646 1F3FD";

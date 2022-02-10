@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagEthiopia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagEthiopia
 {
+
     public const SYMBOL = "🇪🇹";
 
     public const HEX = "1F1EA 1F1F9";

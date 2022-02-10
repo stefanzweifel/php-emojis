@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Registered Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Registered
 {
+
     public const SYMBOL = "®️";
 
     public const HEX = "00AE FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Deer Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Deer
 {
+
     public const SYMBOL = "🦌";
 
     public const HEX = "1F98C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GrinningCat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GrinningCat
 {
+
     public const SYMBOL = "😺";
 
     public const HEX = "1F63A";

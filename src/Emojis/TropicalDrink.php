@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TropicalDrink Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TropicalDrink
 {
+
     public const SYMBOL = "🍹";
 
     public const HEX = "1F379";

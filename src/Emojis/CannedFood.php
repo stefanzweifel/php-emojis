@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CannedFood Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CannedFood
 {
+
     public const SYMBOL = "🥫";
 
     public const HEX = "1F96B";

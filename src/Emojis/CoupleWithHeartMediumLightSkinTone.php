@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CoupleWithHeartMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CoupleWithHeartMediumLightSkinTone
 {
+
     public const SYMBOL = "💑🏼";
 
     public const HEX = "1F491 1F3FC";

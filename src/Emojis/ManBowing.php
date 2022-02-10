@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManBowing Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManBowing
 {
+
     public const SYMBOL = "🙇‍♂️";
 
     public const HEX = "1F647 200D 2642 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SelfieMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SelfieMediumLightSkinTone
 {
+
     public const SYMBOL = "🤳🏼";
 
     public const HEX = "1F933 1F3FC";

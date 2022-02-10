@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GemStone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GemStone
 {
+
     public const SYMBOL = "💎";
 
     public const HEX = "1F48E";

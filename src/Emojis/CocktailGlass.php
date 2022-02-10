@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CocktailGlass Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CocktailGlass
 {
+
     public const SYMBOL = "🍸";
 
     public const HEX = "1F378";

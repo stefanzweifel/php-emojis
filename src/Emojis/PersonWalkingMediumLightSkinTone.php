@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWalkingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWalkingMediumLightSkinTone
 {
+
     public const SYMBOL = "🚶🏼";
 
     public const HEX = "1F6B6 1F3FC";

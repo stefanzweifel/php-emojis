@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagReunion Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagReunion
 {
+
     public const SYMBOL = "🇷🇪";
 
     public const HEX = "1F1F7 1F1EA";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SignOfTheHornsDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SignOfTheHornsDarkSkinTone
 {
+
     public const SYMBOL = "🤘🏿";
 
     public const HEX = "1F918 1F3FF";

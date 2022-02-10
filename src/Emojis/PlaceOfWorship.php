@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PlaceOfWorship Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PlaceOfWorship
 {
+
     public const SYMBOL = "🛐";
 
     public const HEX = "1F6D0";

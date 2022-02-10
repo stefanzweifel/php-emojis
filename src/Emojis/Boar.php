@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Boar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Boar
 {
+
     public const SYMBOL = "🐗";
 
     public const HEX = "1F417";

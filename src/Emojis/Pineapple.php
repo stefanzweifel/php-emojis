@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pineapple Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pineapple
 {
+
     public const SYMBOL = "🍍";
 
     public const HEX = "1F34D";

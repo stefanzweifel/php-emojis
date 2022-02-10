@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GirlMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GirlMediumSkinTone
 {
+
     public const SYMBOL = "👧🏽";
 
     public const HEX = "1F467 1F3FD";

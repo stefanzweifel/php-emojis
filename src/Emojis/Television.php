@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Television Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Television
 {
+
     public const SYMBOL = "📺";
 
     public const HEX = "1F4FA";

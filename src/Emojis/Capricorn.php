@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Capricorn Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Capricorn
 {
+
     public const SYMBOL = "♑";
 
     public const HEX = "2651";

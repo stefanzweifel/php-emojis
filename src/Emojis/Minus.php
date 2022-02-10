@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Minus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Minus
 {
+
     public const SYMBOL = "➖";
 
     public const HEX = "2796";

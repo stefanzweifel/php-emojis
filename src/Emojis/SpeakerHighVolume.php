@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpeakerHighVolume Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpeakerHighVolume
 {
+
     public const SYMBOL = "🔊";
 
     public const HEX = "1F50A";

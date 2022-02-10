@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dog Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dog
 {
+
     public const SYMBOL = "🐕";
 
     public const HEX = "1F415";

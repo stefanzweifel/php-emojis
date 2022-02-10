@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cloud Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cloud
 {
+
     public const SYMBOL = "☁️";
 
     public const HEX = "2601 FE0F";

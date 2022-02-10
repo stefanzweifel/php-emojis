@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NineThirty Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NineThirty
 {
+
     public const SYMBOL = "🕤";
 
     public const HEX = "1F564";

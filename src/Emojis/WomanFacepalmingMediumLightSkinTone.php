@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFacepalmingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFacepalmingMediumLightSkinTone
 {
+
     public const SYMBOL = "🤦🏼‍♀️";
 
     public const HEX = "1F926 1F3FC 200D 2640 FE0F";

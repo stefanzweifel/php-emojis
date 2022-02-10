@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Coconut Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Coconut
 {
+
     public const SYMBOL = "🥥";
 
     public const HEX = "1F965";

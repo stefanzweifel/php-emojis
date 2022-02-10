@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonMountainBiking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonMountainBiking
 {
+
     public const SYMBOL = "🚵";
 
     public const HEX = "1F6B5";

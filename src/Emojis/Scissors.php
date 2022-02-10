@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Scissors Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Scissors
 {
+
     public const SYMBOL = "✂️";
 
     public const HEX = "2702 FE0F";

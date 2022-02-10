@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mammoth Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mammoth
 {
+
     public const SYMBOL = "🦣";
 
     public const HEX = "1F9A3";

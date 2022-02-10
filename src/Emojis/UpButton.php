@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * UpButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class UpButton
 {
+
     public const SYMBOL = "🆙";
 
     public const HEX = "1F199";

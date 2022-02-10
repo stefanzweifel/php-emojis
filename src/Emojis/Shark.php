@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shark
 {
+
     public const SYMBOL = "🦈";
 
     public const HEX = "1F988";

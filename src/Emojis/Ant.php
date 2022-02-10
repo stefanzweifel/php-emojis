@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ant Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ant
 {
+
     public const SYMBOL = "🐜";
 
     public const HEX = "1F41C";

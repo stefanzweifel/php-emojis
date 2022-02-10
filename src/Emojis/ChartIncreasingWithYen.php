@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ChartIncreasingWithYen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ChartIncreasingWithYen
 {
+
     public const SYMBOL = "💹";
 
     public const HEX = "1F4B9";

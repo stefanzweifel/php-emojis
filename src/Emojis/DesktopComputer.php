@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DesktopComputer Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DesktopComputer
 {
+
     public const SYMBOL = "🖥️";
 
     public const HEX = "1F5A5 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpiralNotepad Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpiralNotepad
 {
+
     public const SYMBOL = "🗒️";
 
     public const HEX = "1F5D2 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManCookMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManCookMediumSkinTone
 {
+
     public const SYMBOL = "👨🏽‍🍳";
 
     public const HEX = "1F468 1F3FD 200D 1F373";

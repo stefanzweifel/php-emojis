@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HorseRacingMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HorseRacingMediumDarkSkinTone
 {
+
     public const SYMBOL = "🏇🏾";
 
     public const HEX = "1F3C7 1F3FE";

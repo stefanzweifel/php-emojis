@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Snowman Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Snowman
 {
+
     public const SYMBOL = "☃️";
 
     public const HEX = "2603 FE0F";

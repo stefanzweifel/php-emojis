@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HeartWithArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HeartWithArrow
 {
+
     public const SYMBOL = "💘";
 
     public const HEX = "1F498";

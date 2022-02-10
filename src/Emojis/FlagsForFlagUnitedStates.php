@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUnitedStates Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUnitedStates
 {
+
     public const SYMBOL = "🇺🇸";
 
     public const HEX = "1F1FA 1F1F8";

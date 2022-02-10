@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TridentEmblem Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TridentEmblem
 {
+
     public const SYMBOL = "🔱";
 
     public const HEX = "1F531";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MagnifyingGlassTiltedLeft Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MagnifyingGlassTiltedLeft
 {
+
     public const SYMBOL = "🔍";
 
     public const HEX = "1F50D";

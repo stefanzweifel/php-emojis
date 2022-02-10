@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Biohazard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Biohazard
 {
+
     public const SYMBOL = "☣️";
 
     public const HEX = "2623 FE0F";

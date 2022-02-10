@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Memo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Memo
 {
+
     public const SYMBOL = "📝";
 
     public const HEX = "1F4DD";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BreastFeedingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BreastFeedingLightSkinTone
 {
+
     public const SYMBOL = "🤱🏻";
 
     public const HEX = "1F931 1F3FB";

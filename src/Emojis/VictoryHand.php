@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VictoryHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VictoryHand
 {
+
     public const SYMBOL = "✌️";
 
     public const HEX = "270C FE0F";

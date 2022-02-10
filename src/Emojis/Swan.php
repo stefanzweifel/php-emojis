@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Swan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Swan
 {
+
     public const SYMBOL = "🦢";
 
     public const HEX = "1F9A2";

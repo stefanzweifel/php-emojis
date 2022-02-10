@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Poodle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Poodle
 {
+
     public const SYMBOL = "🐩";
 
     public const HEX = "1F429";

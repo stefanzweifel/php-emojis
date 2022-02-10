@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Detective Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Detective
 {
+
     public const SYMBOL = "🕵️";
 
     public const HEX = "1F575 FE0F";

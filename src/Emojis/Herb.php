@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Herb Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Herb
 {
+
     public const SYMBOL = "🌿";
 
     public const HEX = "1F33F";

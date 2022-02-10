@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ServiceDog Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ServiceDog
 {
+
     public const SYMBOL = "🐕‍🦺";
 
     public const HEX = "1F415 200D 1F9BA";

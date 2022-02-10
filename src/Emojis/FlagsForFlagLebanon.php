@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagLebanon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagLebanon
 {
+
     public const SYMBOL = "🇱🇧";
 
     public const HEX = "1F1F1 1F1E7";

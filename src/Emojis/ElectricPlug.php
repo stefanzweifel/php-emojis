@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ElectricPlug Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ElectricPlug
 {
+
     public const SYMBOL = "🔌";
 
     public const HEX = "1F50C";

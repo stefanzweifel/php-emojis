@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Snake Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Snake
 {
+
     public const SYMBOL = "🐍";
 
     public const HEX = "1F40D";

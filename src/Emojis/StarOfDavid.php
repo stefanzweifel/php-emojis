@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * StarOfDavid Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class StarOfDavid
 {
+
     public const SYMBOL = "✡️";
 
     public const HEX = "2721 FE0F";

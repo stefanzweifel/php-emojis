@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanStudentDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanStudentDarkSkinTone
 {
+
     public const SYMBOL = "👩🏿‍🎓";
 
     public const HEX = "1F469 1F3FF 200D 1F393";

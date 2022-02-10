@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFacepalming Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFacepalming
 {
+
     public const SYMBOL = "🤦‍♂️";
 
     public const HEX = "1F926 200D 2642 FE0F";

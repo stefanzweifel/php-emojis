@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanZombie Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanZombie
 {
+
     public const SYMBOL = "🧟‍♀️";
 
     public const HEX = "1F9DF 200D 2640 FE0F";

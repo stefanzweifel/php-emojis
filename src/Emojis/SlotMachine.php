@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SlotMachine Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SlotMachine
 {
+
     public const SYMBOL = "🎰";
 
     public const HEX = "1F3B0";

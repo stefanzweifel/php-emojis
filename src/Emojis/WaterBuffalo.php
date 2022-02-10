@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WaterBuffalo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WaterBuffalo
 {
+
     public const SYMBOL = "🐃";
 
     public const HEX = "1F403";

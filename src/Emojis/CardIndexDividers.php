@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CardIndexDividers Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CardIndexDividers
 {
+
     public const SYMBOL = "🗂️";
 
     public const HEX = "1F5C2 FE0F";

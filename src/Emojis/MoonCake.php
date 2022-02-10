@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MoonCake Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MoonCake
 {
+
     public const SYMBOL = "🥮";
 
     public const HEX = "1F96E";

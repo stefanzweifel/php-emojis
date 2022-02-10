@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RunningShoe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RunningShoe
 {
+
     public const SYMBOL = "👟";
 
     public const HEX = "1F45F";

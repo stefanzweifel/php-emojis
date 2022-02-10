@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SmilingFaceWithSunglasses Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SmilingFaceWithSunglasses
 {
+
     public const SYMBOL = "😎";
 
     public const HEX = "1F60E";

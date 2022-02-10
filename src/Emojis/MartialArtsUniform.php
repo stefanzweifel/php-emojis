@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MartialArtsUniform Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MartialArtsUniform
 {
+
     public const SYMBOL = "🥋";
 
     public const HEX = "1F94B";

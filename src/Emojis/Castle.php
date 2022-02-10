@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Castle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Castle
 {
+
     public const SYMBOL = "🏰";
 
     public const HEX = "1F3F0";

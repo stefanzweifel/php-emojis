@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManMediumDarkSkinToneCurlyHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManMediumDarkSkinToneCurlyHair
 {
+
     public const SYMBOL = "👨🏾‍🦱";
 
     public const HEX = "1F468 1F3FE 200D 1F9B1";

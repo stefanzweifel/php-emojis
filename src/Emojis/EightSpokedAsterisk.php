@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EightSpokedAsterisk Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EightSpokedAsterisk
 {
+
     public const SYMBOL = "✳️";
 
     public const HEX = "2733 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManBiking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManBiking
 {
+
     public const SYMBOL = "🚴‍♂️";
 
     public const HEX = "1F6B4 200D 2642 FE0F";

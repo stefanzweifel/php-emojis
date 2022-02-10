@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanRaisingHandMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanRaisingHandMediumLightSkinTone
 {
+
     public const SYMBOL = "🙋🏼‍♀️";
 
     public const HEX = "1F64B 1F3FC 200D 2640 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shorts Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shorts
 {
+
     public const SYMBOL = "🩳";
 
     public const HEX = "1FA73";

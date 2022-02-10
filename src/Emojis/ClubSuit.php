@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClubSuit Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClubSuit
 {
+
     public const SYMBOL = "♣️";
 
     public const HEX = "2663 FE0F";

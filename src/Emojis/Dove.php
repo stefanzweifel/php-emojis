@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dove Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dove
 {
+
     public const SYMBOL = "🕊️";
 
     public const HEX = "1F54A FE0F";

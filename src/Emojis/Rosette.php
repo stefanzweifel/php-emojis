@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Rosette Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Rosette
 {
+
     public const SYMBOL = "🏵️";
 
     public const HEX = "1F3F5 FE0F";

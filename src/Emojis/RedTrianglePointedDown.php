@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedTrianglePointedDown Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedTrianglePointedDown
 {
+
     public const SYMBOL = "🔻";
 
     public const HEX = "1F53B";

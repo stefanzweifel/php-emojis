@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MageDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MageDarkSkinTone
 {
+
     public const SYMBOL = "🧙🏿";
 
     public const HEX = "1F9D9 1F3FF";

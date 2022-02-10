@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Accordion Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Accordion
 {
+
     public const SYMBOL = "🪗";
 
     public const HEX = "1FA97";

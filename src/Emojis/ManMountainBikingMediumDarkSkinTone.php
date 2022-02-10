@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManMountainBikingMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManMountainBikingMediumDarkSkinTone
 {
+
     public const SYMBOL = "🚵🏾‍♂️";
 
     public const HEX = "1F6B5 1F3FE 200D 2642 FE0F";

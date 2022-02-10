@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanSClothes Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanSClothes
 {
+
     public const SYMBOL = "👚";
 
     public const HEX = "1F45A";

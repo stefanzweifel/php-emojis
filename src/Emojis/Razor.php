@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Razor Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Razor
 {
+
     public const SYMBOL = "🪒";
 
     public const HEX = "1FA92";

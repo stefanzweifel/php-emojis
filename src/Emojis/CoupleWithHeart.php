@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CoupleWithHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CoupleWithHeart
 {
+
     public const SYMBOL = "💑";
 
     public const HEX = "1F491";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HotPepper Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HotPepper
 {
+
     public const SYMBOL = "🌶️";
 
     public const HEX = "1F336 FE0F";

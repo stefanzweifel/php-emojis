@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LightBulb Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LightBulb
 {
+
     public const SYMBOL = "💡";
 
     public const HEX = "1F4A1";

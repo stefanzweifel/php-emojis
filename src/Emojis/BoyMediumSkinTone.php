@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BoyMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BoyMediumSkinTone
 {
+
     public const SYMBOL = "👦🏽";
 
     public const HEX = "1F466 1F3FD";

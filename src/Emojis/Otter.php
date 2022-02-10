@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Otter Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Otter
 {
+
     public const SYMBOL = "🦦";
 
     public const HEX = "1F9A6";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EarMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EarMediumLightSkinTone
 {
+
     public const SYMBOL = "👂🏼";
 
     public const HEX = "1F442 1F3FC";

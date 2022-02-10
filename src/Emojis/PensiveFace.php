@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PensiveFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PensiveFace
 {
+
     public const SYMBOL = "😔";
 
     public const HEX = "1F614";

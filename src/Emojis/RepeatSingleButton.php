@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RepeatSingleButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RepeatSingleButton
 {
+
     public const SYMBOL = "🔂";
 
     public const HEX = "1F502";

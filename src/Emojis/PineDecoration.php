@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PineDecoration Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PineDecoration
 {
+
     public const SYMBOL = "🎍";
 
     public const HEX = "1F38D";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpiderWeb Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpiderWeb
 {
+
     public const SYMBOL = "🕸️";
 
     public const HEX = "1F578 FE0F";

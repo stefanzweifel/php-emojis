@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Motorcycle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Motorcycle
 {
+
     public const SYMBOL = "🏍️";
 
     public const HEX = "1F3CD FE0F";

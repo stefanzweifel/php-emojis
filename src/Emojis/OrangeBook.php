@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OrangeBook Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OrangeBook
 {
+
     public const SYMBOL = "📙";
 
     public const HEX = "1F4D9";

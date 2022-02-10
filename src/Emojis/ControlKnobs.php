@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ControlKnobs Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ControlKnobs
 {
+
     public const SYMBOL = "🎛️";
 
     public const HEX = "1F39B FE0F";

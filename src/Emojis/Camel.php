@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Camel Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Camel
 {
+
     public const SYMBOL = "🐪";
 
     public const HEX = "1F42A";

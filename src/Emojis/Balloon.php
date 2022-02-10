@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Balloon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Balloon
 {
+
     public const SYMBOL = "🎈";
 
     public const HEX = "1F388";

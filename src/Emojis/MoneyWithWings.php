@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MoneyWithWings Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MoneyWithWings
 {
+
     public const SYMBOL = "💸";
 
     public const HEX = "1F4B8";

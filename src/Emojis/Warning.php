@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Warning Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Warning
 {
+
     public const SYMBOL = "⚠️";
 
     public const HEX = "26A0 FE0F";

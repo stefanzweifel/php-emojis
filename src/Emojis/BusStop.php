@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BusStop Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BusStop
 {
+
     public const SYMBOL = "🚏";
 
     public const HEX = "1F68F";

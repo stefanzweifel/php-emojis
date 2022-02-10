@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanInSteamyRoomMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanInSteamyRoomMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧖🏾‍♀️";
 
     public const HEX = "1F9D6 1F3FE 200D 2640 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BrokenHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BrokenHeart
 {
+
     public const SYMBOL = "💔";
 
     public const HEX = "1F494";

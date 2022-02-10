@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanStandingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanStandingMediumLightSkinTone
 {
+
     public const SYMBOL = "🧍🏼‍♀️";
 
     public const HEX = "1F9CD 1F3FC 200D 2640 FE0F";

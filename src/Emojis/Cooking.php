@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cooking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cooking
 {
+
     public const SYMBOL = "🍳";
 
     public const HEX = "1F373";

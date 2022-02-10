@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LeafyGreen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LeafyGreen
 {
+
     public const SYMBOL = "🥬";
 
     public const HEX = "1F96C";

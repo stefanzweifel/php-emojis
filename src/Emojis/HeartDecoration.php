@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HeartDecoration Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HeartDecoration
 {
+
     public const SYMBOL = "💟";
 
     public const HEX = "1F49F";

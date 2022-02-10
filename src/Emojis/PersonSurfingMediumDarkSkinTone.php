@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonSurfingMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonSurfingMediumDarkSkinTone
 {
+
     public const SYMBOL = "🏄🏾";
 
     public const HEX = "1F3C4 1F3FE";

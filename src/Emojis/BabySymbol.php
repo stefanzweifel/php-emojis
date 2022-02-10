@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BabySymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BabySymbol
 {
+
     public const SYMBOL = "🚼";
 
     public const HEX = "1F6BC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFactoryWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFactoryWorker
 {
+
     public const SYMBOL = "👩‍🏭";
 
     public const HEX = "1F469 200D 1F3ED";

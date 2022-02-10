@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNamibia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNamibia
 {
+
     public const SYMBOL = "🇳🇦";
 
     public const HEX = "1F1F3 1F1E6";

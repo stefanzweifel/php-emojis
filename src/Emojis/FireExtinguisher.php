@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FireExtinguisher Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FireExtinguisher
 {
+
     public const SYMBOL = "🧯";
 
     public const HEX = "1F9EF";

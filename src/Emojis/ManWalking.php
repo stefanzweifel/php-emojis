@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManWalking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManWalking
 {
+
     public const SYMBOL = "🚶‍♂️";
 
     public const HEX = "1F6B6 200D 2642 FE0F";

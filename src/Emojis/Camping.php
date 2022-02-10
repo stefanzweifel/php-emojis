@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Camping Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Camping
 {
+
     public const SYMBOL = "🏕️";
 
     public const HEX = "1F3D5 FE0F";

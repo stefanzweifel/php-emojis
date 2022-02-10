@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Fog Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Fog
 {
+
     public const SYMBOL = "🌫️";
 
     public const HEX = "1F32B FE0F";

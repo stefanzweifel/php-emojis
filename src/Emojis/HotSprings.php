@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HotSprings Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HotSprings
 {
+
     public const SYMBOL = "♨️";
 
     public const HEX = "2668 FE0F";

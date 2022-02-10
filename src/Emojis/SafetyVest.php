@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SafetyVest Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SafetyVest
 {
+
     public const SYMBOL = "🦺";
 
     public const HEX = "1F9BA";

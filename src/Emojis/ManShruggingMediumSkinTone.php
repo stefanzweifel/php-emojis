@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManShruggingMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManShruggingMediumSkinTone
 {
+
     public const SYMBOL = "🤷🏽‍♂️";
 
     public const HEX = "1F937 1F3FD 200D 2642 FE0F";

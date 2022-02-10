@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWearingTurbanDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWearingTurbanDarkSkinTone
 {
+
     public const SYMBOL = "👳🏿";
 
     public const HEX = "1F473 1F3FF";

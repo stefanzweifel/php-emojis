@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OldManMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OldManMediumSkinTone
 {
+
     public const SYMBOL = "👴🏽";
 
     public const HEX = "1F474 1F3FD";

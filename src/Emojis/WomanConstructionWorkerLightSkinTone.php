@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanConstructionWorkerLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanConstructionWorkerLightSkinTone
 {
+
     public const SYMBOL = "👷🏻‍♀️";
 
     public const HEX = "1F477 1F3FB 200D 2640 FE0F";

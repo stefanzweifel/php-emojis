@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PoliceCarLight Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PoliceCarLight
 {
+
     public const SYMBOL = "🚨";
 
     public const HEX = "1F6A8";

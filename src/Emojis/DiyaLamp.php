@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DiyaLamp Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DiyaLamp
 {
+
     public const SYMBOL = "🪔";
 
     public const HEX = "1FA94";

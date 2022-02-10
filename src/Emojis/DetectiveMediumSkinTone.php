@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DetectiveMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DetectiveMediumSkinTone
 {
+
     public const SYMBOL = "🕵🏽";
 
     public const HEX = "1F575 1F3FD";

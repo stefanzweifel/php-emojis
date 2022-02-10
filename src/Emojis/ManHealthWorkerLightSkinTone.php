@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManHealthWorkerLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManHealthWorkerLightSkinTone
 {
+
     public const SYMBOL = "👨🏻‍⚕️";
 
     public const HEX = "1F468 1F3FB 200D 2695 FE0F";

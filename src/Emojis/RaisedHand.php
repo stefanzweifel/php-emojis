@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisedHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisedHand
 {
+
     public const SYMBOL = "✋";
 
     public const HEX = "270B";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bicycle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bicycle
 {
+
     public const SYMBOL = "🚲";
 
     public const HEX = "1F6B2";

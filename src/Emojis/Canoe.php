@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Canoe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Canoe
 {
+
     public const SYMBOL = "🛶";
 
     public const HEX = "1F6F6";

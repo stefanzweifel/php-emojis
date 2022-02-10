@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bus
 {
+
     public const SYMBOL = "🚌";
 
     public const HEX = "1F68C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FastReverseButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FastReverseButton
 {
+
     public const SYMBOL = "⏪";
 
     public const HEX = "23EA";

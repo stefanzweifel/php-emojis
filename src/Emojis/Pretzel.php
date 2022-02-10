@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pretzel Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pretzel
 {
+
     public const SYMBOL = "🥨";
 
     public const HEX = "1F968";

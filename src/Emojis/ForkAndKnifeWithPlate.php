@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ForkAndKnifeWithPlate Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ForkAndKnifeWithPlate
 {
+
     public const SYMBOL = "🍽️";
 
     public const HEX = "1F37D FE0F";

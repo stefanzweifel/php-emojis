@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tooth Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tooth
 {
+
     public const SYMBOL = "🦷";
 
     public const HEX = "1F9B7";

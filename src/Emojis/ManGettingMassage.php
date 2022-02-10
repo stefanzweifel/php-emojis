@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManGettingMassage Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManGettingMassage
 {
+
     public const SYMBOL = "💆‍♂️";
 
     public const HEX = "1F486 200D 2642 FE0F";

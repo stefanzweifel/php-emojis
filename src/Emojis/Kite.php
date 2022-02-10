@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Kite Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Kite
 {
+
     public const SYMBOL = "🪁";
 
     public const HEX = "1FA81";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceWithHandOverMouth Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceWithHandOverMouth
 {
+
     public const SYMBOL = "🤭";
 
     public const HEX = "1F92D";

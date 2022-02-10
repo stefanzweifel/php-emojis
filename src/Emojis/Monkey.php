@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Monkey Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Monkey
 {
+
     public const SYMBOL = "🐒";
 
     public const HEX = "1F412";

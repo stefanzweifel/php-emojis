@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMauritius Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMauritius
 {
+
     public const SYMBOL = "🇲🇺";
 
     public const HEX = "1F1F2 1F1FA";

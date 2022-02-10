@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EightPointedStar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EightPointedStar
 {
+
     public const SYMBOL = "✴️";
 
     public const HEX = "2734 FE0F";

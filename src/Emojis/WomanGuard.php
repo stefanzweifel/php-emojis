@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGuard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGuard
 {
+
     public const SYMBOL = "💂‍♀️";
 
     public const HEX = "1F482 200D 2640 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanShruggingMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanShruggingMediumDarkSkinTone
 {
+
     public const SYMBOL = "🤷🏾‍♀️";
 
     public const HEX = "1F937 1F3FE 200D 2640 FE0F";

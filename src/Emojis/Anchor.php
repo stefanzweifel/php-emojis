@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Anchor Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Anchor
 {
+
     public const SYMBOL = "⚓";
 
     public const HEX = "2693";

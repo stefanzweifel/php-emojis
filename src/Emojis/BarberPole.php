@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BarberPole Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BarberPole
 {
+
     public const SYMBOL = "💈";
 
     public const HEX = "1F488";

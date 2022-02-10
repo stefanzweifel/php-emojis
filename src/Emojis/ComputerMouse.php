@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ComputerMouse Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ComputerMouse
 {
+
     public const SYMBOL = "🖱️";
 
     public const HEX = "1F5B1 FE0F";

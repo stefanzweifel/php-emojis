@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MenHoldingHandsDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MenHoldingHandsDarkSkinTone
 {
+
     public const SYMBOL = "👬🏿";
 
     public const HEX = "1F46C 1F3FF";

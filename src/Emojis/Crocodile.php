@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Crocodile Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Crocodile
 {
+
     public const SYMBOL = "🐊";
 
     public const HEX = "1F40A";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JudgeMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JudgeMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧑🏾‍⚖️";
 
     public const HEX = "1F9D1 1F3FE 200D 2696 FE0F";

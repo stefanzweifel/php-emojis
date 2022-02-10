@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceInClouds Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceInClouds
 {
+
     public const SYMBOL = "😶‍🌫️";
 
     public const HEX = "1F636 200D 1F32B FE0F";

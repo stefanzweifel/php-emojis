@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FishingPole Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FishingPole
 {
+
     public const SYMBOL = "🎣";
 
     public const HEX = "1F3A3";

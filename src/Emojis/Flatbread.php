@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Flatbread Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Flatbread
 {
+
     public const SYMBOL = "🫓";
 
     public const HEX = "1FAD3";

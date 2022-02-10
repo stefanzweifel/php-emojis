@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WritingHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WritingHand
 {
+
     public const SYMBOL = "✍️";
 
     public const HEX = "270D FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagRussia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagRussia
 {
+
     public const SYMBOL = "🇷🇺";
 
     public const HEX = "1F1F7 1F1FA";

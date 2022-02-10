@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RingedPlanet Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RingedPlanet
 {
+
     public const SYMBOL = "🪐";
 
     public const HEX = "1FA90";

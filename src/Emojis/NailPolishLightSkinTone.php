@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NailPolishLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NailPolishLightSkinTone
 {
+
     public const SYMBOL = "💅🏻";
 
     public const HEX = "1F485 1F3FB";

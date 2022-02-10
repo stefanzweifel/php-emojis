@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tornado Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tornado
 {
+
     public const SYMBOL = "🌪️";
 
     public const HEX = "1F32A FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sunrise Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sunrise
 {
+
     public const SYMBOL = "🌅";
 
     public const HEX = "1F305";

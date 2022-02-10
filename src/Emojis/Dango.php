@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dango Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dango
 {
+
     public const SYMBOL = "🍡";
 
     public const HEX = "1F361";

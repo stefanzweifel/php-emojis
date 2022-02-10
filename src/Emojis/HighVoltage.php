@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HighVoltage Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HighVoltage
 {
+
     public const SYMBOL = "⚡";
 
     public const HEX = "26A1";

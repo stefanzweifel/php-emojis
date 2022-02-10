@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ChessPawn Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ChessPawn
 {
+
     public const SYMBOL = "♟️";
 
     public const HEX = "265F FE0F";

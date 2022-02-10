@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RailwayCar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RailwayCar
 {
+
     public const SYMBOL = "🚃";
 
     public const HEX = "1F683";

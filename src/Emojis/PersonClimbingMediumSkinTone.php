@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonClimbingMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonClimbingMediumSkinTone
 {
+
     public const SYMBOL = "🧗🏽";
 
     public const HEX = "1F9D7 1F3FD";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WrappedGift Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WrappedGift
 {
+
     public const SYMBOL = "🎁";
 
     public const HEX = "1F381";

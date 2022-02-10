@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ShintoShrine Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ShintoShrine
 {
+
     public const SYMBOL = "⛩️";
 
     public const HEX = "26E9 FE0F";

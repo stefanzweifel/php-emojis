@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Taxi Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Taxi
 {
+
     public const SYMBOL = "🚕";
 
     public const HEX = "1F695";

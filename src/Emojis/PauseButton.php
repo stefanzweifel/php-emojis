@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PauseButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PauseButton
 {
+
     public const SYMBOL = "⏸️";
 
     public const HEX = "23F8 FE0F";

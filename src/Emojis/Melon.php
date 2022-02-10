@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Melon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Melon
 {
+
     public const SYMBOL = "🍈";
 
     public const HEX = "1F348";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonGettingMassageMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonGettingMassageMediumSkinTone
 {
+
     public const SYMBOL = "💆🏽";
 
     public const HEX = "1F486 1F3FD";

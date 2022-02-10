@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanTippingHandMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanTippingHandMediumDarkSkinTone
 {
+
     public const SYMBOL = "💁🏾‍♀️";
 
     public const HEX = "1F481 1F3FE 200D 2640 FE0F";

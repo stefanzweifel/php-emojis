@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagStMartin Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagStMartin
 {
+
     public const SYMBOL = "🇲🇫";
 
     public const HEX = "1F1F2 1F1EB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManMechanic Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManMechanic
 {
+
     public const SYMBOL = "👨‍🔧";
 
     public const HEX = "1F468 200D 1F527";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagClippertonIsland Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagClippertonIsland
 {
+
     public const SYMBOL = "🇨🇵";
 
     public const HEX = "1F1E8 1F1F5";

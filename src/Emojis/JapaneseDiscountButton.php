@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseDiscountButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseDiscountButton
 {
+
     public const SYMBOL = "🈹";
 
     public const HEX = "1F239";

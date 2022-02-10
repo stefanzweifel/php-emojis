@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagLuxembourg Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagLuxembourg
 {
+
     public const SYMBOL = "🇱🇺";
 
     public const HEX = "1F1F1 1F1FA";

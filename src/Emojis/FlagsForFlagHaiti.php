@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagHaiti Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagHaiti
 {
+
     public const SYMBOL = "🇭🇹";
 
     public const HEX = "1F1ED 1F1F9";

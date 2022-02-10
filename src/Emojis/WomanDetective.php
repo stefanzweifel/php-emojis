@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanDetective Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanDetective
 {
+
     public const SYMBOL = "🕵️‍♀️";
 
     public const HEX = "1F575 FE0F 200D 2640 FE0F";

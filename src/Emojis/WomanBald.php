@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanBald Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanBald
 {
+
     public const SYMBOL = "👩‍🦲";
 
     public const HEX = "1F469 200D 1F9B2";

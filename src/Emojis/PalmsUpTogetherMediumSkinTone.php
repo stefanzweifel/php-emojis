@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PalmsUpTogetherMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PalmsUpTogetherMediumSkinTone
 {
+
     public const SYMBOL = "🤲🏽";
 
     public const HEX = "1F932 1F3FD";

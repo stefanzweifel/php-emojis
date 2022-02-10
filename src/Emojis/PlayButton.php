@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PlayButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PlayButton
 {
+
     public const SYMBOL = "▶️";
 
     public const HEX = "25B6 FE0F";

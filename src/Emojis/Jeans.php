@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Jeans Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Jeans
 {
+
     public const SYMBOL = "👖";
 
     public const HEX = "1F456";

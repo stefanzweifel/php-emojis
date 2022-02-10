@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RecyclingSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RecyclingSymbol
 {
+
     public const SYMBOL = "♻️";
 
     public const HEX = "267B FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BlackLargeSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BlackLargeSquare
 {
+
     public const SYMBOL = "⬛";
 
     public const HEX = "2B1B";

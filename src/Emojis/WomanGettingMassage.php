@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGettingMassage Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGettingMassage
 {
+
     public const SYMBOL = "💆‍♀️";
 
     public const HEX = "1F486 200D 2640 FE0F";

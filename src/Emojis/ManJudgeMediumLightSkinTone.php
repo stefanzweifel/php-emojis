@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManJudgeMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManJudgeMediumLightSkinTone
 {
+
     public const SYMBOL = "👨🏼‍⚖️";
 
     public const HEX = "1F468 1F3FC 200D 2696 FE0F";

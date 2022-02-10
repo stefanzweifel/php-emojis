@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManHealthWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManHealthWorker
 {
+
     public const SYMBOL = "👨‍⚕️";
 
     public const HEX = "1F468 200D 2695 FE0F";

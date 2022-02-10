@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagBouvetIsland Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagBouvetIsland
 {
+
     public const SYMBOL = "🇧🇻";
 
     public const HEX = "1F1E7 1F1FB";

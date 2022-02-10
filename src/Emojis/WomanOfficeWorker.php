@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanOfficeWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanOfficeWorker
 {
+
     public const SYMBOL = "👩‍💼";
 
     public const HEX = "1F469 200D 1F4BC";

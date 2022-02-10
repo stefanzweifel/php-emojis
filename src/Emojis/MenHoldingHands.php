@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MenHoldingHands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MenHoldingHands
 {
+
     public const SYMBOL = "👬";
 
     public const HEX = "1F46C";

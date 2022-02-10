@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BellhopBell Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BellhopBell
 {
+
     public const SYMBOL = "🛎️";
 
     public const HEX = "1F6CE FE0F";

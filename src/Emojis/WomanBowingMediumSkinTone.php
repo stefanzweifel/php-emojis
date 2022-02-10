@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanBowingMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanBowingMediumSkinTone
 {
+
     public const SYMBOL = "🙇🏽‍♀️";
 
     public const HEX = "1F647 1F3FD 200D 2640 FE0F";

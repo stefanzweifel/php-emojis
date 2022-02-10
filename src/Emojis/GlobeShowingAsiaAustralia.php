@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GlobeShowingAsiaAustralia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GlobeShowingAsiaAustralia
 {
+
     public const SYMBOL = "🌏";
 
     public const HEX = "1F30F";

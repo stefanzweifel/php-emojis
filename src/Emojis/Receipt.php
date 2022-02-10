@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Receipt Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Receipt
 {
+
     public const SYMBOL = "🧾";
 
     public const HEX = "1F9FE";

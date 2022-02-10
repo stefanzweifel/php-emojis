@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Leopard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Leopard
 {
+
     public const SYMBOL = "🐆";
 
     public const HEX = "1F406";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Keycap10 Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Keycap10
 {
+
     public const SYMBOL = "🔟";
 
     public const HEX = "1F51F";

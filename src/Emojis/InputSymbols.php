@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * InputSymbols Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class InputSymbols
 {
+
     public const SYMBOL = "🔣";
 
     public const HEX = "1F523";

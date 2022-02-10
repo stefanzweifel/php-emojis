@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWithSkullcapMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWithSkullcapMediumSkinTone
 {
+
     public const SYMBOL = "👲🏽";
 
     public const HEX = "1F472 1F3FD";

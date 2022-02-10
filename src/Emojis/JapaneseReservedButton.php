@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseReservedButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseReservedButton
 {
+
     public const SYMBOL = "🈯";
 
     public const HEX = "1F22F";

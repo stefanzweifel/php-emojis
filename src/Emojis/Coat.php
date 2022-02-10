@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Coat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Coat
 {
+
     public const SYMBOL = "🧥";
 
     public const HEX = "1F9E5";

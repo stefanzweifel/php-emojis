@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonGettingHaircut Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonGettingHaircut
 {
+
     public const SYMBOL = "💇";
 
     public const HEX = "1F487";

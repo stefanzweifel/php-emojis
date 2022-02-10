@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlatShoe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlatShoe
 {
+
     public const SYMBOL = "🥿";
 
     public const HEX = "1F97F";

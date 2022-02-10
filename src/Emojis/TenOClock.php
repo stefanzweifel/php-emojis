@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TenOClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TenOClock
 {
+
     public const SYMBOL = "🕙";
 
     public const HEX = "1F559";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagTonga Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagTonga
 {
+
     public const SYMBOL = "🇹🇴";
 
     public const HEX = "1F1F9 1F1F4";

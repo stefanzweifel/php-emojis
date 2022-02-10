@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OlderPersonMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OlderPersonMediumLightSkinTone
 {
+
     public const SYMBOL = "🧓🏼";
 
     public const HEX = "1F9D3 1F3FC";

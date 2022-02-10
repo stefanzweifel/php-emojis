@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DiamondSuit Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DiamondSuit
 {
+
     public const SYMBOL = "♦️";
 
     public const HEX = "2666 FE0F";

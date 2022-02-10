@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PButton
 {
+
     public const SYMBOL = "🅿️";
 
     public const HEX = "1F17F FE0F";

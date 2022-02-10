@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ZipperMouthFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ZipperMouthFace
 {
+
     public const SYMBOL = "🤐";
 
     public const HEX = "1F910";

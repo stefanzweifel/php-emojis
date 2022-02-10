@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PileOfPoo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PileOfPoo
 {
+
     public const SYMBOL = "💩";
 
     public const HEX = "1F4A9";

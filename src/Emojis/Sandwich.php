@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sandwich Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sandwich
 {
+
     public const SYMBOL = "🥪";
 
     public const HEX = "1F96A";

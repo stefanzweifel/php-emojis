@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OkHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OkHand
 {
+
     public const SYMBOL = "👌";
 
     public const HEX = "1F44C";

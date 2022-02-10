@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagChina Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagChina
 {
+
     public const SYMBOL = "🇨🇳";
 
     public const HEX = "1F1E8 1F1F3";

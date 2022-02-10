@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sagittarius Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sagittarius
 {
+
     public const SYMBOL = "♐";
 
     public const HEX = "2650";

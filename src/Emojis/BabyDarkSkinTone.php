@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BabyDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BabyDarkSkinTone
 {
+
     public const SYMBOL = "👶🏿";
 
     public const HEX = "1F476 1F3FF";

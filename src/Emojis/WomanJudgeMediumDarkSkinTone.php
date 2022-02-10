@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanJudgeMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanJudgeMediumDarkSkinTone
 {
+
     public const SYMBOL = "👩🏾‍⚖️";
 
     public const HEX = "1F469 1F3FE 200D 2696 FE0F";

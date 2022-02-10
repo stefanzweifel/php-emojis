@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SuperheroMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SuperheroMediumSkinTone
 {
+
     public const SYMBOL = "🦸🏽";
 
     public const HEX = "1F9B8 1F3FD";

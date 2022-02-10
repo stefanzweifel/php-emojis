@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMarshallIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMarshallIslands
 {
+
     public const SYMBOL = "🇲🇭";
 
     public const HEX = "1F1F2 1F1ED";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCongoKinshasa Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCongoKinshasa
 {
+
     public const SYMBOL = "🇨🇩";
 
     public const HEX = "1F1E8 1F1E9";

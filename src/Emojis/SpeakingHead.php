@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpeakingHead Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpeakingHead
 {
+
     public const SYMBOL = "🗣️";
 
     public const HEX = "1F5E3 FE0F";

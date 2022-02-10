@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WinkingFaceWithTongue Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WinkingFaceWithTongue
 {
+
     public const SYMBOL = "😜";
 
     public const HEX = "1F61C";

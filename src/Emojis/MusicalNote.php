@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MusicalNote Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MusicalNote
 {
+
     public const SYMBOL = "🎵";
 
     public const HEX = "1F3B5";

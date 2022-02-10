@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * InputLatinLetters Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class InputLatinLetters
 {
+
     public const SYMBOL = "🔤";
 
     public const HEX = "1F524";

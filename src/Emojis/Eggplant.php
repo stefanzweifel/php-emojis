@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Eggplant Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Eggplant
 {
+
     public const SYMBOL = "🍆";
 
     public const HEX = "1F346";

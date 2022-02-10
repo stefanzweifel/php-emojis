@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CallMeHandDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CallMeHandDarkSkinTone
 {
+
     public const SYMBOL = "🤙🏿";
 
     public const HEX = "1F919 1F3FF";

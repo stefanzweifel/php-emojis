@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGettingHaircut Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGettingHaircut
 {
+
     public const SYMBOL = "💇‍♀️";
 
     public const HEX = "1F487 200D 2640 FE0F";

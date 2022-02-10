@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Banjo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Banjo
 {
+
     public const SYMBOL = "🪕";
 
     public const HEX = "1FA95";

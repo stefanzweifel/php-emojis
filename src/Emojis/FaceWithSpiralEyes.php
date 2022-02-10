@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceWithSpiralEyes Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceWithSpiralEyes
 {
+
     public const SYMBOL = "😵‍💫";
 
     public const HEX = "1F635 200D 1F4AB";

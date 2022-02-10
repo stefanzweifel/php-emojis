@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LargeOrangeDiamond Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LargeOrangeDiamond
 {
+
     public const SYMBOL = "🔶";
 
     public const HEX = "1F536";

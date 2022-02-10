@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * YoYo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class YoYo
 {
+
     public const SYMBOL = "🪀";
 
     public const HEX = "1FA80";

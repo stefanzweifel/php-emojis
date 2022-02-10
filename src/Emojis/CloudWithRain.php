@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CloudWithRain Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CloudWithRain
 {
+
     public const SYMBOL = "🌧️";
 
     public const HEX = "1F327 FE0F";

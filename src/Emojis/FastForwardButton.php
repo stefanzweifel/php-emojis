@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FastForwardButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FastForwardButton
 {
+
     public const SYMBOL = "⏩";
 
     public const HEX = "23E9";

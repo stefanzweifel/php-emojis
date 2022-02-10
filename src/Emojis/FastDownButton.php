@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FastDownButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FastDownButton
 {
+
     public const SYMBOL = "⏬";
 
     public const HEX = "23EC";

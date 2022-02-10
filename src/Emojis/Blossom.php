@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Blossom Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Blossom
 {
+
     public const SYMBOL = "🌼";
 
     public const HEX = "1F33C";

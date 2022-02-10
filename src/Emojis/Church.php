@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Church Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Church
 {
+
     public const SYMBOL = "⛪";
 
     public const HEX = "26EA";

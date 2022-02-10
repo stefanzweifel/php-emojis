@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Beetle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Beetle
 {
+
     public const SYMBOL = "🪲";
 
     public const HEX = "1FAB2";

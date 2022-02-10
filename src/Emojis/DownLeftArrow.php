@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DownLeftArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DownLeftArrow
 {
+
     public const SYMBOL = "↙️";
 
     public const HEX = "2199 FE0F";

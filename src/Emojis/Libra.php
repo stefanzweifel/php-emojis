@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Libra Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Libra
 {
+
     public const SYMBOL = "♎";
 
     public const HEX = "264E";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LeftRightArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LeftRightArrow
 {
+
     public const SYMBOL = "↔️";
 
     public const HEX = "2194 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RollOfPaper Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RollOfPaper
 {
+
     public const SYMBOL = "🧻";
 
     public const HEX = "1F9FB";

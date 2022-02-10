@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagVenezuela Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagVenezuela
 {
+
     public const SYMBOL = "🇻🇪";
 
     public const HEX = "1F1FB 1F1EA";

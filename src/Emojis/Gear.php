@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Gear Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Gear
 {
+
     public const SYMBOL = "⚙️";
 
     public const HEX = "2699 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MagicWand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MagicWand
 {
+
     public const SYMBOL = "🪄";
 
     public const HEX = "1FA84";

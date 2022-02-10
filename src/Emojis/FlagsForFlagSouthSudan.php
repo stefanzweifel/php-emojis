@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSouthSudan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSouthSudan
 {
+
     public const SYMBOL = "🇸🇸";
 
     public const HEX = "1F1F8 1F1F8";

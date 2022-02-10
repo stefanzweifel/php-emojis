@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonInSteamyRoomMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonInSteamyRoomMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧖🏾";
 
     public const HEX = "1F9D6 1F3FE";

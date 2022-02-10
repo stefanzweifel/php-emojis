@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Metro Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Metro
 {
+
     public const SYMBOL = "🚇";
 
     public const HEX = "1F687";

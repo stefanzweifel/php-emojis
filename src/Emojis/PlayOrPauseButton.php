@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PlayOrPauseButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PlayOrPauseButton
 {
+
     public const SYMBOL = "⏯️";
 
     public const HEX = "23EF FE0F";

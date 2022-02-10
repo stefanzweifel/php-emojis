@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagLithuania Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagLithuania
 {
+
     public const SYMBOL = "🇱🇹";
 
     public const HEX = "1F1F1 1F1F9";

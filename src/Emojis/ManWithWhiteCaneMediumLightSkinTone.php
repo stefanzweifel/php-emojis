@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManWithWhiteCaneMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManWithWhiteCaneMediumLightSkinTone
 {
+
     public const SYMBOL = "👨🏼‍🦯";
 
     public const HEX = "1F468 1F3FC 200D 1F9AF";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AstonishedFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AstonishedFace
 {
+
     public const SYMBOL = "😲";
 
     public const HEX = "1F632";

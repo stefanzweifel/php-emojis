@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Egg Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Egg
 {
+
     public const SYMBOL = "🥚";
 
     public const HEX = "1F95A";

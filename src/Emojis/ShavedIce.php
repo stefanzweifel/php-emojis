@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ShavedIce Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ShavedIce
 {
+
     public const SYMBOL = "🍧";
 
     public const HEX = "1F367";

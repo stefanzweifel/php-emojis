@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Skier Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Skier
 {
+
     public const SYMBOL = "⛷️";
 
     public const HEX = "26F7 FE0F";

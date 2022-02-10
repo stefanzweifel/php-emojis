@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Foggy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Foggy
 {
+
     public const SYMBOL = "🌁";
 
     public const HEX = "1F301";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMexico Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMexico
 {
+
     public const SYMBOL = "🇲🇽";
 
     public const HEX = "1F1F2 1F1FD";

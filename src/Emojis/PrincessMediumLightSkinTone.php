@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PrincessMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PrincessMediumLightSkinTone
 {
+
     public const SYMBOL = "👸🏼";
 
     public const HEX = "1F478 1F3FC";

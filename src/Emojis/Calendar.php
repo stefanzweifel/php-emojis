@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Calendar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Calendar
 {
+
     public const SYMBOL = "📅";
 
     public const HEX = "1F4C5";

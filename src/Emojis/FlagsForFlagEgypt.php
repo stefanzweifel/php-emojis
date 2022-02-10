@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagEgypt Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagEgypt
 {
+
     public const SYMBOL = "🇪🇬";
 
     public const HEX = "1F1EA 1F1EC";

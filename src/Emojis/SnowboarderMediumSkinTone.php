@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SnowboarderMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SnowboarderMediumSkinTone
 {
+
     public const SYMBOL = "🏂🏽";
 
     public const HEX = "1F3C2 1F3FD";

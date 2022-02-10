@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cancer Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cancer
 {
+
     public const SYMBOL = "♋";
 
     public const HEX = "264B";

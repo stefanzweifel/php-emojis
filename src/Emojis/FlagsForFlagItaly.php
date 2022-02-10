@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagItaly Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagItaly
 {
+
     public const SYMBOL = "🇮🇹";
 
     public const HEX = "1F1EE 1F1F9";

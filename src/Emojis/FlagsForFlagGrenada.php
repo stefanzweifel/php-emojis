@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagGrenada Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagGrenada
 {
+
     public const SYMBOL = "🇬🇩";
 
     public const HEX = "1F1EC 1F1E9";

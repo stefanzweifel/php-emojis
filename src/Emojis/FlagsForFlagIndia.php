@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagIndia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagIndia
 {
+
     public const SYMBOL = "🇮🇳";
 
     public const HEX = "1F1EE 1F1F3";

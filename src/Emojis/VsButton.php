@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VsButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VsButton
 {
+
     public const SYMBOL = "🆚";
 
     public const HEX = "1F19A";

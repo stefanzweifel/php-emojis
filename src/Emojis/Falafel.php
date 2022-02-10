@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Falafel Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Falafel
 {
+
     public const SYMBOL = "🧆";
 
     public const HEX = "1F9C6";

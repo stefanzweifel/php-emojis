@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonInBedDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonInBedDarkSkinTone
 {
+
     public const SYMBOL = "🛌🏿";
 
     public const HEX = "1F6CC 1F3FF";

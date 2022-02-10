@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EjectButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EjectButton
 {
+
     public const SYMBOL = "⏏️";
 
     public const HEX = "23CF FE0F";

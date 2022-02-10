@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dolphin Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dolphin
 {
+
     public const SYMBOL = "🐬";
 
     public const HEX = "1F42C";

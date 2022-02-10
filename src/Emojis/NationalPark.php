@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NationalPark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NationalPark
 {
+
     public const SYMBOL = "🏞️";
 
     public const HEX = "1F3DE FE0F";

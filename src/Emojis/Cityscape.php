@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cityscape Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cityscape
 {
+
     public const SYMBOL = "🏙️";
 
     public const HEX = "1F3D9 FE0F";

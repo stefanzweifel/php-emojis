@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMoldova Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMoldova
 {
+
     public const SYMBOL = "🇲🇩";
 
     public const HEX = "1F1F2 1F1E9";

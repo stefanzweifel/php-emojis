@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseOpenForBusinessButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseOpenForBusinessButton
 {
+
     public const SYMBOL = "🈺";
 
     public const HEX = "1F23A";

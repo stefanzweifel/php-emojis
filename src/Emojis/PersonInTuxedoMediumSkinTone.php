@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonInTuxedoMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonInTuxedoMediumSkinTone
 {
+
     public const SYMBOL = "🤵🏽";
 
     public const HEX = "1F935 1F3FD";

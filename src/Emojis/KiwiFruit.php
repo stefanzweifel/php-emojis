@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KiwiFruit Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KiwiFruit
 {
+
     public const SYMBOL = "🥝";
 
     public const HEX = "1F95D";

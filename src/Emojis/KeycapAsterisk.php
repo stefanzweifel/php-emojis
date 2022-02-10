@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KeycapAsterisk Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KeycapAsterisk
 {
+
     public const SYMBOL = "*️⃣";
 
     public const HEX = "002A FE0F 20E3";

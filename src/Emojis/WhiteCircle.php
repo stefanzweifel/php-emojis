@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteCircle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteCircle
 {
+
     public const SYMBOL = "⚪";
 
     public const HEX = "26AA";

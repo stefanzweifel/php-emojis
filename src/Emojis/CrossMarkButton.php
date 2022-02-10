@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossMarkButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossMarkButton
 {
+
     public const SYMBOL = "❎";
 
     public const HEX = "274E";

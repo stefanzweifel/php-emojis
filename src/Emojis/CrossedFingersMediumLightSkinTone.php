@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossedFingersMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossedFingersMediumLightSkinTone
 {
+
     public const SYMBOL = "🤞🏼";
 
     public const HEX = "1F91E 1F3FC";

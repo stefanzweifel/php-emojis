@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseFreeOfChargeButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseFreeOfChargeButton
 {
+
     public const SYMBOL = "🈚";
 
     public const HEX = "1F21A";

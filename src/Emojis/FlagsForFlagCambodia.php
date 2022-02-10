@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCambodia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCambodia
 {
+
     public const SYMBOL = "🇰🇭";
 
     public const HEX = "1F1F0 1F1ED";

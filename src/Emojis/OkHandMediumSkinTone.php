@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OkHandMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OkHandMediumSkinTone
 {
+
     public const SYMBOL = "👌🏽";
 
     public const HEX = "1F44C 1F3FD";

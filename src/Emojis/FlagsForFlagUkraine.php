@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUkraine Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUkraine
 {
+
     public const SYMBOL = "🇺🇦";
 
     public const HEX = "1F1FA 1F1E6";

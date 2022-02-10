@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RailwayTrack Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RailwayTrack
 {
+
     public const SYMBOL = "🛤️";
 
     public const HEX = "1F6E4 FE0F";

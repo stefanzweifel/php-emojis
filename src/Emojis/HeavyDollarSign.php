@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HeavyDollarSign Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HeavyDollarSign
 {
+
     public const SYMBOL = "💲";
 
     public const HEX = "1F4B2";

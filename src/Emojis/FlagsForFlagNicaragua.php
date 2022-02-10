@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNicaragua Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNicaragua
 {
+
     public const SYMBOL = "🇳🇮";
 
     public const HEX = "1F1F3 1F1EE";

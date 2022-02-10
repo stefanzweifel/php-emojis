@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMalawi Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMalawi
 {
+
     public const SYMBOL = "🇲🇼";
 
     public const HEX = "1F1F2 1F1FC";

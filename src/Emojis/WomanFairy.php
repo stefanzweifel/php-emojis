@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFairy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFairy
 {
+
     public const SYMBOL = "🧚‍♀️";
 
     public const HEX = "1F9DA 200D 2640 FE0F";

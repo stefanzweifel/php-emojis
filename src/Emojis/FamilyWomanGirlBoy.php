@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FamilyWomanGirlBoy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FamilyWomanGirlBoy
 {
+
     public const SYMBOL = "👩‍👧‍👦";
 
     public const HEX = "1F469 200D 1F467 200D 1F466";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Paperclip Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Paperclip
 {
+
     public const SYMBOL = "📎";
 
     public const HEX = "1F4CE";

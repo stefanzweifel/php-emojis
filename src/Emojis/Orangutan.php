@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Orangutan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Orangutan
 {
+
     public const SYMBOL = "🦧";
 
     public const HEX = "1F9A7";

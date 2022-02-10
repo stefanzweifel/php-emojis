@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ShushingFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ShushingFace
 {
+
     public const SYMBOL = "🤫";
 
     public const HEX = "1F92B";

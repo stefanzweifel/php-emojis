@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClockwiseVerticalArrows Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClockwiseVerticalArrows
 {
+
     public const SYMBOL = "🔃";
 
     public const HEX = "1F503";

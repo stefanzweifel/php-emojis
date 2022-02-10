@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KissDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KissDarkSkinTone
 {
+
     public const SYMBOL = "💏🏿";
 
     public const HEX = "1F48F 1F3FF";

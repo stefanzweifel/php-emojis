@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CricketGame Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CricketGame
 {
+
     public const SYMBOL = "🏏";
 
     public const HEX = "1F3CF";

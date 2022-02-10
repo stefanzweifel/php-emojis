@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlexedBicepsMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlexedBicepsMediumSkinTone
 {
+
     public const SYMBOL = "💪🏽";
 
     public const HEX = "1F4AA 1F3FD";

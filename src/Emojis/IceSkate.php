@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IceSkate Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IceSkate
 {
+
     public const SYMBOL = "⛸️";
 
     public const HEX = "26F8 FE0F";

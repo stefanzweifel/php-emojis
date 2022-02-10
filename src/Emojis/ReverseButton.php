@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ReverseButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ReverseButton
 {
+
     public const SYMBOL = "◀️";
 
     public const HEX = "25C0 FE0F";

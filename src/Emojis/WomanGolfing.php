@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGolfing Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGolfing
 {
+
     public const SYMBOL = "🏌️‍♀️";
 
     public const HEX = "1F3CC FE0F 200D 2640 FE0F";

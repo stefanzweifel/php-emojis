@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CircledM Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CircledM
 {
+
     public const SYMBOL = "Ⓜ️";
 
     public const HEX = "24C2 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MerpersonMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MerpersonMediumSkinTone
 {
+
     public const SYMBOL = "🧜🏽";
 
     public const HEX = "1F9DC 1F3FD";

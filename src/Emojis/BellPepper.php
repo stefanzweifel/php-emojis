@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BellPepper Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BellPepper
 {
+
     public const SYMBOL = "🫑";
 
     public const HEX = "1FAD1";

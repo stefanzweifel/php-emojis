@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Radioactive Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Radioactive
 {
+
     public const SYMBOL = "☢️";
 
     public const HEX = "2622 FE0F";

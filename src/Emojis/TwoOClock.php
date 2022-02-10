@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TwoOClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TwoOClock
 {
+
     public const SYMBOL = "🕑";
 
     public const HEX = "1F551";

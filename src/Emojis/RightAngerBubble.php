@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RightAngerBubble Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RightAngerBubble
 {
+
     public const SYMBOL = "🗯️";
 
     public const HEX = "1F5EF FE0F";

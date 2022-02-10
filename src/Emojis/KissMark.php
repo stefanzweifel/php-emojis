@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KissMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KissMark
 {
+
     public const SYMBOL = "💋";
 
     public const HEX = "1F48B";

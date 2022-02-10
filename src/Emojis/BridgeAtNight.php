@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BridgeAtNight Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BridgeAtNight
 {
+
     public const SYMBOL = "🌉";
 
     public const HEX = "1F309";

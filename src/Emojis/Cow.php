@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cow
 {
+
     public const SYMBOL = "🐄";
 
     public const HEX = "1F404";

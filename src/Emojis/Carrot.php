@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Carrot Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Carrot
 {
+
     public const SYMBOL = "🥕";
 
     public const HEX = "1F955";

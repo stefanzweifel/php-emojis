@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagZambia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagZambia
 {
+
     public const SYMBOL = "🇿🇲";
 
     public const HEX = "1F1FF 1F1F2";

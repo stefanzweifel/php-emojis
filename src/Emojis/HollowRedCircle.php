@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HollowRedCircle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HollowRedCircle
 {
+
     public const SYMBOL = "⭕";
 
     public const HEX = "2B55";

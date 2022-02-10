@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WaterWave Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WaterWave
 {
+
     public const SYMBOL = "🌊";
 
     public const HEX = "1F30A";

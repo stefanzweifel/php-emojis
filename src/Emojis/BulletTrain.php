@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BulletTrain Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BulletTrain
 {
+
     public const SYMBOL = "🚅";
 
     public const HEX = "1F685";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Vampire Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Vampire
 {
+
     public const SYMBOL = "🧛";
 
     public const HEX = "1F9DB";

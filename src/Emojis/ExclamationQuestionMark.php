@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ExclamationQuestionMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ExclamationQuestionMark
 {
+
     public const SYMBOL = "⁉️";
 
     public const HEX = "2049 FE0F";

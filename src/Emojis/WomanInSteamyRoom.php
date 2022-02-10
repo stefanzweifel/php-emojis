@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanInSteamyRoom Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanInSteamyRoom
 {
+
     public const SYMBOL = "🧖‍♀️";
 
     public const HEX = "1F9D6 200D 2640 FE0F";

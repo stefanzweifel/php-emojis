@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Student Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Student
 {
+
     public const SYMBOL = "🧑‍🎓";
 
     public const HEX = "1F9D1 200D 1F393";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonCartwheeling Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonCartwheeling
 {
+
     public const SYMBOL = "🤸";
 
     public const HEX = "1F938";

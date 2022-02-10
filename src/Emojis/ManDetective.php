@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManDetective Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManDetective
 {
+
     public const SYMBOL = "🕵️‍♂️";
 
     public const HEX = "1F575 FE0F 200D 2642 FE0F";

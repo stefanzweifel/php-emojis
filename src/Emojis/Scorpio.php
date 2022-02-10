@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Scorpio Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Scorpio
 {
+
     public const SYMBOL = "♏";
 
     public const HEX = "264F";

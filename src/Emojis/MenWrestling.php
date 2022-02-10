@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MenWrestling Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MenWrestling
 {
+
     public const SYMBOL = "🤼‍♂️";
 
     public const HEX = "1F93C 200D 2642 FE0F";

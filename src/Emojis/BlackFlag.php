@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BlackFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BlackFlag
 {
+
     public const SYMBOL = "🏴";
 
     public const HEX = "1F3F4";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpadeSuit Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpadeSuit
 {
+
     public const SYMBOL = "♠️";
 
     public const HEX = "2660 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedQuestionMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedQuestionMark
 {
+
     public const SYMBOL = "❓";
 
     public const HEX = "2753";

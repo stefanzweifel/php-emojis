@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Aries Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Aries
 {
+
     public const SYMBOL = "♈";
 
     public const HEX = "2648";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * UmbrellaOnGround Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class UmbrellaOnGround
 {
+
     public const SYMBOL = "⛱️";
 
     public const HEX = "26F1 FE0F";

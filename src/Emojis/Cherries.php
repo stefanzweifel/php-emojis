@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cherries Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cherries
 {
+
     public const SYMBOL = "🍒";
 
     public const HEX = "1F352";

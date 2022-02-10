@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FootMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FootMediumLightSkinTone
 {
+
     public const SYMBOL = "🦶🏼";
 
     public const HEX = "1F9B6 1F3FC";

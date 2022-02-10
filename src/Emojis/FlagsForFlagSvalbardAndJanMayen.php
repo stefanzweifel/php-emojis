@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSvalbardAndJanMayen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSvalbardAndJanMayen
 {
+
     public const SYMBOL = "🇸🇯";
 
     public const HEX = "1F1F8 1F1EF";

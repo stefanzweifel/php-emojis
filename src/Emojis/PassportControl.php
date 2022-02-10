@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PassportControl Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PassportControl
 {
+
     public const SYMBOL = "🛂";
 
     public const HEX = "1F6C2";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pisces Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pisces
 {
+
     public const SYMBOL = "♓";
 
     public const HEX = "2653";

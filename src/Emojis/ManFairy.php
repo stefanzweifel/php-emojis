@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFairy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFairy
 {
+
     public const SYMBOL = "🧚‍♂️";
 
     public const HEX = "1F9DA 200D 2642 FE0F";

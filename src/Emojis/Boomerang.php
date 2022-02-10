@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Boomerang Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Boomerang
 {
+
     public const SYMBOL = "🪃";
 
     public const HEX = "1FA83";

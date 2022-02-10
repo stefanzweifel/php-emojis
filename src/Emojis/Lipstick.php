@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Lipstick Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Lipstick
 {
+
     public const SYMBOL = "💄";
 
     public const HEX = "1F484";

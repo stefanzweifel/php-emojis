@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NotebookWithDecorativeCover Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NotebookWithDecorativeCover
 {
+
     public const SYMBOL = "📔";
 
     public const HEX = "1F4D4";

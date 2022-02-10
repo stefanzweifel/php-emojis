@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManBouncingBall Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManBouncingBall
 {
+
     public const SYMBOL = "⛹️‍♂️";
 
     public const HEX = "26F9 FE0F 200D 2642 FE0F";

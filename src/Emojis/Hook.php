@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Hook Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Hook
 {
+
     public const SYMBOL = "🪝";
 
     public const HEX = "1FA9D";

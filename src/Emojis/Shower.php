@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shower Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shower
 {
+
     public const SYMBOL = "🚿";
 
     public const HEX = "1F6BF";

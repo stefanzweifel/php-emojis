@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ElfMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ElfMediumLightSkinTone
 {
+
     public const SYMBOL = "🧝🏼";
 
     public const HEX = "1F9DD 1F3FC";

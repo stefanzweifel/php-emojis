@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DoubleExclamationMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DoubleExclamationMark
 {
+
     public const SYMBOL = "‼️";
 
     public const HEX = "203C FE0F";

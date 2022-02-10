@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Microscope Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Microscope
 {
+
     public const SYMBOL = "🔬";
 
     public const HEX = "1F52C";

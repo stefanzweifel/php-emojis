@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Basketball Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Basketball
 {
+
     public const SYMBOL = "🏀";
 
     public const HEX = "1F3C0";

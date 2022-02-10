@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PetriDish Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PetriDish
 {
+
     public const SYMBOL = "🧫";
 
     public const HEX = "1F9EB";

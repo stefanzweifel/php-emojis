@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMyanmarBurma Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMyanmarBurma
 {
+
     public const SYMBOL = "🇲🇲";
 
     public const HEX = "1F1F2 1F1F2";

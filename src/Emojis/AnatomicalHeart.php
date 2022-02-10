@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AnatomicalHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AnatomicalHeart
 {
+
     public const SYMBOL = "🫀";
 
     public const HEX = "1FAC0";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanInLotusPositionMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanInLotusPositionMediumSkinTone
 {
+
     public const SYMBOL = "🧘🏽‍♀️";
 
     public const HEX = "1F9D8 1F3FD 200D 2640 FE0F";

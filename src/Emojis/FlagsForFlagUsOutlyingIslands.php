@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUsOutlyingIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUsOutlyingIslands
 {
+
     public const SYMBOL = "🇺🇲";
 
     public const HEX = "1F1FA 1F1F2";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMicronesia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMicronesia
 {
+
     public const SYMBOL = "🇫🇲";
 
     public const HEX = "1F1EB 1F1F2";

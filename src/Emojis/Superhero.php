@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Superhero Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Superhero
 {
+
     public const SYMBOL = "🦸";
 
     public const HEX = "1F9B8";

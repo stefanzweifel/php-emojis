@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TiredFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TiredFace
 {
+
     public const SYMBOL = "😫";
 
     public const HEX = "1F62B";

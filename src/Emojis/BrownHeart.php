@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BrownHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BrownHeart
 {
+
     public const SYMBOL = "🤎";
 
     public const HEX = "1F90E";

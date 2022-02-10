@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * StuffedFlatbread Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class StuffedFlatbread
 {
+
     public const SYMBOL = "🥙";
 
     public const HEX = "1F959";

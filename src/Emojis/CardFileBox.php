@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CardFileBox Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CardFileBox
 {
+
     public const SYMBOL = "🗃️";
 
     public const HEX = "1F5C3 FE0F";

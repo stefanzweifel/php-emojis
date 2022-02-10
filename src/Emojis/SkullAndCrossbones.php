@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SkullAndCrossbones Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SkullAndCrossbones
 {
+
     public const SYMBOL = "☠️";
 
     public const HEX = "2620 FE0F";

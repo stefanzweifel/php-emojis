@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagJapan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagJapan
 {
+
     public const SYMBOL = "🇯🇵";
 
     public const HEX = "1F1EF 1F1F5";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Notebook Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Notebook
 {
+
     public const SYMBOL = "📓";
 
     public const HEX = "1F4D3";

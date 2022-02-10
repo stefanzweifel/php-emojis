@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteLargeSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteLargeSquare
 {
+
     public const SYMBOL = "⬜";
 
     public const HEX = "2B1C";

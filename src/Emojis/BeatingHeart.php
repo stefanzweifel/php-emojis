@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BeatingHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BeatingHeart
 {
+
     public const SYMBOL = "💓";
 
     public const HEX = "1F493";

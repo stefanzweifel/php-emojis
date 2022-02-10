@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PotOfFood Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PotOfFood
 {
+
     public const SYMBOL = "🍲";
 
     public const HEX = "1F372";

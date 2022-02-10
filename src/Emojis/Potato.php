@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Potato Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Potato
 {
+
     public const SYMBOL = "🥔";
 
     public const HEX = "1F954";

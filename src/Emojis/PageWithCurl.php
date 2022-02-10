@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PageWithCurl Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PageWithCurl
 {
+
     public const SYMBOL = "📃";
 
     public const HEX = "1F4C3";

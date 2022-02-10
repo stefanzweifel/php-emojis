@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OpenFileFolder Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OpenFileFolder
 {
+
     public const SYMBOL = "📂";
 
     public const HEX = "1F4C2";

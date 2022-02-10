@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseSecretButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseSecretButton
 {
+
     public const SYMBOL = "㊙️";
 
     public const HEX = "3299 FE0F";

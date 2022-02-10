@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CookedRice Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CookedRice
 {
+
     public const SYMBOL = "🍚";
 
     public const HEX = "1F35A";

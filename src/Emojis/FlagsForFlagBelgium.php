@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagBelgium Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagBelgium
 {
+
     public const SYMBOL = "🇧🇪";
 
     public const HEX = "1F1E7 1F1EA";

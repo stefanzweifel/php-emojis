@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WheelOfDharma Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WheelOfDharma
 {
+
     public const SYMBOL = "☸️";
 
     public const HEX = "2638 FE0F";

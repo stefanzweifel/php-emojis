@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OpenMailboxWithLoweredFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OpenMailboxWithLoweredFlag
 {
+
     public const SYMBOL = "📭";
 
     public const HEX = "1F4ED";

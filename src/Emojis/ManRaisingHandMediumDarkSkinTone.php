@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManRaisingHandMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManRaisingHandMediumDarkSkinTone
 {
+
     public const SYMBOL = "🙋🏾‍♂️";
 
     public const HEX = "1F64B 1F3FE 200D 2642 FE0F";

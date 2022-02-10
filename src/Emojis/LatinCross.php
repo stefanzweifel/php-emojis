@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LatinCross Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LatinCross
 {
+
     public const SYMBOL = "✝️";
 
     public const HEX = "271D FE0F";

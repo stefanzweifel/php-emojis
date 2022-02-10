@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanAstronautMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanAstronautMediumSkinTone
 {
+
     public const SYMBOL = "👩🏽‍🚀";
 
     public const HEX = "1F469 1F3FD 200D 1F680";

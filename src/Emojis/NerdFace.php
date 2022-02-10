@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NerdFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NerdFace
 {
+
     public const SYMBOL = "🤓";
 
     public const HEX = "1F913";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Star Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Star
 {
+
     public const SYMBOL = "⭐";
 
     public const HEX = "2B50";

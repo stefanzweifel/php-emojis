@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ox Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ox
 {
+
     public const SYMBOL = "🐂";
 
     public const HEX = "1F402";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossedSwords Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossedSwords
 {
+
     public const SYMBOL = "⚔️";
 
     public const HEX = "2694 FE0F";

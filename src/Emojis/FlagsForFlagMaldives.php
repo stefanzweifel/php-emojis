@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMaldives Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMaldives
 {
+
     public const SYMBOL = "🇲🇻";
 
     public const HEX = "1F1F2 1F1FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MahjongRedDragon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MahjongRedDragon
 {
+
     public const SYMBOL = "🀄";
 
     public const HEX = "1F004";

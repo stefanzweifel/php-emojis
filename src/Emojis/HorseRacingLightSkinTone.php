@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HorseRacingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HorseRacingLightSkinTone
 {
+
     public const SYMBOL = "🏇🏻";
 
     public const HEX = "1F3C7 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FactoryWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FactoryWorker
 {
+
     public const SYMBOL = "🧑‍🏭";
 
     public const HEX = "1F9D1 200D 1F3ED";

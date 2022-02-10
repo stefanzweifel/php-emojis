@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManStanding Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManStanding
 {
+
     public const SYMBOL = "🧍‍♂️";
 
     public const HEX = "1F9CD 200D 2642 FE0F";

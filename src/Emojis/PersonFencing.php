@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonFencing Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonFencing
 {
+
     public const SYMBOL = "🤺";
 
     public const HEX = "1F93A";

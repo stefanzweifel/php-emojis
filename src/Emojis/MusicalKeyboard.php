@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MusicalKeyboard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MusicalKeyboard
 {
+
     public const SYMBOL = "🎹";
 
     public const HEX = "1F3B9";

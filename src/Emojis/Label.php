@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Label Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Label
 {
+
     public const SYMBOL = "🏷️";
 
     public const HEX = "1F3F7 FE0F";

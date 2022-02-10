@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManRaisingHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManRaisingHand
 {
+
     public const SYMBOL = "🙋‍♂️";
 
     public const HEX = "1F64B 200D 2642 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PurpleHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PurpleHeart
 {
+
     public const SYMBOL = "💜";
 
     public const HEX = "1F49C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Monorail Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Monorail
 {
+
     public const SYMBOL = "🚝";
 
     public const HEX = "1F69D";

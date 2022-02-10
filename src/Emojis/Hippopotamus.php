@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Hippopotamus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Hippopotamus
 {
+
     public const SYMBOL = "🦛";
 
     public const HEX = "1F99B";

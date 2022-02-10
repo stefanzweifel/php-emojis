@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tiger Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tiger
 {
+
     public const SYMBOL = "🐅";
 
     public const HEX = "1F405";

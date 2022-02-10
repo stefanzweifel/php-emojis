@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ThirdPlaceMedal Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ThirdPlaceMedal
 {
+
     public const SYMBOL = "🥉";
 
     public const HEX = "1F949";

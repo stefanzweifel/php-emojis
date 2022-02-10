@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BookmarkTabs Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BookmarkTabs
 {
+
     public const SYMBOL = "📑";
 
     public const HEX = "1F4D1";

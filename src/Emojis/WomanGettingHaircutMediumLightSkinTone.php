@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGettingHaircutMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGettingHaircutMediumLightSkinTone
 {
+
     public const SYMBOL = "💇🏼‍♀️";
 
     public const HEX = "1F487 1F3FC 200D 2640 FE0F";

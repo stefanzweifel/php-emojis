@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PassengerShip Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PassengerShip
 {
+
     public const SYMBOL = "🛳️";
 
     public const HEX = "1F6F3 FE0F";

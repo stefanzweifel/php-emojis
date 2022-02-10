@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LadyBeetle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LadyBeetle
 {
+
     public const SYMBOL = "🐞";
 
     public const HEX = "1F41E";

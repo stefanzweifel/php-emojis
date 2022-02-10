@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bagel Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bagel
 {
+
     public const SYMBOL = "🥯";
 
     public const HEX = "1F96F";

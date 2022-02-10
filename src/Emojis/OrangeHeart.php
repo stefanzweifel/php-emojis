@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OrangeHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OrangeHeart
 {
+
     public const SYMBOL = "🧡";
 
     public const HEX = "1F9E1";

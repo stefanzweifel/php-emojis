@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisedBackOfHandDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisedBackOfHandDarkSkinTone
 {
+
     public const SYMBOL = "🤚🏿";
 
     public const HEX = "1F91A 1F3FF";

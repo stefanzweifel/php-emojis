@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BustsInSilhouette Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BustsInSilhouette
 {
+
     public const SYMBOL = "👥";
 
     public const HEX = "1F465";

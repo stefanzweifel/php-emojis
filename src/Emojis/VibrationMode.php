@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VibrationMode Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VibrationMode
 {
+
     public const SYMBOL = "📳";
 
     public const HEX = "1F4F3";

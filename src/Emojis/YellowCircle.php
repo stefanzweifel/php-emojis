@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * YellowCircle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class YellowCircle
 {
+
     public const SYMBOL = "🟡";
 
     public const HEX = "1F7E1";

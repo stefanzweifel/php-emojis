@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteCane Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteCane
 {
+
     public const SYMBOL = "🦯";
 
     public const HEX = "1F9AF";

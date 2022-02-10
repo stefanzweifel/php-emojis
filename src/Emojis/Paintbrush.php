@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Paintbrush Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Paintbrush
 {
+
     public const SYMBOL = "🖌️";
 
     public const HEX = "1F58C FE0F";

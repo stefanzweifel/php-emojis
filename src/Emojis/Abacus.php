@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Abacus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Abacus
 {
+
     public const SYMBOL = "🧮";
 
     public const HEX = "1F9EE";

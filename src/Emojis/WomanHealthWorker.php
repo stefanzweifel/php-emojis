@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanHealthWorker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanHealthWorker
 {
+
     public const SYMBOL = "👩‍⚕️";
 
     public const HEX = "1F469 200D 2695 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseMonthlyAmountButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseMonthlyAmountButton
 {
+
     public const SYMBOL = "🈷️";
 
     public const HEX = "1F237 FE0F";

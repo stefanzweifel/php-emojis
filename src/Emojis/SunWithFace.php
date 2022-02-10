@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SunWithFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SunWithFace
 {
+
     public const SYMBOL = "🌞";
 
     public const HEX = "1F31E";

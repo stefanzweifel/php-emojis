@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFacepalmingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFacepalmingDarkSkinTone
 {
+
     public const SYMBOL = "🤦🏿‍♂️";
 
     public const HEX = "1F926 1F3FF 200D 2642 FE0F";

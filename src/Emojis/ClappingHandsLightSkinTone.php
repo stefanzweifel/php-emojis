@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClappingHandsLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClappingHandsLightSkinTone
 {
+
     public const SYMBOL = "👏🏻";
 
     public const HEX = "1F44F 1F3FB";

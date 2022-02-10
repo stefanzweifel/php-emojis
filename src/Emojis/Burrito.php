@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Burrito Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Burrito
 {
+
     public const SYMBOL = "🌯";
 
     public const HEX = "1F32F";

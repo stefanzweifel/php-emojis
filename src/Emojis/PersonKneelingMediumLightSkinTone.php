@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonKneelingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonKneelingMediumLightSkinTone
 {
+
     public const SYMBOL = "🧎🏼";
 
     public const HEX = "1F9CE 1F3FC";

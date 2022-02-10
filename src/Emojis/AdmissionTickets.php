@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AdmissionTickets Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AdmissionTickets
 {
+
     public const SYMBOL = "🎟️";
 
     public const HEX = "1F39F FE0F";

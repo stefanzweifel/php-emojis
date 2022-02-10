@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Seedling Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Seedling
 {
+
     public const SYMBOL = "🌱";
 
     public const HEX = "1F331";

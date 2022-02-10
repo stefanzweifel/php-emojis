@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Snowflake Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Snowflake
 {
+
     public const SYMBOL = "❄️";
 
     public const HEX = "2744 FE0F";

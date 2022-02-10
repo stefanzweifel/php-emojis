@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Zombie Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Zombie
 {
+
     public const SYMBOL = "🧟";
 
     public const HEX = "1F9DF";

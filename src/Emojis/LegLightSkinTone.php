@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LegLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LegLightSkinTone
 {
+
     public const SYMBOL = "🦵🏻";
 
     public const HEX = "1F9B5 1F3FB";

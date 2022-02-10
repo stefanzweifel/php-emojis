@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BeverageBox Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BeverageBox
 {
+
     public const SYMBOL = "🧃";
 
     public const HEX = "1F9C3";

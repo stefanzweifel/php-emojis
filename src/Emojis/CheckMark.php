@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CheckMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CheckMark
 {
+
     public const SYMBOL = "✔️";
 
     public const HEX = "2714 FE0F";

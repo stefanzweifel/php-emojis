@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cupcake Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cupcake
 {
+
     public const SYMBOL = "🧁";
 
     public const HEX = "1F9C1";

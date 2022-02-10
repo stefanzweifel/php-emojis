@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WearyCat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WearyCat
 {
+
     public const SYMBOL = "🙀";
 
     public const HEX = "1F640";

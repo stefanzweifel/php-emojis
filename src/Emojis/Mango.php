@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mango Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mango
 {
+
     public const SYMBOL = "🥭";
 
     public const HEX = "1F96D";

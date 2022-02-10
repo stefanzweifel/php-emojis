@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sparkle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sparkle
 {
+
     public const SYMBOL = "❇️";
 
     public const HEX = "2747 FE0F";

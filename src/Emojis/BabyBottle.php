@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BabyBottle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BabyBottle
 {
+
     public const SYMBOL = "🍼";
 
     public const HEX = "1F37C";

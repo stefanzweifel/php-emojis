@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SmallAirplane Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SmallAirplane
 {
+
     public const SYMBOL = "🛩️";
 
     public const HEX = "1F6E9 FE0F";

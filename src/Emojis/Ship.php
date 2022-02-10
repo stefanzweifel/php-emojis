@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ship Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ship
 {
+
     public const SYMBOL = "🚢";
 
     public const HEX = "1F6A2";

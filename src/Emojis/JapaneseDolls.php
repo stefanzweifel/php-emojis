@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseDolls Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseDolls
 {
+
     public const SYMBOL = "🎎";
 
     public const HEX = "1F38E";

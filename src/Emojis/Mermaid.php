@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mermaid Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mermaid
 {
+
     public const SYMBOL = "🧜‍♀️";
 
     public const HEX = "1F9DC 200D 2640 FE0F";

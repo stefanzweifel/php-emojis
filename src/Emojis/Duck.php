@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Duck Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Duck
 {
+
     public const SYMBOL = "🦆";
 
     public const HEX = "1F986";

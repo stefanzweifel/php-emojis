@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WavingHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WavingHand
 {
+
     public const SYMBOL = "👋";
 
     public const HEX = "1F44B";

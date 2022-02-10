@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SmilingFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SmilingFace
 {
+
     public const SYMBOL = "☺️";
 
     public const HEX = "263A FE0F";

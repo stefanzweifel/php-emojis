@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagPeru Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagPeru
 {
+
     public const SYMBOL = "🇵🇪";
 
     public const HEX = "1F1F5 1F1EA";

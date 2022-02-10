@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Keycap0 Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Keycap0
 {
+
     public const SYMBOL = "0️⃣";
 
     public const HEX = "0030 FE0F 20E3";

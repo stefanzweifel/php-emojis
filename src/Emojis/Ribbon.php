@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ribbon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ribbon
 {
+
     public const SYMBOL = "🎀";
 
     public const HEX = "1F380";

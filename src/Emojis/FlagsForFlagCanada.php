@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCanada Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCanada
 {
+
     public const SYMBOL = "🇨🇦";
 
     public const HEX = "1F1E8 1F1E6";

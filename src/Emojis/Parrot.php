@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Parrot Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Parrot
 {
+
     public const SYMBOL = "🦜";
 
     public const HEX = "1F99C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OpenHandsMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OpenHandsMediumSkinTone
 {
+
     public const SYMBOL = "👐🏽";
 
     public const HEX = "1F450 1F3FD";

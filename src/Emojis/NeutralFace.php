@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NeutralFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NeutralFace
 {
+
     public const SYMBOL = "😐";
 
     public const HEX = "1F610";

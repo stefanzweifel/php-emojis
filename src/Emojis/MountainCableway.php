@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MountainCableway Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MountainCableway
 {
+
     public const SYMBOL = "🚠";
 
     public const HEX = "1F6A0";

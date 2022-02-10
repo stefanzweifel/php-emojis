@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HammerAndWrench Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HammerAndWrench
 {
+
     public const SYMBOL = "🛠️";
 
     public const HEX = "1F6E0 FE0F";

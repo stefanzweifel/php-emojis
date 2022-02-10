@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SnowmanWithoutSnow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SnowmanWithoutSnow
 {
+
     public const SYMBOL = "⛄";
 
     public const HEX = "26C4";

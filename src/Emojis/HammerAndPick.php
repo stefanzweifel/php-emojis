@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HammerAndPick Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HammerAndPick
 {
+
     public const SYMBOL = "⚒️";
 
     public const HEX = "2692 FE0F";

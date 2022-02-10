@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Taco Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Taco
 {
+
     public const SYMBOL = "🌮";
 
     public const HEX = "1F32E";

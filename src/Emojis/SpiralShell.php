@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpiralShell Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpiralShell
 {
+
     public const SYMBOL = "🐚";
 
     public const HEX = "1F41A";

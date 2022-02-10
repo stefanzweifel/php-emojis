@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PurpleSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PurpleSquare
 {
+
     public const SYMBOL = "🟪";
 
     public const HEX = "1F7EA";

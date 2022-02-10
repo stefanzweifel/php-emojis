@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LoveYouGestureLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LoveYouGestureLightSkinTone
 {
+
     public const SYMBOL = "🤟🏻";
 
     public const HEX = "1F91F 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WavyDash Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WavyDash
 {
+
     public const SYMBOL = "〰️";
 
     public const HEX = "3030 FE0F";

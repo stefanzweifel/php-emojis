@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SunBehindSmallCloud Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SunBehindSmallCloud
 {
+
     public const SYMBOL = "🌤️";
 
     public const HEX = "1F324 FE0F";

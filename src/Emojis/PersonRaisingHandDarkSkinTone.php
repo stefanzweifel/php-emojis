@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonRaisingHandDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonRaisingHandDarkSkinTone
 {
+
     public const SYMBOL = "🙋🏿";
 
     public const HEX = "1F64B 1F3FF";

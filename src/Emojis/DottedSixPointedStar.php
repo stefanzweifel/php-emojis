@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DottedSixPointedStar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DottedSixPointedStar
 {
+
     public const SYMBOL = "🔯";
 
     public const HEX = "1F52F";

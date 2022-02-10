@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomenHoldingHandsMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomenHoldingHandsMediumSkinTone
 {
+
     public const SYMBOL = "👭🏽";
 
     public const HEX = "1F46D 1F3FD";

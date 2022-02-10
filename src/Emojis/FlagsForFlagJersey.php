@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagJersey Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagJersey
 {
+
     public const SYMBOL = "🇯🇪";
 
     public const HEX = "1F1EF 1F1EA";

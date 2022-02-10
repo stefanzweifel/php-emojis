@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WorldMap Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WorldMap
 {
+
     public const SYMBOL = "🗺️";
 
     public const HEX = "1F5FA FE0F";

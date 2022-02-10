@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FrowningFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FrowningFace
 {
+
     public const SYMBOL = "☹️";
 
     public const HEX = "2639 FE0F";

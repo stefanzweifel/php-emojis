@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DeafPersonMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DeafPersonMediumSkinTone
 {
+
     public const SYMBOL = "🧏🏽";
 
     public const HEX = "1F9CF 1F3FD";

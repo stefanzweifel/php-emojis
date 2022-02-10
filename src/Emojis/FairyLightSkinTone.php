@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FairyLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FairyLightSkinTone
 {
+
     public const SYMBOL = "🧚🏻";
 
     public const HEX = "1F9DA 1F3FB";

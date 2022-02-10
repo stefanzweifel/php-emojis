@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * UmbrellaWithRainDrops Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class UmbrellaWithRainDrops
 {
+
     public const SYMBOL = "☔";
 
     public const HEX = "2614";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagKosovo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagKosovo
 {
+
     public const SYMBOL = "🇽🇰";
 
     public const HEX = "1F1FD 1F1F0";

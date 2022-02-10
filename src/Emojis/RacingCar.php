@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RacingCar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RacingCar
 {
+
     public const SYMBOL = "🏎️";
 
     public const HEX = "1F3CE FE0F";

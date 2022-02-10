@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagIraq Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagIraq
 {
+
     public const SYMBOL = "🇮🇶";
 
     public const HEX = "1F1EE 1F1F6";

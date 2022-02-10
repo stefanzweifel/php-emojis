@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Peacock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Peacock
 {
+
     public const SYMBOL = "🦚";
 
     public const HEX = "1F99A";

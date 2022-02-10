@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrescentMoon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrescentMoon
 {
+
     public const SYMBOL = "🌙";
 
     public const HEX = "1F319";

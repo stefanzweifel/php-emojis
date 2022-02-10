@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Divide Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Divide
 {
+
     public const SYMBOL = "➗";
 
     public const HEX = "2797";

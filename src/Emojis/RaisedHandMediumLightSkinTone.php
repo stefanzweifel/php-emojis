@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisedHandMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisedHandMediumLightSkinTone
 {
+
     public const SYMBOL = "✋🏼";
 
     public const HEX = "270B 1F3FC";

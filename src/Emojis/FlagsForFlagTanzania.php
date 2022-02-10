@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagTanzania Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagTanzania
 {
+
     public const SYMBOL = "🇹🇿";
 
     public const HEX = "1F1F9 1F1FF";

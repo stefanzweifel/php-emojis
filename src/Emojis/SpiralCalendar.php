@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpiralCalendar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpiralCalendar
 {
+
     public const SYMBOL = "🗓️";
 
     public const HEX = "1F5D3 FE0F";

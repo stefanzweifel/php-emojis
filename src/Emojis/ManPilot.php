@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManPilot Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManPilot
 {
+
     public const SYMBOL = "👨‍✈️";
 
     public const HEX = "1F468 200D 2708 FE0F";

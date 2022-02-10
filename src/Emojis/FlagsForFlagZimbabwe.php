@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagZimbabwe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagZimbabwe
 {
+
     public const SYMBOL = "🇿🇼";
 
     public const HEX = "1F1FF 1F1FC";

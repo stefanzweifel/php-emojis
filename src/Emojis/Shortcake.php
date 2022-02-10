@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shortcake Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shortcake
 {
+
     public const SYMBOL = "🍰";
 
     public const HEX = "1F370";

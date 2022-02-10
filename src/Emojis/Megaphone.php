@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Megaphone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Megaphone
 {
+
     public const SYMBOL = "📣";
 
     public const HEX = "1F4E3";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Joker Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Joker
 {
+
     public const SYMBOL = "🃏";
 
     public const HEX = "1F0CF";

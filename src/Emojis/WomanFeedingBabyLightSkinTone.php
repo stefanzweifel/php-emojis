@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFeedingBabyLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFeedingBabyLightSkinTone
 {
+
     public const SYMBOL = "👩🏻‍🍼";
 
     public const HEX = "1F469 1F3FB 200D 1F37C";

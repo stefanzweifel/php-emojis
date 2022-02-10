@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DepartmentStore Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DepartmentStore
 {
+
     public const SYMBOL = "🏬";
 
     public const HEX = "1F3EC";

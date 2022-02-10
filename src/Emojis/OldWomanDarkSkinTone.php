@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OldWomanDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OldWomanDarkSkinTone
 {
+
     public const SYMBOL = "👵🏿";
 
     public const HEX = "1F475 1F3FF";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FemaleSign Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FemaleSign
 {
+
     public const SYMBOL = "♀️";
 
     public const HEX = "2640 FE0F";

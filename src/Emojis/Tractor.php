@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tractor Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tractor
 {
+
     public const SYMBOL = "🚜";
 
     public const HEX = "1F69C";

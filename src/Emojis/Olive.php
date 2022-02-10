@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Olive Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Olive
 {
+
     public const SYMBOL = "🫒";
 
     public const HEX = "1FAD2";

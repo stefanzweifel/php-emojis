@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Leo Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Leo
 {
+
     public const SYMBOL = "♌";
 
     public const HEX = "264C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LockedWithPen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LockedWithPen
 {
+
     public const SYMBOL = "🔏";
 
     public const HEX = "1F50F";

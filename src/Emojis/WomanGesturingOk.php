@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGesturingOk Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGesturingOk
 {
+
     public const SYMBOL = "🙆‍♀️";
 
     public const HEX = "1F646 200D 2640 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseProhibitedButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseProhibitedButton
 {
+
     public const SYMBOL = "🈲";
 
     public const HEX = "1F232";

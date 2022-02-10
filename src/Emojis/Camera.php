@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Camera Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Camera
 {
+
     public const SYMBOL = "📷";
 
     public const HEX = "1F4F7";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClownFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClownFace
 {
+
     public const SYMBOL = "🤡";
 
     public const HEX = "1F921";

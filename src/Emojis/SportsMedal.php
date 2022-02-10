@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SportsMedal Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SportsMedal
 {
+
     public const SYMBOL = "🏅";
 
     public const HEX = "1F3C5";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Microbe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Microbe
 {
+
     public const SYMBOL = "🦠";
 
     public const HEX = "1F9A0";

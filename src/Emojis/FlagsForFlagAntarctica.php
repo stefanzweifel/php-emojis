@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagAntarctica Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagAntarctica
 {
+
     public const SYMBOL = "🇦🇶";
 
     public const HEX = "1F1E6 1F1F6";

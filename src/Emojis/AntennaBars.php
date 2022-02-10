@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AntennaBars Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AntennaBars
 {
+
     public const SYMBOL = "📶";
 
     public const HEX = "1F4F6";

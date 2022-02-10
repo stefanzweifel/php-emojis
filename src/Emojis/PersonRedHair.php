@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonRedHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonRedHair
 {
+
     public const SYMBOL = "🧑‍🦰";
 
     public const HEX = "1F9D1 200D 1F9B0";

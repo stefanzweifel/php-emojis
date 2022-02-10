@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Kiss Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Kiss
 {
+
     public const SYMBOL = "💏";
 
     public const HEX = "1F48F";

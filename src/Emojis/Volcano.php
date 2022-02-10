@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Volcano Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Volcano
 {
+
     public const SYMBOL = "🌋";
 
     public const HEX = "1F30B";

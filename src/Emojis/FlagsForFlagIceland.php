@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagIceland Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagIceland
 {
+
     public const SYMBOL = "🇮🇸";
 
     public const HEX = "1F1EE 1F1F8";

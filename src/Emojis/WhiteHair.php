@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteHair
 {
+
     public const SYMBOL = "🦳";
 
     public const HEX = "1F9B3";

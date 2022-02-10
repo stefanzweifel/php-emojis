@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RightArrowCurvingUp Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RightArrowCurvingUp
 {
+
     public const SYMBOL = "⤴️";
 
     public const HEX = "2934 FE0F";

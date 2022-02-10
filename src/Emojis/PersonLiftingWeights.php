@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonLiftingWeights Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonLiftingWeights
 {
+
     public const SYMBOL = "🏋️";
 
     public const HEX = "1F3CB FE0F";

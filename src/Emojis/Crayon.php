@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Crayon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Crayon
 {
+
     public const SYMBOL = "🖍️";
 
     public const HEX = "1F58D FE0F";

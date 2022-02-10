@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OncomingFistDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OncomingFistDarkSkinTone
 {
+
     public const SYMBOL = "👊🏿";
 
     public const HEX = "1F44A 1F3FF";

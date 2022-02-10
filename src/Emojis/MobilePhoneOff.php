@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MobilePhoneOff Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MobilePhoneOff
 {
+
     public const SYMBOL = "📴";
 
     public const HEX = "1F4F4";

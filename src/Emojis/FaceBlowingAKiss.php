@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceBlowingAKiss Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceBlowingAKiss
 {
+
     public const SYMBOL = "😘";
 
     public const HEX = "1F618";

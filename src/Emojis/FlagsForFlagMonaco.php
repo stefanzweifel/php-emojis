@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMonaco Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMonaco
 {
+
     public const SYMBOL = "🇲🇨";
 
     public const HEX = "1F1F2 1F1E8";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Beaver Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Beaver
 {
+
     public const SYMBOL = "🦫";
 
     public const HEX = "1F9AB";

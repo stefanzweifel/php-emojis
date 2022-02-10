@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Worm Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Worm
 {
+
     public const SYMBOL = "🪱";
 
     public const HEX = "1FAB1";

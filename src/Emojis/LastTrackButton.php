@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LastTrackButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LastTrackButton
 {
+
     public const SYMBOL = "⏮️";
 
     public const HEX = "23EE FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseCongratulationsButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseCongratulationsButton
 {
+
     public const SYMBOL = "㊗️";
 
     public const HEX = "3297 FE0F";

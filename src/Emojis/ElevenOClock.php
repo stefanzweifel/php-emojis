@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ElevenOClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ElevenOClock
 {
+
     public const SYMBOL = "🕚";
 
     public const HEX = "1F55A";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManPoutingMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManPoutingMediumSkinTone
 {
+
     public const SYMBOL = "🙎🏽‍♂️";
 
     public const HEX = "1F64E 1F3FD 200D 2642 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Unlocked Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Unlocked
 {
+
     public const SYMBOL = "🔓";
 
     public const HEX = "1F513";

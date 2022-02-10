@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagHeardAndMcdonaldIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagHeardAndMcdonaldIslands
 {
+
     public const SYMBOL = "🇭🇲";
 
     public const HEX = "1F1ED 1F1F2";

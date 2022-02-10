@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Window Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Window
 {
+
     public const SYMBOL = "🪟";
 
     public const HEX = "1FA9F";

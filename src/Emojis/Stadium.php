@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Stadium Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Stadium
 {
+
     public const SYMBOL = "🏟️";
 
     public const HEX = "1F3DF FE0F";

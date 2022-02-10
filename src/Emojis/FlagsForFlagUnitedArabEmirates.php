@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUnitedArabEmirates Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUnitedArabEmirates
 {
+
     public const SYMBOL = "🇦🇪";
 
     public const HEX = "1F1E6 1F1EA";

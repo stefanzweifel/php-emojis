@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagGuineaBissau Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagGuineaBissau
 {
+
     public const SYMBOL = "🇬🇼";
 
     public const HEX = "1F1EC 1F1FC";

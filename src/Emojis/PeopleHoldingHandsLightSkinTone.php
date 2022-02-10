@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PeopleHoldingHandsLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PeopleHoldingHandsLightSkinTone
 {
+
     public const SYMBOL = "🧑🏻‍🤝‍🧑🏻";
 
     public const HEX = "1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FB";

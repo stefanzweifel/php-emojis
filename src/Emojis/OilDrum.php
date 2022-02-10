@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OilDrum Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OilDrum
 {
+
     public const SYMBOL = "🛢️";
 
     public const HEX = "1F6E2 FE0F";

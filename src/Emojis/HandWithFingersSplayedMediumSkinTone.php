@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HandWithFingersSplayedMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HandWithFingersSplayedMediumSkinTone
 {
+
     public const SYMBOL = "🖐🏽";
 
     public const HEX = "1F590 1F3FD";

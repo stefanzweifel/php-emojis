@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HighSpeedTrain Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HighSpeedTrain
 {
+
     public const SYMBOL = "🚄";
 
     public const HEX = "1F684";

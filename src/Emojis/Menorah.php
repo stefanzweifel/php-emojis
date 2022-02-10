@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Menorah Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Menorah
 {
+
     public const SYMBOL = "🕎";
 
     public const HEX = "1F54E";

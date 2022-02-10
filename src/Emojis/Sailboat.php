@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sailboat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sailboat
 {
+
     public const SYMBOL = "⛵";
 
     public const HEX = "26F5";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagFiji Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagFiji
 {
+
     public const SYMBOL = "🇫🇯";
 
     public const HEX = "1F1EB 1F1EF";

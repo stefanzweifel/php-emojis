@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sauropod Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sauropod
 {
+
     public const SYMBOL = "🦕";
 
     public const HEX = "1F995";

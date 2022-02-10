@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Keycap8 Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Keycap8
 {
+
     public const SYMBOL = "8️⃣";
 
     public const HEX = "0038 FE0F 20E3";

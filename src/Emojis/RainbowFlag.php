@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RainbowFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RainbowFlag
 {
+
     public const SYMBOL = "🏳️‍🌈";
 
     public const HEX = "1F3F3 FE0F 200D 1F308";

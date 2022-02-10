@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FirefighterMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FirefighterMediumSkinTone
 {
+
     public const SYMBOL = "🧑🏽‍🚒";
 
     public const HEX = "1F9D1 1F3FD 200D 1F692";

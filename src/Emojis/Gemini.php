@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Gemini Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Gemini
 {
+
     public const SYMBOL = "♊";
 
     public const HEX = "264A";

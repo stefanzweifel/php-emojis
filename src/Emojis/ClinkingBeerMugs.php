@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClinkingBeerMugs Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClinkingBeerMugs
 {
+
     public const SYMBOL = "🍻";
 
     public const HEX = "1F37B";

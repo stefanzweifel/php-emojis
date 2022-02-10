@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DollarBanknote Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DollarBanknote
 {
+
     public const SYMBOL = "💵";
 
     public const HEX = "1F4B5";

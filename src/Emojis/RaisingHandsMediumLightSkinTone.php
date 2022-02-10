@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisingHandsMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisingHandsMediumLightSkinTone
 {
+
     public const SYMBOL = "🙌🏼";
 
     public const HEX = "1F64C 1F3FC";

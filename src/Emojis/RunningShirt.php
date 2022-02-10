@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RunningShirt Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RunningShirt
 {
+
     public const SYMBOL = "🎽";
 
     public const HEX = "1F3BD";

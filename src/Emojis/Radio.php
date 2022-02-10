@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Radio Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Radio
 {
+
     public const SYMBOL = "📻";
 
     public const HEX = "1F4FB";

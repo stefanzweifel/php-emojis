@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanPlayingWaterPoloDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanPlayingWaterPoloDarkSkinTone
 {
+
     public const SYMBOL = "🤽🏿‍♀️";
 
     public const HEX = "1F93D 1F3FF 200D 2640 FE0F";

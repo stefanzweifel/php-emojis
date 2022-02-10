@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SupervillainLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SupervillainLightSkinTone
 {
+
     public const SYMBOL = "🦹🏻";
 
     public const HEX = "1F9B9 1F3FB";

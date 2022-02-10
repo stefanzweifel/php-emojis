@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FuelPump Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FuelPump
 {
+
     public const SYMBOL = "⛽";
 
     public const HEX = "26FD";

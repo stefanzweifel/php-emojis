@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Butter Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Butter
 {
+
     public const SYMBOL = "🧈";
 
     public const HEX = "1F9C8";

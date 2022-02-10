@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WheelchairSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WheelchairSymbol
 {
+
     public const SYMBOL = "♿";
 
     public const HEX = "267F";

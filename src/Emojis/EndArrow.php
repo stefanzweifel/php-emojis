@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EndArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EndArrow
 {
+
     public const SYMBOL = "🔚";
 
     public const HEX = "1F51A";

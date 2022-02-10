@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ticket Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ticket
 {
+
     public const SYMBOL = "🎫";
 
     public const HEX = "1F3AB";

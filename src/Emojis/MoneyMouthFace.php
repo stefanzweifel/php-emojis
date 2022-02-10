@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MoneyMouthFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MoneyMouthFace
 {
+
     public const SYMBOL = "🤑";
 
     public const HEX = "1F911";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RollerCoaster Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RollerCoaster
 {
+
     public const SYMBOL = "🎢";
 
     public const HEX = "1F3A2";

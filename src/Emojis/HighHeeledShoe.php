@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HighHeeledShoe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HighHeeledShoe
 {
+
     public const SYMBOL = "👠";
 
     public const HEX = "1F460";

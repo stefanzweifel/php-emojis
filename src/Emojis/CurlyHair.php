@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CurlyHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CurlyHair
 {
+
     public const SYMBOL = "🦱";
 
     public const HEX = "1F9B1";

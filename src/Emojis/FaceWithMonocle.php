@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceWithMonocle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceWithMonocle
 {
+
     public const SYMBOL = "🧐";
 
     public const HEX = "1F9D0";

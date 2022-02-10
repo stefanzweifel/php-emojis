@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManJugglingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManJugglingLightSkinTone
 {
+
     public const SYMBOL = "🤹🏻‍♂️";
 
     public const HEX = "1F939 1F3FB 200D 2642 FE0F";

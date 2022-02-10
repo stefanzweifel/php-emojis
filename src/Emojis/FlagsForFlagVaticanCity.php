@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagVaticanCity Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagVaticanCity
 {
+
     public const SYMBOL = "🇻🇦";
 
     public const HEX = "1F1FB 1F1E6";

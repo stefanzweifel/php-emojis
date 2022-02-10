@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MenHoldingHandsMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MenHoldingHandsMediumLightSkinTone
 {
+
     public const SYMBOL = "👬🏼";
 
     public const HEX = "1F46C 1F3FC";

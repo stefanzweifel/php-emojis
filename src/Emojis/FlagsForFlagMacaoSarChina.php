@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMacaoSarChina Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMacaoSarChina
 {
+
     public const SYMBOL = "🇲🇴";
 
     public const HEX = "1F1F2 1F1F4";

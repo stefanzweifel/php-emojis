@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFactoryWorkerMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFactoryWorkerMediumDarkSkinTone
 {
+
     public const SYMBOL = "👨🏾‍🏭";
 
     public const HEX = "1F468 1F3FE 200D 1F3ED";

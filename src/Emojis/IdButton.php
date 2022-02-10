@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IdButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IdButton
 {
+
     public const SYMBOL = "🆔";
 
     public const HEX = "1F194";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CarpentrySaw Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CarpentrySaw
 {
+
     public const SYMBOL = "🪚";
 
     public const HEX = "1FA9A";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * KissManMan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class KissManMan
 {
+
     public const SYMBOL = "👨‍❤️‍💋‍👨";
 
     public const HEX = "1F468 200D 2764 FE0F 200D 1F48B 200D 1F468";

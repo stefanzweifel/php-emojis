@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ThumbsDown Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ThumbsDown
 {
+
     public const SYMBOL = "👎";
 
     public const HEX = "1F44E";

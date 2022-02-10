@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WaxingCrescentMoon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WaxingCrescentMoon
 {
+
     public const SYMBOL = "🌒";
 
     public const HEX = "1F312";

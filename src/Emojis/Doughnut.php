@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Doughnut Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Doughnut
 {
+
     public const SYMBOL = "🍩";
 
     public const HEX = "1F369";

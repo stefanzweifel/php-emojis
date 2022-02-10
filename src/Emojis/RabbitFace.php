@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RabbitFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RabbitFace
 {
+
     public const SYMBOL = "🐰";
 
     public const HEX = "1F430";

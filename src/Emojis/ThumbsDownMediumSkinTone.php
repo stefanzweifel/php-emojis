@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ThumbsDownMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ThumbsDownMediumSkinTone
 {
+
     public const SYMBOL = "👎🏽";
 
     public const HEX = "1F44E 1F3FD";

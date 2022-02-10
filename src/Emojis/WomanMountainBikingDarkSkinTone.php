@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanMountainBikingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanMountainBikingDarkSkinTone
 {
+
     public const SYMBOL = "🚵🏿‍♀️";
 
     public const HEX = "1F6B5 1F3FF 200D 2640 FE0F";

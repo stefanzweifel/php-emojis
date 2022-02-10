@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Videocassette Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Videocassette
 {
+
     public const SYMBOL = "📼";
 
     public const HEX = "1F4FC";

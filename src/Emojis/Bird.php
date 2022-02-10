@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bird Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bird
 {
+
     public const SYMBOL = "🐦";
 
     public const HEX = "1F426";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PostalHorn Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PostalHorn
 {
+
     public const SYMBOL = "📯";
 
     public const HEX = "1F4EF";

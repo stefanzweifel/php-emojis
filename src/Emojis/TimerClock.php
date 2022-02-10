@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TimerClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TimerClock
 {
+
     public const SYMBOL = "⏲️";
 
     public const HEX = "23F2 FE0F";

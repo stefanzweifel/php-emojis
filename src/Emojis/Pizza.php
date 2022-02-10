@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Pizza Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Pizza
 {
+
     public const SYMBOL = "🍕";
 
     public const HEX = "1F355";

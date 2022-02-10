@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Desert Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Desert
 {
+
     public const SYMBOL = "🏜️";
 
     public const HEX = "1F3DC FE0F";

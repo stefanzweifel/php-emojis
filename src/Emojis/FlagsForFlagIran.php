@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagIran Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagIran
 {
+
     public const SYMBOL = "🇮🇷";
 
     public const HEX = "1F1EE 1F1F7";

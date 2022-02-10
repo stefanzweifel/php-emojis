@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TokyoTower Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TokyoTower
 {
+
     public const SYMBOL = "🗼";
 
     public const HEX = "1F5FC";

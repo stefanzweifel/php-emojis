@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Factory Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Factory
 {
+
     public const SYMBOL = "🏭";
 
     public const HEX = "1F3ED";

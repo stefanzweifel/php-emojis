@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FourOClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FourOClock
 {
+
     public const SYMBOL = "🕓";
 
     public const HEX = "1F553";

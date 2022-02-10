@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HeartSuit Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HeartSuit
 {
+
     public const SYMBOL = "♥️";
 
     public const HEX = "2665 FE0F";

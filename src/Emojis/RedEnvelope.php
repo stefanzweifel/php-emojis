@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedEnvelope Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedEnvelope
 {
+
     public const SYMBOL = "🧧";
 
     public const HEX = "1F9E7";

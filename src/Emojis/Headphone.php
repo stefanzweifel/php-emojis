@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Headphone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Headphone
 {
+
     public const SYMBOL = "🎧";
 
     public const HEX = "1F3A7";

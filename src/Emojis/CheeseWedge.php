@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CheeseWedge Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CheeseWedge
 {
+
     public const SYMBOL = "🧀";
 
     public const HEX = "1F9C0";

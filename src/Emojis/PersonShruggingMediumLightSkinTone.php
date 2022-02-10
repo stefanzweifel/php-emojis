@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonShruggingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonShruggingMediumLightSkinTone
 {
+
     public const SYMBOL = "🤷🏼";
 
     public const HEX = "1F937 1F3FC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VulcanSaluteMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VulcanSaluteMediumLightSkinTone
 {
+
     public const SYMBOL = "🖖🏼";
 
     public const HEX = "1F596 1F3FC";

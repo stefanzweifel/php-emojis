@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MantelpieceClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MantelpieceClock
 {
+
     public const SYMBOL = "🕰️";
 
     public const HEX = "1F570 FE0F";

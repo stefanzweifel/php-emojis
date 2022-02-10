@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagChad Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagChad
 {
+
     public const SYMBOL = "🇹🇩";
 
     public const HEX = "1F1F9 1F1E9";

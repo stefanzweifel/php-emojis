@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NinjaMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NinjaMediumDarkSkinTone
 {
+
     public const SYMBOL = "🥷🏾";
 
     public const HEX = "1F977 1F3FE";

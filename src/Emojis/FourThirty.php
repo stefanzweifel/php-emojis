@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FourThirty Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FourThirty
 {
+
     public const SYMBOL = "🕟";
 
     public const HEX = "1F55F";

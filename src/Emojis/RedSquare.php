@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedSquare
 {
+
     public const SYMBOL = "🟥";
 
     public const HEX = "1F7E5";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * StarAndCrescent Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class StarAndCrescent
 {
+
     public const SYMBOL = "☪️";
 
     public const HEX = "262A FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CurrencyExchange Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CurrencyExchange
 {
+
     public const SYMBOL = "💱";
 
     public const HEX = "1F4B1";

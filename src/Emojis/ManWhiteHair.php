@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManWhiteHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManWhiteHair
 {
+
     public const SYMBOL = "👨‍🦳";
 
     public const HEX = "1F468 200D 1F9B3";

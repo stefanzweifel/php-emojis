@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagGermany Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagGermany
 {
+
     public const SYMBOL = "🇩🇪";
 
     public const HEX = "1F1E9 1F1EA";

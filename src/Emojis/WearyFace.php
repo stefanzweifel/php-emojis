@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WearyFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WearyFace
 {
+
     public const SYMBOL = "😩";
 
     public const HEX = "1F629";

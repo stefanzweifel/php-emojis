@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagAfghanistan Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagAfghanistan
 {
+
     public const SYMBOL = "🇦🇫";
 
     public const HEX = "1F1E6 1F1EB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CurlyLoop Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CurlyLoop
 {
+
     public const SYMBOL = "➰";
 
     public const HEX = "27B0";

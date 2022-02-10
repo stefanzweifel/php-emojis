@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagYemen Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagYemen
 {
+
     public const SYMBOL = "🇾🇪";
 
     public const HEX = "1F1FE 1F1EA";

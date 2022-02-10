@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dagger Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dagger
 {
+
     public const SYMBOL = "🗡️";
 
     public const HEX = "1F5E1 FE0F";

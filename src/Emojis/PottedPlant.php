@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PottedPlant Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PottedPlant
 {
+
     public const SYMBOL = "🪴";
 
     public const HEX = "1FAB4";

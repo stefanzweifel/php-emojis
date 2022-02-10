@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCuracao Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCuracao
 {
+
     public const SYMBOL = "🇨🇼";
 
     public const HEX = "1F1E8 1F1FC";

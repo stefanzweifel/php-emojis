@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ChequeredFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ChequeredFlag
 {
+
     public const SYMBOL = "🏁";
 
     public const HEX = "1F3C1";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManTeacherDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManTeacherDarkSkinTone
 {
+
     public const SYMBOL = "👨🏿‍🏫";
 
     public const HEX = "1F468 1F3FF 200D 1F3EB";

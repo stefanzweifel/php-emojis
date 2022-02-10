@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagParaguay Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagParaguay
 {
+
     public const SYMBOL = "🇵🇾";
 
     public const HEX = "1F1F5 1F1FE";

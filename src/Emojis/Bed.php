@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bed Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bed
 {
+
     public const SYMBOL = "🛏️";
 
     public const HEX = "1F6CF FE0F";

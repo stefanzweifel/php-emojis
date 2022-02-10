@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanRowingBoat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanRowingBoat
 {
+
     public const SYMBOL = "🚣‍♀️";
 
     public const HEX = "1F6A3 200D 2640 FE0F";

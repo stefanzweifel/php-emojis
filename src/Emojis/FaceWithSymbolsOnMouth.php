@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceWithSymbolsOnMouth Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceWithSymbolsOnMouth
 {
+
     public const SYMBOL = "🤬";
 
     public const HEX = "1F92C";

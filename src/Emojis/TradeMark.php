@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TradeMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TradeMark
 {
+
     public const SYMBOL = "™️";
 
     public const HEX = "2122 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMontserrat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMontserrat
 {
+
     public const SYMBOL = "🇲🇸";
 
     public const HEX = "1F1F2 1F1F8";

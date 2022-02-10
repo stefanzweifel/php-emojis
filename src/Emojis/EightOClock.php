@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EightOClock Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EightOClock
 {
+
     public const SYMBOL = "🕗";
 
     public const HEX = "1F557";

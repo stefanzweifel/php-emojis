@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Shield Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Shield
 {
+
     public const SYMBOL = "🛡️";
 
     public const HEX = "1F6E1 FE0F";

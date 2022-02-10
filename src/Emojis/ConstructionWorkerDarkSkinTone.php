@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ConstructionWorkerDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ConstructionWorkerDarkSkinTone
 {
+
     public const SYMBOL = "👷🏿";
 
     public const HEX = "1F477 1F3FF";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cookie Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cookie
 {
+
     public const SYMBOL = "🍪";
 
     public const HEX = "1F36A";

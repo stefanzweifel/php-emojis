@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NailPolish Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NailPolish
 {
+
     public const SYMBOL = "💅";
 
     public const HEX = "1F485";

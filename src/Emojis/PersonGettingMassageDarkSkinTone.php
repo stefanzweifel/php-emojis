@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonGettingMassageDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonGettingMassageDarkSkinTone
 {
+
     public const SYMBOL = "💆🏿";
 
     public const HEX = "1F486 1F3FF";

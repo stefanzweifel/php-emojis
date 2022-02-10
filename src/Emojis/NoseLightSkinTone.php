@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NoseLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NoseLightSkinTone
 {
+
     public const SYMBOL = "👃🏻";
 
     public const HEX = "1F443 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AtomSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AtomSymbol
 {
+
     public const SYMBOL = "⚛️";
 
     public const HEX = "269B FE0F";

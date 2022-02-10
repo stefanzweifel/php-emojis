@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IceHockey Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IceHockey
 {
+
     public const SYMBOL = "🏒";
 
     public const HEX = "1F3D2";

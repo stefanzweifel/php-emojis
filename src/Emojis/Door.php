@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Door Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Door
 {
+
     public const SYMBOL = "🚪";
 
     public const HEX = "1F6AA";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VictoryHandMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VictoryHandMediumDarkSkinTone
 {
+
     public const SYMBOL = "✌🏾";
 
     public const HEX = "270C 1F3FE";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PoliceCar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PoliceCar
 {
+
     public const SYMBOL = "🚓";
 
     public const HEX = "1F693";

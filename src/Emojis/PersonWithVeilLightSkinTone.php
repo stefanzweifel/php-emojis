@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWithVeilLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWithVeilLightSkinTone
 {
+
     public const SYMBOL = "👰🏻";
 
     public const HEX = "1F470 1F3FB";

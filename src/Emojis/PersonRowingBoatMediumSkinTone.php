@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonRowingBoatMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonRowingBoatMediumSkinTone
 {
+
     public const SYMBOL = "🚣🏽";
 
     public const HEX = "1F6A3 1F3FD";

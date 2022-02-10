@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Axe Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Axe
 {
+
     public const SYMBOL = "🪓";
 
     public const HEX = "1FA93";

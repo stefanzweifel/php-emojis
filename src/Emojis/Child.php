@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Child Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Child
 {
+
     public const SYMBOL = "🧒";
 
     public const HEX = "1F9D2";

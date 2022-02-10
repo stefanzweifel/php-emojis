@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonPlayingWaterPoloLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonPlayingWaterPoloLightSkinTone
 {
+
     public const SYMBOL = "🤽🏻";
 
     public const HEX = "1F93D 1F3FB";

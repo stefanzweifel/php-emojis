@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlowerPlayingCards Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlowerPlayingCards
 {
+
     public const SYMBOL = "🎴";
 
     public const HEX = "1F3B4";

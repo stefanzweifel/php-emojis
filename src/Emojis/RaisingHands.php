@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisingHands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisingHands
 {
+
     public const SYMBOL = "🙌";
 
     public const HEX = "1F64C";

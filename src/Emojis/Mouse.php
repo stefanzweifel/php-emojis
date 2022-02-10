@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mouse Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mouse
 {
+
     public const SYMBOL = "🐁";
 
     public const HEX = "1F401";

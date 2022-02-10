@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagGuatemala Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagGuatemala
 {
+
     public const SYMBOL = "🇬🇹";
 
     public const HEX = "1F1EC 1F1F9";

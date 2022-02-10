@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ferry Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ferry
 {
+
     public const SYMBOL = "⛴️";
 
     public const HEX = "26F4 FE0F";

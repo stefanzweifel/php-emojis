@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Candle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Candle
 {
+
     public const SYMBOL = "🕯️";
 
     public const HEX = "1F56F FE0F";

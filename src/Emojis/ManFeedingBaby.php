@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFeedingBaby Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFeedingBaby
 {
+
     public const SYMBOL = "👨‍🍼";
 
     public const HEX = "1F468 200D 1F37C";

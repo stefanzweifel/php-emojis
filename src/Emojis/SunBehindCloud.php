@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SunBehindCloud Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SunBehindCloud
 {
+
     public const SYMBOL = "⛅";
 
     public const HEX = "26C5";

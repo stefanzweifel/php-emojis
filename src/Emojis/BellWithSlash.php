@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BellWithSlash Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BellWithSlash
 {
+
     public const SYMBOL = "🔕";
 
     public const HEX = "1F515";

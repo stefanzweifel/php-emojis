@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SweatDroplets Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SweatDroplets
 {
+
     public const SYMBOL = "💦";
 
     public const HEX = "1F4A6";

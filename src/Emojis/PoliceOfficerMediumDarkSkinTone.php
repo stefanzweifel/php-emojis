@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PoliceOfficerMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PoliceOfficerMediumDarkSkinTone
 {
+
     public const SYMBOL = "👮🏾";
 
     public const HEX = "1F46E 1F3FE";

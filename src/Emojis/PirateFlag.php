@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PirateFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PirateFlag
 {
+
     public const SYMBOL = "🏴‍☠️";
 
     public const HEX = "1F3F4 200D 2620 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagUsVirginIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagUsVirginIslands
 {
+
     public const SYMBOL = "🇻🇮";
 
     public const HEX = "1F1FB 1F1EE";

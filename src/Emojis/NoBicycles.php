@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NoBicycles Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NoBicycles
 {
+
     public const SYMBOL = "🚳";
 
     public const HEX = "1F6B3";

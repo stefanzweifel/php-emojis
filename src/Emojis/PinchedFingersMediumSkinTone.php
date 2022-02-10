@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PinchedFingersMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PinchedFingersMediumSkinTone
 {
+
     public const SYMBOL = "🤌🏽";
 
     public const HEX = "1F90C 1F3FD";

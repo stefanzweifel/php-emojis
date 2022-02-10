@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNiger Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNiger
 {
+
     public const SYMBOL = "🇳🇪";
 
     public const HEX = "1F1F3 1F1EA";

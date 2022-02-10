@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PregnantWoman Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PregnantWoman
 {
+
     public const SYMBOL = "🤰";
 
     public const HEX = "1F930";

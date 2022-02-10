@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteMediumSmallSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteMediumSmallSquare
 {
+
     public const SYMBOL = "◽";
 
     public const HEX = "25FD";

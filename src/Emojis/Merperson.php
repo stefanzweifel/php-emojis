@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Merperson Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Merperson
 {
+
     public const SYMBOL = "🧜";
 
     public const HEX = "1F9DC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MeatOnBone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MeatOnBone
 {
+
     public const SYMBOL = "🍖";
 
     public const HEX = "1F356";

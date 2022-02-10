@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Keycap7 Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Keycap7
 {
+
     public const SYMBOL = "7️⃣";
 
     public const HEX = "0037 FE0F 20E3";

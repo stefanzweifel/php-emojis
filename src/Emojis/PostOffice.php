@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PostOffice Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PostOffice
 {
+
     public const SYMBOL = "🏤";
 
     public const HEX = "1F3E4";

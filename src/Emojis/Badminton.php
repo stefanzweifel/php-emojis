@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Badminton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Badminton
 {
+
     public const SYMBOL = "🏸";
 
     public const HEX = "1F3F8";

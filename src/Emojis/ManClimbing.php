@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManClimbing Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManClimbing
 {
+
     public const SYMBOL = "🧗‍♂️";
 
     public const HEX = "1F9D7 200D 2642 FE0F";

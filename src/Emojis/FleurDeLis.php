@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FleurDeLis Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FleurDeLis
 {
+
     public const SYMBOL = "⚜️";
 
     public const HEX = "269C FE0F";

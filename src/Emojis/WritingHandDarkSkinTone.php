@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WritingHandDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WritingHandDarkSkinTone
 {
+
     public const SYMBOL = "✍🏿";
 
     public const HEX = "270D 1F3FF";

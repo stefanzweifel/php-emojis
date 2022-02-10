@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanWearingTurban Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanWearingTurban
 {
+
     public const SYMBOL = "👳‍♀️";
 
     public const HEX = "1F473 200D 2640 FE0F";

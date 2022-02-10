@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SantaClausLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SantaClausLightSkinTone
 {
+
     public const SYMBOL = "🎅🏻";
 
     public const HEX = "1F385 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Watch Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Watch
 {
+
     public const SYMBOL = "⌚";
 
     public const HEX = "231A";

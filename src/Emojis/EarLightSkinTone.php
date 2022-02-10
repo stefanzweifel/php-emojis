@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EarLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EarLightSkinTone
 {
+
     public const SYMBOL = "👂🏻";
 
     public const HEX = "1F442 1F3FB";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagKenya Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagKenya
 {
+
     public const SYMBOL = "🇰🇪";
 
     public const HEX = "1F1F0 1F1EA";

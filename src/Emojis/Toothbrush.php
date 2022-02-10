@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Toothbrush Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Toothbrush
 {
+
     public const SYMBOL = "🪥";
 
     public const HEX = "1FAA5";

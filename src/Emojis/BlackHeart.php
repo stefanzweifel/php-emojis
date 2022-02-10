@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BlackHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BlackHeart
 {
+
     public const SYMBOL = "🖤";
 
     public const HEX = "1F5A4";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonBouncingBallMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonBouncingBallMediumDarkSkinTone
 {
+
     public const SYMBOL = "⛹🏾";
 
     public const HEX = "26F9 1F3FE";

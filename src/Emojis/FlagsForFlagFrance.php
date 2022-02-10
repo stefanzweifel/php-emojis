@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagFrance Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagFrance
 {
+
     public const SYMBOL = "🇫🇷";
 
     public const HEX = "1F1EB 1F1F7";

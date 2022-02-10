@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Baseball Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Baseball
 {
+
     public const SYMBOL = "⚾";
 
     public const HEX = "26BE";

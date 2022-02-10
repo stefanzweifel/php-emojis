@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Lion Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Lion
 {
+
     public const SYMBOL = "🦁";
 
     public const HEX = "1F981";

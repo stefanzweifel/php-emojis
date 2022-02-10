@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Fairy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Fairy
 {
+
     public const SYMBOL = "🧚";
 
     public const HEX = "1F9DA";

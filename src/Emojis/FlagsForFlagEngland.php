@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagEngland Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagEngland
 {
+
     public const SYMBOL = "🏴󠁧󠁢󠁥󠁮󠁧󠁿";
 
     public const HEX = "1F3F4 E0067 E0062 E0065 E006E E0067 E007F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Hole Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Hole
 {
+
     public const SYMBOL = "🕳️";
 
     public const HEX = "1F573 FE0F";

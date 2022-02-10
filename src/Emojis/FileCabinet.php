@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FileCabinet Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FileCabinet
 {
+
     public const SYMBOL = "🗄️";
 
     public const HEX = "1F5C4 FE0F";

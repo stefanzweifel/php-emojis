@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagEcuador Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagEcuador
 {
+
     public const SYMBOL = "🇪🇨";
 
     public const HEX = "1F1EA 1F1E8";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FilmProjector Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FilmProjector
 {
+
     public const SYMBOL = "📽️";
 
     public const HEX = "1F4FD FE0F";

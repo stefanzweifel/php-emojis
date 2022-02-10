@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Telephone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Telephone
 {
+
     public const SYMBOL = "☎️";
 
     public const HEX = "260E FE0F";

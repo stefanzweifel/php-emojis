@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonInSteamyRoom Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonInSteamyRoom
 {
+
     public const SYMBOL = "🧖";
 
     public const HEX = "1F9D6";

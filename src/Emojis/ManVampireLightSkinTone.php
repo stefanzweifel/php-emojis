@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManVampireLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManVampireLightSkinTone
 {
+
     public const SYMBOL = "🧛🏻‍♂️";
 
     public const HEX = "1F9DB 1F3FB 200D 2642 FE0F";

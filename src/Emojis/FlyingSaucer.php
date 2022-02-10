@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlyingSaucer Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlyingSaucer
 {
+
     public const SYMBOL = "🛸";
 
     public const HEX = "1F6F8";

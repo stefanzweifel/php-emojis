@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PoutingCat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PoutingCat
 {
+
     public const SYMBOL = "😾";
 
     public const HEX = "1F63E";

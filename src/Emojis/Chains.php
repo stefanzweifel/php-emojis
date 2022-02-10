@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Chains Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Chains
 {
+
     public const SYMBOL = "⛓️";
 
     public const HEX = "26D3 FE0F";

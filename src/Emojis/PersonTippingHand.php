@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonTippingHand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonTippingHand
 {
+
     public const SYMBOL = "💁";
 
     public const HEX = "1F481";

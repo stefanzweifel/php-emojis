@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FastUpButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FastUpButton
 {
+
     public const SYMBOL = "⏫";
 
     public const HEX = "23EB";

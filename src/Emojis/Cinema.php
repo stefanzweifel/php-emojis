@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Cinema Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Cinema
 {
+
     public const SYMBOL = "🎦";
 
     public const HEX = "1F3A6";

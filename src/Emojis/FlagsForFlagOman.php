@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagOman Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagOman
 {
+
     public const SYMBOL = "🇴🇲";
 
     public const HEX = "1F1F4 1F1F2";

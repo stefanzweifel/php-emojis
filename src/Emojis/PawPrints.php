@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PawPrints Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PawPrints
 {
+
     public const SYMBOL = "🐾";
 
     public const HEX = "1F43E";

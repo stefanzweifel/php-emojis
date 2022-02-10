@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanAstronaut Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanAstronaut
 {
+
     public const SYMBOL = "👩‍🚀";
 
     public const HEX = "1F469 200D 1F680";

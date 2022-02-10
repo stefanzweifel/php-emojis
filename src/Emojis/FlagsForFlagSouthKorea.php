@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagSouthKorea Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagSouthKorea
 {
+
     public const SYMBOL = "🇰🇷";
 
     public const HEX = "1F1F0 1F1F7";

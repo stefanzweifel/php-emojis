@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CheckMarkButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CheckMarkButton
 {
+
     public const SYMBOL = "✅";
 
     public const HEX = "2705";

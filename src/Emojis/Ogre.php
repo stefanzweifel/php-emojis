@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Ogre Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Ogre
 {
+
     public const SYMBOL = "👹";
 
     public const HEX = "1F479";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNewZealand Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNewZealand
 {
+
     public const SYMBOL = "🇳🇿";
 
     public const HEX = "1F1F3 1F1FF";

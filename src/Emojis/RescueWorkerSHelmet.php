@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RescueWorkerSHelmet Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RescueWorkerSHelmet
 {
+
     public const SYMBOL = "⛑️";
 
     public const HEX = "26D1 FE0F";

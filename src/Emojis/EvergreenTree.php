@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EvergreenTree Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EvergreenTree
 {
+
     public const SYMBOL = "🌲";
 
     public const HEX = "1F332";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanGolfingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanGolfingLightSkinTone
 {
+
     public const SYMBOL = "🏌🏻‍♀️";
 
     public const HEX = "1F3CC 1F3FB 200D 2640 FE0F";

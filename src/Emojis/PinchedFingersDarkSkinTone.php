@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PinchedFingersDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PinchedFingersDarkSkinTone
 {
+
     public const SYMBOL = "🤌🏿";
 
     public const HEX = "1F90C 1F3FF";

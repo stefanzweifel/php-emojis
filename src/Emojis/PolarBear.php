@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PolarBear Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PolarBear
 {
+
     public const SYMBOL = "🐻‍❄️";
 
     public const HEX = "1F43B 200D 2744 FE0F";

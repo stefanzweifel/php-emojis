@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ClappingHands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ClappingHands
 {
+
     public const SYMBOL = "👏";
 
     public const HEX = "1F44F";

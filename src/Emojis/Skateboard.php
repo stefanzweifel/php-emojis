@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Skateboard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Skateboard
 {
+
     public const SYMBOL = "🛹";
 
     public const HEX = "1F6F9";

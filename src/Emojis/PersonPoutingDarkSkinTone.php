@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonPoutingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonPoutingDarkSkinTone
 {
+
     public const SYMBOL = "🙎🏿";
 
     public const HEX = "1F64E 1F3FF";

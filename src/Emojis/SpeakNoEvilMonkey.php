@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SpeakNoEvilMonkey Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SpeakNoEvilMonkey
 {
+
     public const SYMBOL = "🙊";
 
     public const HEX = "1F64A";

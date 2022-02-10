@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BabyAngelLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BabyAngelLightSkinTone
 {
+
     public const SYMBOL = "👼🏻";
 
     public const HEX = "1F47C 1F3FB";

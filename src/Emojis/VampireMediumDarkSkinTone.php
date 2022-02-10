@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * VampireMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class VampireMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧛🏾";
 
     public const HEX = "1F9DB 1F3FE";

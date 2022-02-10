@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Magnet Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Magnet
 {
+
     public const SYMBOL = "🧲";
 
     public const HEX = "1F9F2";

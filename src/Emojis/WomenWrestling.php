@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomenWrestling Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomenWrestling
 {
+
     public const SYMBOL = "🤼‍♀️";
 
     public const HEX = "1F93C 200D 2640 FE0F";

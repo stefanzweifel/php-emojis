@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RolledUpNewspaper Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RolledUpNewspaper
 {
+
     public const SYMBOL = "🗞️";
 
     public const HEX = "1F5DE FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Honeybee Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Honeybee
 {
+
     public const SYMBOL = "🐝";
 
     public const HEX = "1F41D";

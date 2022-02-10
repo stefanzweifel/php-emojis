@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Stethoscope Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Stethoscope
 {
+
     public const SYMBOL = "🩺";
 
     public const HEX = "1FA7A";

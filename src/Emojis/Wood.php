@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Wood Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Wood
 {
+
     public const SYMBOL = "🪵";
 
     public const HEX = "1FAB5";

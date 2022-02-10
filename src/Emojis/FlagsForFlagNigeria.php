@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNigeria Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNigeria
 {
+
     public const SYMBOL = "🇳🇬";
 
     public const HEX = "1F1F3 1F1EC";

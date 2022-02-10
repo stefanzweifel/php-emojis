@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WoozyFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WoozyFace
 {
+
     public const SYMBOL = "🥴";
 
     public const HEX = "1F974";

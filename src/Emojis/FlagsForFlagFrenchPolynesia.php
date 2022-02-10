@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagFrenchPolynesia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagFrenchPolynesia
 {
+
     public const SYMBOL = "🇵🇫";
 
     public const HEX = "1F1F5 1F1EB";

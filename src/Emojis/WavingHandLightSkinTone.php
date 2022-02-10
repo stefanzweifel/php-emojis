@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WavingHandLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WavingHandLightSkinTone
 {
+
     public const SYMBOL = "👋🏻";
 
     public const HEX = "1F44B 1F3FB";

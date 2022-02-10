@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TakeoutBox Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TakeoutBox
 {
+
     public const SYMBOL = "🥡";
 
     public const HEX = "1F961";

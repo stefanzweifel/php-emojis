@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DeciduousTree Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DeciduousTree
 {
+
     public const SYMBOL = "🌳";
 
     public const HEX = "1F333";

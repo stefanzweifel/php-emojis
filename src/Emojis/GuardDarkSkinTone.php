@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GuardDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GuardDarkSkinTone
 {
+
     public const SYMBOL = "💂🏿";
 
     public const HEX = "1F482 1F3FF";

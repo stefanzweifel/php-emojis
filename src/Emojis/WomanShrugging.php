@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanShrugging Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanShrugging
 {
+
     public const SYMBOL = "🤷‍♀️";
 
     public const HEX = "1F937 200D 2640 FE0F";

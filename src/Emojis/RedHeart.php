@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RedHeart Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RedHeart
 {
+
     public const SYMBOL = "❤️";
 
     public const HEX = "2764 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagChristmasIsland Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagChristmasIsland
 {
+
     public const SYMBOL = "🇨🇽";
 
     public const HEX = "1F1E8 1F1FD";

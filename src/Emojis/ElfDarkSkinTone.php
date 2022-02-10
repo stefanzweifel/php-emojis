@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ElfDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ElfDarkSkinTone
 {
+
     public const SYMBOL = "🧝🏿";
 
     public const HEX = "1F9DD 1F3FF";

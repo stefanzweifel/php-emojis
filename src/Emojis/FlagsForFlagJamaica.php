@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagJamaica Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagJamaica
 {
+
     public const SYMBOL = "🇯🇲";
 
     public const HEX = "1F1EF 1F1F2";

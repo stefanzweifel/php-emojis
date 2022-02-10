@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Crab Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Crab
 {
+
     public const SYMBOL = "🦀";
 
     public const HEX = "1F980";

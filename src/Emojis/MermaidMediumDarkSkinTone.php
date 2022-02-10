@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MermaidMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MermaidMediumDarkSkinTone
 {
+
     public const SYMBOL = "🧜🏾‍♀️";
 
     public const HEX = "1F9DC 1F3FE 200D 2640 FE0F";

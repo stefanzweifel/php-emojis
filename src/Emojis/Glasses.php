@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Glasses Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Glasses
 {
+
     public const SYMBOL = "👓";
 
     public const HEX = "1F453";

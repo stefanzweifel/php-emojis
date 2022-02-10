@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagBrunei Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagBrunei
 {
+
     public const SYMBOL = "🇧🇳";
 
     public const HEX = "1F1E7 1F1F3";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bullseye Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bullseye
 {
+
     public const SYMBOL = "🎯";
 
     public const HEX = "1F3AF";

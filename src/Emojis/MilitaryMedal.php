@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MilitaryMedal Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MilitaryMedal
 {
+
     public const SYMBOL = "🎖️";
 
     public const HEX = "1F396 FE0F";

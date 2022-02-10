@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonLightSkinToneBlondHair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonLightSkinToneBlondHair
 {
+
     public const SYMBOL = "👱🏻";
 
     public const HEX = "1F471 1F3FB";

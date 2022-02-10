@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MoneyBag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MoneyBag
 {
+
     public const SYMBOL = "💰";
 
     public const HEX = "1F4B0";

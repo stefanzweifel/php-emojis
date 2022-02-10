@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PeaceSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PeaceSymbol
 {
+
     public const SYMBOL = "☮️";
 
     public const HEX = "262E FE0F";

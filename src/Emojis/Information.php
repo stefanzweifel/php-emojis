@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Information Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Information
 {
+
     public const SYMBOL = "ℹ️";
 
     public const HEX = "2139 FE0F";

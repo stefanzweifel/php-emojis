@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PartAlternationMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PartAlternationMark
 {
+
     public const SYMBOL = "〽️";
 
     public const HEX = "303D FE0F";

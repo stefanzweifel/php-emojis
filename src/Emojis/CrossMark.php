@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossMark Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossMark
 {
+
     public const SYMBOL = "❌";
 
     public const HEX = "274C";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Chair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Chair
 {
+
     public const SYMBOL = "🪑";
 
     public const HEX = "1FA91";

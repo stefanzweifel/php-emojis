@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Feather Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Feather
 {
+
     public const SYMBOL = "🪶";
 
     public const HEX = "1FAB6";

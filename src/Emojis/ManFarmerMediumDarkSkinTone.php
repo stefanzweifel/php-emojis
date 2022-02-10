@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFarmerMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFarmerMediumDarkSkinTone
 {
+
     public const SYMBOL = "👨🏾‍🌾";
 
     public const HEX = "1F468 1F3FE 200D 1F33E";

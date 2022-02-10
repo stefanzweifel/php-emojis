@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HealthWorkerMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HealthWorkerMediumSkinTone
 {
+
     public const SYMBOL = "🧑🏽‍⚕️";
 
     public const HEX = "1F9D1 1F3FD 200D 2695 FE0F";

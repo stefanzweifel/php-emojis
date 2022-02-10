@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EyeInSpeechBubble Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EyeInSpeechBubble
 {
+
     public const SYMBOL = "👁️‍🗨️";
 
     public const HEX = "1F441 FE0F 200D 1F5E8 FE0F";

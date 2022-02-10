@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * TramCar Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class TramCar
 {
+
     public const SYMBOL = "🚋";
 
     public const HEX = "1F68B";

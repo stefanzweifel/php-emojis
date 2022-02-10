@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * InputLatinLowercase Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class InputLatinLowercase
 {
+
     public const SYMBOL = "🔡";
 
     public const HEX = "1F521";

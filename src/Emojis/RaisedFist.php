@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RaisedFist Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RaisedFist
 {
+
     public const SYMBOL = "✊";
 
     public const HEX = "270A";

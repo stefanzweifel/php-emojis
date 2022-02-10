@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LoveHotel Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LoveHotel
 {
+
     public const SYMBOL = "🏩";
 
     public const HEX = "1F3E9";

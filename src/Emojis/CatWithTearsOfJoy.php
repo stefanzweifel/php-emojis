@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CatWithTearsOfJoy Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CatWithTearsOfJoy
 {
+
     public const SYMBOL = "😹";
 
     public const HEX = "1F639";

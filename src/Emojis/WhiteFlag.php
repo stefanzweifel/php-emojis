@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WhiteFlag Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WhiteFlag
 {
+
     public const SYMBOL = "🏳️";
 
     public const HEX = "1F3F3 FE0F";

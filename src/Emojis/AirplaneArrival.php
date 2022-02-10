@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AirplaneArrival Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AirplaneArrival
 {
+
     public const SYMBOL = "🛬";
 
     public const HEX = "1F6EC";

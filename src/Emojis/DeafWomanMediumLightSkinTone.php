@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DeafWomanMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DeafWomanMediumLightSkinTone
 {
+
     public const SYMBOL = "🧏🏼‍♀️";
 
     public const HEX = "1F9CF 1F3FC 200D 2640 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFirefighterMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFirefighterMediumDarkSkinTone
 {
+
     public const SYMBOL = "👩🏾‍🚒";
 
     public const HEX = "1F469 1F3FE 200D 1F692";

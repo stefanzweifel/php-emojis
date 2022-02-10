@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManSurfingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManSurfingLightSkinTone
 {
+
     public const SYMBOL = "🏄🏻‍♂️";
 
     public const HEX = "1F3C4 1F3FB 200D 2642 FE0F";

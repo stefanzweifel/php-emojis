@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MedicalSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MedicalSymbol
 {
+
     public const SYMBOL = "⚕️";
 
     public const HEX = "2695 FE0F";

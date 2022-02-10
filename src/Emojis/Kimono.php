@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Kimono Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Kimono
 {
+
     public const SYMBOL = "👘";
 
     public const HEX = "1F458";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanPilotLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanPilotLightSkinTone
 {
+
     public const SYMBOL = "👩🏻‍✈️";
 
     public const HEX = "1F469 1F3FB 200D 2708 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PregnantWomanMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PregnantWomanMediumLightSkinTone
 {
+
     public const SYMBOL = "🤰🏼";
 
     public const HEX = "1F930 1F3FC";

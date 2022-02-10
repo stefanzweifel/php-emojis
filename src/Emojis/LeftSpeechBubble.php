@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LeftSpeechBubble Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LeftSpeechBubble
 {
+
     public const SYMBOL = "🗨️";
 
     public const HEX = "1F5E8 FE0F";

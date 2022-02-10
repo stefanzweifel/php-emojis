@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * NewButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class NewButton
 {
+
     public const SYMBOL = "🆕";
 
     public const HEX = "1F195";

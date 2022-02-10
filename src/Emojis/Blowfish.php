@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Blowfish Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Blowfish
 {
+
     public const SYMBOL = "🐡";
 
     public const HEX = "1F421";

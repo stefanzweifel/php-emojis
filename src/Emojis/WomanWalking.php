@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanWalking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanWalking
 {
+
     public const SYMBOL = "🚶‍♀️";
 
     public const HEX = "1F6B6 200D 2640 FE0F";

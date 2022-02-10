@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomenWithBunnyEars Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomenWithBunnyEars
 {
+
     public const SYMBOL = "👯‍♀️";
 
     public const HEX = "1F46F 200D 2640 FE0F";

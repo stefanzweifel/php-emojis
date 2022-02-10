@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * EarWithHearingAidLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class EarWithHearingAidLightSkinTone
 {
+
     public const SYMBOL = "🦻🏻";
 
     public const HEX = "1F9BB 1F3FB";

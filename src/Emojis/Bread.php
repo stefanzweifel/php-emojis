@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bread Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bread
 {
+
     public const SYMBOL = "🍞";
 
     public const HEX = "1F35E";

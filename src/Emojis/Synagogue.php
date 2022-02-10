@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Synagogue Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Synagogue
 {
+
     public const SYMBOL = "🕍";
 
     public const HEX = "1F54D";

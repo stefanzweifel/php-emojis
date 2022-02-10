@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * YinYang Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class YinYang
 {
+
     public const SYMBOL = "☯️";
 
     public const HEX = "262F FE0F";

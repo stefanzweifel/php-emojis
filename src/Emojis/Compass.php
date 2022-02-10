@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Compass Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Compass
 {
+
     public const SYMBOL = "🧭";
 
     public const HEX = "1F9ED";

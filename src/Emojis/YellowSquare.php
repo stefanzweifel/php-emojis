@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * YellowSquare Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class YellowSquare
 {
+
     public const SYMBOL = "🟨";
 
     public const HEX = "1F7E8";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonBowingMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonBowingMediumLightSkinTone
 {
+
     public const SYMBOL = "🙇🏼";
 
     public const HEX = "1F647 1F3FC";

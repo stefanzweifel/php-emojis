@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LevelSlider Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LevelSlider
 {
+
     public const SYMBOL = "🎚️";
 
     public const HEX = "1F39A FE0F";

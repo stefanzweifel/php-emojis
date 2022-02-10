@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanLiftingWeightsMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanLiftingWeightsMediumDarkSkinTone
 {
+
     public const SYMBOL = "🏋🏾‍♀️";
 
     public const HEX = "1F3CB 1F3FE 200D 2640 FE0F";

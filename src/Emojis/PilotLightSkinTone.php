@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PilotLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PilotLightSkinTone
 {
+
     public const SYMBOL = "🧑🏻‍✈️";
 
     public const HEX = "1F9D1 1F3FB 200D 2708 FE0F";

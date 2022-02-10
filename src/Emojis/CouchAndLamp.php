@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CouchAndLamp Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CouchAndLamp
 {
+
     public const SYMBOL = "🛋️";
 
     public const HEX = "1F6CB FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FloppyDisk Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FloppyDisk
 {
+
     public const SYMBOL = "💾";
 
     public const HEX = "1F4BE";

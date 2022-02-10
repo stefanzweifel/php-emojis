@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagTunisia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagTunisia
 {
+
     public const SYMBOL = "🇹🇳";
 
     public const HEX = "1F1F9 1F1F3";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * IceCream Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class IceCream
 {
+
     public const SYMBOL = "🍨";
 
     public const HEX = "1F368";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagNorthernMarianaIslands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagNorthernMarianaIslands
 {
+
     public const SYMBOL = "🇲🇵";
 
     public const HEX = "1F1F2 1F1F5";

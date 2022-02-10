@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Eye Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Eye
 {
+
     public const SYMBOL = "👁️";
 
     public const HEX = "1F441 FE0F";

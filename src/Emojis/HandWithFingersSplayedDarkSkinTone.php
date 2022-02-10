@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HandWithFingersSplayedDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HandWithFingersSplayedDarkSkinTone
 {
+
     public const SYMBOL = "🖐🏿";
 
     public const HEX = "1F590 1F3FF";

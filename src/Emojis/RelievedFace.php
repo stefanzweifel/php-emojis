@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RelievedFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RelievedFace
 {
+
     public const SYMBOL = "😌";
 
     public const HEX = "1F60C";

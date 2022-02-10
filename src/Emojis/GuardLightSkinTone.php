@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * GuardLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class GuardLightSkinTone
 {
+
     public const SYMBOL = "💂🏻";
 
     public const HEX = "1F482 1F3FB";

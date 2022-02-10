@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * UpLeftArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class UpLeftArrow
 {
+
     public const SYMBOL = "↖️";
 
     public const HEX = "2196 FE0F";

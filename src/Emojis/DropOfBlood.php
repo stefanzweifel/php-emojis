@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DropOfBlood Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DropOfBlood
 {
+
     public const SYMBOL = "🩸";
 
     public const HEX = "1FA78";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCentralAfricanRepublic Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCentralAfricanRepublic
 {
+
     public const SYMBOL = "🇨🇫";
 
     public const HEX = "1F1E8 1F1EB";

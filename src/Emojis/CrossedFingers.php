@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossedFingers Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossedFingers
 {
+
     public const SYMBOL = "🤞";
 
     public const HEX = "1F91E";

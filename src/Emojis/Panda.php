@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Panda Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Panda
 {
+
     public const SYMBOL = "🐼";
 
     public const HEX = "1F43C";

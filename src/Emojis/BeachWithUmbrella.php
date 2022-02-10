@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BeachWithUmbrella Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BeachWithUmbrella
 {
+
     public const SYMBOL = "🏖️";
 
     public const HEX = "1F3D6 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Koala Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Koala
 {
+
     public const SYMBOL = "🐨";
 
     public const HEX = "1F428";

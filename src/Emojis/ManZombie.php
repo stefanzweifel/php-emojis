@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManZombie Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManZombie
 {
+
     public const SYMBOL = "🧟‍♂️";
 
     public const HEX = "1F9DF 200D 2642 FE0F";

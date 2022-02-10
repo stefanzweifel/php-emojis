@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SoonArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SoonArrow
 {
+
     public const SYMBOL = "🔜";
 
     public const HEX = "1F51C";

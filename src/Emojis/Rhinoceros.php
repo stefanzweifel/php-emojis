@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Rhinoceros Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Rhinoceros
 {
+
     public const SYMBOL = "🦏";
 
     public const HEX = "1F98F";

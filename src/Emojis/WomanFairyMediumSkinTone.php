@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanFairyMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanFairyMediumSkinTone
 {
+
     public const SYMBOL = "🧚🏽‍♀️";
 
     public const HEX = "1F9DA 1F3FD 200D 2640 FE0F";

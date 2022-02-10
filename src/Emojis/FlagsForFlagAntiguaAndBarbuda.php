@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagAntiguaAndBarbuda Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagAntiguaAndBarbuda
 {
+
     public const SYMBOL = "🇦🇬";
 
     public const HEX = "1F1E6 1F1EC";

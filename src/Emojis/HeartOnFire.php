@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * HeartOnFire Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class HeartOnFire
 {
+
     public const SYMBOL = "❤️‍🔥";
 
     public const HEX = "2764 FE0F 200D 1F525";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BuildingConstruction Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BuildingConstruction
 {
+
     public const SYMBOL = "🏗️";
 
     public const HEX = "1F3D7 FE0F";

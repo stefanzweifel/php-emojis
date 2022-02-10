@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManGesturingOk Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManGesturingOk
 {
+
     public const SYMBOL = "🙆‍♂️";
 
     public const HEX = "1F646 200D 2642 FE0F";

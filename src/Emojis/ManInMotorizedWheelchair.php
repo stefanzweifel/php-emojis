@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManInMotorizedWheelchair Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManInMotorizedWheelchair
 {
+
     public const SYMBOL = "👨‍🦼";
 
     public const HEX = "1F468 200D 1F9BC";

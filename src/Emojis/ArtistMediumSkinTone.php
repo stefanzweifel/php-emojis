@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ArtistMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ArtistMediumSkinTone
 {
+
     public const SYMBOL = "🧑🏽‍🎨";
 
     public const HEX = "1F9D1 1F3FD 200D 1F3A8";

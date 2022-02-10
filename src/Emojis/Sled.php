@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sled Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sled
 {
+
     public const SYMBOL = "🛷";
 
     public const HEX = "1F6F7";

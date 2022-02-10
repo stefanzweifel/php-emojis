@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Sunflower Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Sunflower
 {
+
     public const SYMBOL = "🌻";
 
     public const HEX = "1F33B";

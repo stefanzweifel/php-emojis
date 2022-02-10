@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BallotBoxWithBallot Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BallotBoxWithBallot
 {
+
     public const SYMBOL = "🗳️";
 
     public const HEX = "1F5F3 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManJudge Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManJudge
 {
+
     public const SYMBOL = "👨‍⚖️";
 
     public const HEX = "1F468 200D 2696 FE0F";

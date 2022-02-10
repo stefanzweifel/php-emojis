@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Briefs Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Briefs
 {
+
     public const SYMBOL = "🩲";
 
     public const HEX = "1FA72";

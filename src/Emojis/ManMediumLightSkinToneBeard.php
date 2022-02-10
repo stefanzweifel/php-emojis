@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManMediumLightSkinToneBeard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManMediumLightSkinToneBeard
 {
+
     public const SYMBOL = "🧔🏼‍♂️";
 
     public const HEX = "1F9D4 1F3FC 200D 2642 FE0F";

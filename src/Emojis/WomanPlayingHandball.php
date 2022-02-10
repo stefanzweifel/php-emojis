@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanPlayingHandball Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanPlayingHandball
 {
+
     public const SYMBOL = "🤾‍♀️";
 
     public const HEX = "1F93E 200D 2640 FE0F";

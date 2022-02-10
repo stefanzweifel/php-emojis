@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanHealthWorkerMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanHealthWorkerMediumDarkSkinTone
 {
+
     public const SYMBOL = "👩🏾‍⚕️";
 
     public const HEX = "1F469 1F3FE 200D 2695 FE0F";

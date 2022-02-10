@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManGenie Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManGenie
 {
+
     public const SYMBOL = "🧞‍♂️";
 
     public const HEX = "1F9DE 200D 2642 FE0F";

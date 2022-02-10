@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * JapaneseSymbolForBeginner Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class JapaneseSymbolForBeginner
 {
+
     public const SYMBOL = "🔰";
 
     public const HEX = "1F530";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagPalau Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagPalau
 {
+
     public const SYMBOL = "🇵🇼";
 
     public const HEX = "1F1F5 1F1FC";

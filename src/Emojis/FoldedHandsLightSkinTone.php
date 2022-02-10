@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FoldedHandsLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FoldedHandsLightSkinTone
 {
+
     public const SYMBOL = "🙏🏻";
 
     public const HEX = "1F64F 1F3FB";

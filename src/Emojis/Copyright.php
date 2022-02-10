@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Copyright Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Copyright
 {
+
     public const SYMBOL = "©️";
 
     public const HEX = "00A9 FE0F";

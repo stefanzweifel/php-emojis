@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Tent Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Tent
 {
+
     public const SYMBOL = "⛺";
 
     public const HEX = "26FA";

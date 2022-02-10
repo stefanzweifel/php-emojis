@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SmirkingFace Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SmirkingFace
 {
+
     public const SYMBOL = "😏";
 
     public const HEX = "1F60F";

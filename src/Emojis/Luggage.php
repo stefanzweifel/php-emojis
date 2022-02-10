@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Luggage Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Luggage
 {
+
     public const SYMBOL = "🧳";
 
     public const HEX = "1F9F3";

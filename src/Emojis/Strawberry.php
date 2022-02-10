@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Strawberry Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Strawberry
 {
+
     public const SYMBOL = "🍓";
 
     public const HEX = "1F353";

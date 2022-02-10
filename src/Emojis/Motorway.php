@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Motorway Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Motorway
 {
+
     public const SYMBOL = "🛣️";
 
     public const HEX = "1F6E3 FE0F";

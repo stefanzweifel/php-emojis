@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Lungs Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Lungs
 {
+
     public const SYMBOL = "🫁";
 
     public const HEX = "1FAC1";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManPilotDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManPilotDarkSkinTone
 {
+
     public const SYMBOL = "👨🏿‍✈️";
 
     public const HEX = "1F468 1F3FF 200D 2708 FE0F";

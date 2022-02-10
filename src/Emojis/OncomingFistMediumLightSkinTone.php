@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OncomingFistMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OncomingFistMediumLightSkinTone
 {
+
     public const SYMBOL = "👊🏼";
 
     public const HEX = "1F44A 1F3FC";

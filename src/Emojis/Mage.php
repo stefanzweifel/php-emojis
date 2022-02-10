@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Mage Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Mage
 {
+
     public const SYMBOL = "🧙";
 
     public const HEX = "1F9D9";

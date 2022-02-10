@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCaribbeanNetherlands Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCaribbeanNetherlands
 {
+
     public const SYMBOL = "🇧🇶";
 
     public const HEX = "1F1E7 1F1F6";

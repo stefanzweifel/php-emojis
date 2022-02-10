@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Dress Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Dress
 {
+
     public const SYMBOL = "👗";
 
     public const HEX = "1F457";

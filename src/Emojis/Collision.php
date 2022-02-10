@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Collision Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Collision
 {
+
     public const SYMBOL = "💥";
 
     public const HEX = "1F4A5";

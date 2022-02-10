@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ThumbsUpLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ThumbsUpLightSkinTone
 {
+
     public const SYMBOL = "👍🏻";
 
     public const HEX = "1F44D 1F3FB";

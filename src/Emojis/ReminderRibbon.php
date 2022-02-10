@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ReminderRibbon Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ReminderRibbon
 {
+
     public const SYMBOL = "🎗️";
 
     public const HEX = "1F397 FE0F";

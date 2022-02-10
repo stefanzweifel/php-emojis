@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCroatia Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCroatia
 {
+
     public const SYMBOL = "🇭🇷";
 
     public const HEX = "1F1ED 1F1F7";

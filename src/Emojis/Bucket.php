@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Bucket Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Bucket
 {
+
     public const SYMBOL = "🪣";
 
     public const HEX = "1FAA3";

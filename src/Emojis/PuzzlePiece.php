@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PuzzlePiece Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PuzzlePiece
 {
+
     public const SYMBOL = "🧩";
 
     public const HEX = "1F9E9";

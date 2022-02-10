@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LeftFacingFistMediumLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LeftFacingFistMediumLightSkinTone
 {
+
     public const SYMBOL = "🤛🏼";
 
     public const HEX = "1F91B 1F3FC";

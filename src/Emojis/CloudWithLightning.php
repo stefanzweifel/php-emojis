@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CloudWithLightning Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CloudWithLightning
 {
+
     public const SYMBOL = "🌩️";
 
     public const HEX = "1F329 FE0F";

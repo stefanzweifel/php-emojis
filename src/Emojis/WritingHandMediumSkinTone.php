@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WritingHandMediumSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WritingHandMediumSkinTone
 {
+
     public const SYMBOL = "✍🏽";
 
     public const HEX = "270D 1F3FD";

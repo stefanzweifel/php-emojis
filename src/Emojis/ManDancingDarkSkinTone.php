@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManDancingDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManDancingDarkSkinTone
 {
+
     public const SYMBOL = "🕺🏿";
 
     public const HEX = "1F57A 1F3FF";

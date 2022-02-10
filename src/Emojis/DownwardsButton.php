@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * DownwardsButton Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class DownwardsButton
 {
+
     public const SYMBOL = "🔽";
 
     public const HEX = "1F53D";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonBeard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonBeard
 {
+
     public const SYMBOL = "🧔";
 
     public const HEX = "1F9D4";

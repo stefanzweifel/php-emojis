@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManGesturingNoLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManGesturingNoLightSkinTone
 {
+
     public const SYMBOL = "🙅🏻‍♂️";
 
     public const HEX = "1F645 1F3FB 200D 2642 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FaceExhaling Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FaceExhaling
 {
+
     public const SYMBOL = "😮‍💨";
 
     public const HEX = "1F62E 200D 1F4A8";

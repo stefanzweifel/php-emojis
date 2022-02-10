@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BowAndArrow Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BowAndArrow
 {
+
     public const SYMBOL = "🏹";
 
     public const HEX = "1F3F9";

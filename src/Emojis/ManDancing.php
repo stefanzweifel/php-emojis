@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManDancing Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManDancing
 {
+
     public const SYMBOL = "🕺";
 
     public const HEX = "1F57A";

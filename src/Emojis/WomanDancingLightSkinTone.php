@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanDancingLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanDancingLightSkinTone
 {
+
     public const SYMBOL = "💃🏻";
 
     public const HEX = "1F483 1F3FB";

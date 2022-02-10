@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagKuwait Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagKuwait
 {
+
     public const SYMBOL = "🇰🇼";
 
     public const HEX = "1F1F0 1F1FC";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Newspaper Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Newspaper
 {
+
     public const SYMBOL = "📰";
 
     public const HEX = "1F4F0";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagBelarus Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagBelarus
 {
+
     public const SYMBOL = "🇧🇾";
 
     public const HEX = "1F1E7 1F1FE";

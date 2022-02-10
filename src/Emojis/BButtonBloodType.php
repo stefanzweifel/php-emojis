@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * BButtonBloodType Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class BButtonBloodType
 {
+
     public const SYMBOL = "🅱️";
 
     public const HEX = "1F171 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanJudge Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanJudge
 {
+
     public const SYMBOL = "👩‍⚖️";
 
     public const HEX = "1F469 200D 2696 FE0F";

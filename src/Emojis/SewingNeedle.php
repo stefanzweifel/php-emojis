@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SewingNeedle Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SewingNeedle
 {
+
     public const SYMBOL = "🪡";
 
     public const HEX = "1FAA1";

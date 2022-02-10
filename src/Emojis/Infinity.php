@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Infinity Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Infinity
 {
+
     public const SYMBOL = "♾️";
 
     public const HEX = "267E FE0F";

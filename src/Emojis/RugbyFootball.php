@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * RugbyFootball Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class RugbyFootball
 {
+
     public const SYMBOL = "🏉";
 
     public const HEX = "1F3C9";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Judge Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Judge
 {
+
     public const SYMBOL = "🧑‍⚖️";
 
     public const HEX = "1F9D1 200D 2696 FE0F";

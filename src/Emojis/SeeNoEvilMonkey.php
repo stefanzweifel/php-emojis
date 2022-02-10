@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * SeeNoEvilMonkey Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class SeeNoEvilMonkey
 {
+
     public const SYMBOL = "🙈";
 
     public const HEX = "1F648";

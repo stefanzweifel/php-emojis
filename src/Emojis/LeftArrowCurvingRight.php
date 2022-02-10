@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LeftArrowCurvingRight Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LeftArrowCurvingRight
 {
+
     public const SYMBOL = "↪️";
 
     public const HEX = "21AA FE0F";

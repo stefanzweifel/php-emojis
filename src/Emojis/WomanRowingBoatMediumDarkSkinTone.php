@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanRowingBoatMediumDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanRowingBoatMediumDarkSkinTone
 {
+
     public const SYMBOL = "🚣🏾‍♀️";
 
     public const HEX = "1F6A3 1F3FE 200D 2640 FE0F";

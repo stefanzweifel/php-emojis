@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ThongSandal Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ThongSandal
 {
+
     public const SYMBOL = "🩴";
 
     public const HEX = "1FA74";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagMontenegro Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagMontenegro
 {
+
     public const SYMBOL = "🇲🇪";
 
     public const HEX = "1F1F2 1F1EA";

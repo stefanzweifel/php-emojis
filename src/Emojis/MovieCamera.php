@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MovieCamera Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MovieCamera
 {
+
     public const SYMBOL = "🎥";
 
     public const HEX = "1F3A5";

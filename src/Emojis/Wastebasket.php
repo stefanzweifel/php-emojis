@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Wastebasket Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Wastebasket
 {
+
     public const SYMBOL = "🗑️";
 
     public const HEX = "1F5D1 FE0F";

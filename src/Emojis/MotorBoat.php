@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * MotorBoat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class MotorBoat
 {
+
     public const SYMBOL = "🛥️";
 
     public const HEX = "1F6E5 FE0F";

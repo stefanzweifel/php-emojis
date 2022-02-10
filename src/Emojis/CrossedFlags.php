@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CrossedFlags Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CrossedFlags
 {
+
     public const SYMBOL = "🎌";
 
     public const HEX = "1F38C";

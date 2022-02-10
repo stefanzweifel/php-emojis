@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AngerSymbol Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AngerSymbol
 {
+
     public const SYMBOL = "💢";
 
     public const HEX = "1F4A2";

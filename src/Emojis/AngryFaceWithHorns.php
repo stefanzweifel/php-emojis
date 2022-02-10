@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AngryFaceWithHorns Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AngryFaceWithHorns
 {
+
     public const SYMBOL = "👿";
 
     public const HEX = "1F47F";

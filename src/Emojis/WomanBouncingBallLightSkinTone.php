@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * WomanBouncingBallLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class WomanBouncingBallLightSkinTone
 {
+
     public const SYMBOL = "⛹🏻‍♀️";
 
     public const HEX = "26F9 1F3FB 200D 2640 FE0F";

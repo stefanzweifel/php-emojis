@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Keyboard Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Keyboard
 {
+
     public const SYMBOL = "⌨️";
 
     public const HEX = "2328 FE0F";

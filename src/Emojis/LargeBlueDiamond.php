@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LargeBlueDiamond Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LargeBlueDiamond
 {
+
     public const SYMBOL = "🔷";
 
     public const HEX = "1F537";

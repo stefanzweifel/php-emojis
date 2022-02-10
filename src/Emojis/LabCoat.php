@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * LabCoat Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class LabCoat
 {
+
     public const SYMBOL = "🥼";
 
     public const HEX = "1F97C";

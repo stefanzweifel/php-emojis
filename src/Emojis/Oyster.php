@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Oyster Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Oyster
 {
+
     public const SYMBOL = "🦪";
 
     public const HEX = "1F9AA";

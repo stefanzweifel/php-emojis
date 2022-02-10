@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Joystick Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Joystick
 {
+
     public const SYMBOL = "🕹️";
 
     public const HEX = "1F579 FE0F";

@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * FlagsForFlagCeutaAndMelilla Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class FlagsForFlagCeutaAndMelilla
 {
+
     public const SYMBOL = "🇪🇦";
 
     public const HEX = "1F1EA 1F1E6";

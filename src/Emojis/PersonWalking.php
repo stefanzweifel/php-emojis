@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * PersonWalking Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class PersonWalking
 {
+
     public const SYMBOL = "🚶";
 
     public const HEX = "1F6B6";

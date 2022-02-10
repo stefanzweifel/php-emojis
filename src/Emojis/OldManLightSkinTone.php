@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * OldManLightSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class OldManLightSkinTone
 {
+
     public const SYMBOL = "👴🏻";
 
     public const HEX = "1F474 1F3FB";

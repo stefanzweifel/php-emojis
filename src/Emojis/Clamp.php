@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * Clamp Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class Clamp
 {
+
     public const SYMBOL = "🗜️";
 
     public const HEX = "1F5DC FE0F";

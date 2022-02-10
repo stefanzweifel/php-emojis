@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * CarouselHorse Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class CarouselHorse
 {
+
     public const SYMBOL = "🎠";
 
     public const HEX = "1F3A0";

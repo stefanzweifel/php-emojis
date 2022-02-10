@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * AbButtonBloodType Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class AbButtonBloodType
 {
+
     public const SYMBOL = "🆎";
 
     public const HEX = "1F18E";

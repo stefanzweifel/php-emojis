@@ -5,11 +5,12 @@ namespace Wnx\Emojis\Emojis;
 /**
  * ManFairyDarkSkinTone Emoji class.
  *
- * @version v13.1
+ * @version v14.0
  *
  **/
 class ManFairyDarkSkinTone
 {
+
     public const SYMBOL = "🧚🏿‍♂️";
 
     public const HEX = "1F9DA 1F3FF 200D 2642 FE0F";
